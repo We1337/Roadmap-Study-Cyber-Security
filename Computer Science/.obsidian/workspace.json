@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "10f5e2708983fa33",
+    "type": "split",
+    "children": [
+      {
+        "id": "17a51c6795fed8f5",
+        "type": "tabs",
+        "dimension": 68.63753213367609,
+        "children": [
+          {
+            "id": "2bb9d44fa8ff9abf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hash Table.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "b9f67551f408fb07"
+          }
+        ]
+      },
+      {
+        "id": "88a906fd27c95c18",
+        "type": "tabs",
+        "dimension": 31.362467866323907,
+        "children": [
+          {
+            "id": "7582255b14311eb2",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Hash Table.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              }
+            },
+            "group": "b9f67551f408fb07"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e7990ff5f5c62241",
+    "type": "split",
+    "children": [
+      {
+        "id": "3fedf9ae6455fa31",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a706bfe0b13bdcdc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9977cfe7252a1f23",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4521f5cc32063767",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "48aeeb166c443dfb",
+    "type": "split",
+    "children": [
+      {
+        "id": "26582e179b650f5a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a5aee8e8e65bebed",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Hash Table.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a64b07db93043dad",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Hash Table.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0ac6aa2327fe1d08",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6c1d657ec5fe2f46",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Hash Table.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "2bb9d44fa8ff9abf",
+  "lastOpenFiles": [
+    "Data Structures.md",
+    "Hash Table.md",
+    "Queue.md",
+    "Stack.md",
+    "Pick a Language.md",
+    "Computer Science.md",
+    "Linked List.md",
+    "Array.md"
+  ]
+}
