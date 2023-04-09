@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hash Table.md",
+                "file": "Binary Tree.md",
                 "mode": "source",
                 "source": false
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Hash Table.md",
+                "file": "Binary Tree.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -58,7 +58,7 @@
                   "linkStrength": 1,
                   "linkDistance": 250,
                   "scale": 1,
-                  "close": false
+                  "close": true
                 }
               }
             },
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hash Table.md",
+                "file": "Binary Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hash Table.md",
+                "file": "Binary Tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hash Table.md"
+                "file": "Binary Tree.md"
               }
             }
           }
@@ -194,6 +194,8 @@
   },
   "active": "2bb9d44fa8ff9abf",
   "lastOpenFiles": [
+    "Tree.md",
+    "Binary Tree.md",
     "Data Structures.md",
     "Hash Table.md",
     "Queue.md",
