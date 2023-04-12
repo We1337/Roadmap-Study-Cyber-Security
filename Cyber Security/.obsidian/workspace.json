@@ -6,6 +6,7 @@
       {
         "id": "489d438648897cea",
         "type": "tabs",
+        "dimension": 62.405446293494705,
         "children": [
           {
             "id": "a14cdefdf4c4b058",
@@ -18,6 +19,63 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7c4ffde51c4168b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "3faa805265d6bb27"
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "4ca2d3f248761651",
+        "type": "tabs",
+        "dimension": 37.594553706505295,
+        "children": [
+          {
+            "id": "c80f341edebb4417",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Notes.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
+              }
+            },
+            "group": "3faa805265d6bb27"
           }
         ]
       }
@@ -69,7 +127,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "69246bf9de75899b",
@@ -85,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber Security.md",
+                "file": "Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cyber Security.md",
+                "file": "Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cyber Security.md"
+                "file": "Notes.md"
               }
             }
           }
@@ -146,8 +205,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a14cdefdf4c4b058",
+  "active": "7c4ffde51c4168b2",
   "lastOpenFiles": [
+    "Basic BIOS Configurations.md",
+    "Notes.md",
     "Cyber Security.md"
   ]
 }
