@@ -33,8 +33,7 @@
             },
             "group": "3faa805265d6bb27"
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "4ca2d3f248761651",
@@ -127,8 +126,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "69246bf9de75899b",
@@ -144,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes.md",
+                "file": "Cyber Security.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes.md",
+                "file": "Cyber Security.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes.md"
+                "file": "Cyber Security.md"
               }
             }
           }
@@ -205,10 +203,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7c4ffde51c4168b2",
+  "active": "a14cdefdf4c4b058",
   "lastOpenFiles": [
-    "Basic BIOS Configurations.md",
     "Notes.md",
+    "Basic BIOS Configurations.md",
     "Cyber Security.md"
   ]
 }
