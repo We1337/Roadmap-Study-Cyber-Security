@@ -11,16 +11,16 @@
     -   [[BIOS Firmware Upgrades]]
     -   [[Enabling Virtualization Support]]
     -   [[Secure Boot _(Basic Understanding)_]]
--   **Hard Drive Basics**
-    -   Magnetic HDDs
-    -   SSDs
-    -   eMMC
-    -   Partitioning
-        -   FAT32
-        -   NTFS
-        -   ext2, ext3, ext4
-    -   MBR _(Legacy)_
-    -   EFI / UEFI
+-   **[[Hard Drive Basics]]**
+    -   [[Magnetic HDDs]]
+    -   [[SSDs]]
+    -   [[eMMC]]
+    -   [[Partitioning]]
+        -   [[FAT32]]
+        -   [[NTFS]]
+        -   [[ext2, ext3, ext4]]
+    -   [[MBR _(Legacy)_]]
+    -   [[EFI - UEFI]]
 -   **RAM**
     -   DDR1, DDR2, DDR3, DDR4
     -   Memory Speeds
