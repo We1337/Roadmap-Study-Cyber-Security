@@ -3,14 +3,14 @@
 ### Very Basic Computer Fundamentals
 
 -   **[[Basic BIOS Configurations]]**
-    -   Boot Sequence
-    -   Enabling / Disabling Devices
-    -   Changing Date / Time
-        -   CMOS Batteries
-    -   CPU Clockspeeds
-    -   BIOS Firmware Upgrades
-    -   Enabling Virtualization Support
-    -   Secure Boot _(Basic Understanding)_
+    -   [[Boot Sequence]]
+    -   [[Enabling - Disabling Devices]]
+    -   [[Changing Date - Time]]
+        -   [[CMOS Batteries]]
+    -   [[CPU Clockspeeds]]
+    -   [[BIOS Firmware Upgrades]]
+    -   [[Enabling Virtualization Support]]
+    -   [[Secure Boot _(Basic Understanding)_]]
 -   **Hard Drive Basics**
     -   Magnetic HDDs
     -   SSDs

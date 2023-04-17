@@ -6,29 +6,17 @@
       {
         "id": "489d438648897cea",
         "type": "tabs",
-        "dimension": 62.405446293494705,
+        "dimension": 64.41326530612244,
         "children": [
-          {
-            "id": "a14cdefdf4c4b058",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cyber Security.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
           {
             "id": "7c4ffde51c4168b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes.md",
+                "file": "Secure Boot _(Basic Understanding)_.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             },
             "group": "3faa805265d6bb27"
@@ -38,7 +26,7 @@
       {
         "id": "4ca2d3f248761651",
         "type": "tabs",
-        "dimension": 37.594553706505295,
+        "dimension": 35.58673469387755,
         "children": [
           {
             "id": "c80f341edebb4417",
@@ -46,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes.md",
+                "file": "Secure Boot _(Basic Understanding)_.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -142,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber Security.md",
+                "file": "Secure Boot _(Basic Understanding)_.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cyber Security.md",
+                "file": "Secure Boot _(Basic Understanding)_.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cyber Security.md"
+                "file": "Secure Boot _(Basic Understanding)_.md"
               }
             }
           }
@@ -203,10 +191,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a14cdefdf4c4b058",
+  "active": "7c4ffde51c4168b2",
   "lastOpenFiles": [
-    "Notes.md",
-    "Basic BIOS Configurations.md",
-    "Cyber Security.md"
+    "Clueless.md",
+    "Secure Boot _(Basic Understanding)_.md",
+    "Enabling Virtualization Support.md",
+    "Clueless/BIOS Firmware Upgrades.md",
+    "Clueless/CPU Clockspeeds.md",
+    "Clueless/CMOS Batteries.md",
+    "Clueless/Changing Date - Time.md",
+    "Changing Date /Time.md",
+    "Changing Date ",
+    "Clueless/Enabling - Disabling Devices.md",
+    "Cyber Security.md",
+    "Clueless",
+    "Enabling /Disabling Devices.md",
+    "Enabling ",
+    "Clueless/Basic BIOS Configurations.md",
+    "Clueless/Boot Sequence.md"
   ]
 }
