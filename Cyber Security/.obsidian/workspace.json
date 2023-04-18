@@ -4,12 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "489d438648897cea",
+        "id": "0ac32ecf248530e0",
         "type": "tabs",
-        "dimension": 64.41326530612244,
         "children": [
           {
-            "id": "7c4ffde51c4168b2",
+            "id": "fc6997f45b062ef6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,51 +17,7 @@
                 "mode": "preview",
                 "source": true
               }
-            },
-            "group": "3faa805265d6bb27"
-          }
-        ]
-      },
-      {
-        "id": "4ca2d3f248761651",
-        "type": "tabs",
-        "dimension": 35.58673469387755,
-        "children": [
-          {
-            "id": "c80f341edebb4417",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Clueless/Clueless.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": true
-                }
-              }
-            },
-            "group": "3faa805265d6bb27"
+            }
           }
         ]
       }
@@ -191,10 +146,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7c4ffde51c4168b2",
+  "active": "fc6997f45b062ef6",
   "lastOpenFiles": [
-    "Clueless/Hard Drive Basics/EFI - UEFI.md",
+    "Clueless/CPUs/MultiThreading vs. MultiProcessing.md",
     "Clueless/Clueless.md",
+    "Untitled.md",
+    "Clueless/CPUs/64bit CPUs.md",
+    "Clueless/CPUs/32bit CPUs.md",
+    "Clueless/CPUs/M1, M2.md",
+    "Clueless/CPUs",
+    "Clueless/CPUs/Arm.md",
+    "Clueless/CPUs/Ryzen 3, Ryzen 5, Ryzen 7, Ryzen 9.md",
+    "Clueless/CPUs/AMD.md",
+    "Clueless/CPUs/i3, i5, i7, i9.md",
+    "Clueless/CPUs/Intel.md",
+    "Clueless/CPUs/CPUs.md",
+    "Clueless/RAM/Memory Addressing.md",
+    "Clueless/RAM/Memory Speeds.md",
+    "Clueless/RAM/DDR1, DDR2, DDR3, DDR4, DDR5.md",
+    "Clueless/RAM",
+    "Clueless/RAM/RAM.md",
+    "Cyber Security.md",
+    "Clueless/Hard Drive Basics/EFI - UEFI.md",
     "EFI /UEFI.md",
     "EFI ",
     "Clueless/Hard Drive Basics/MBR _(Legacy)_.md",
@@ -204,24 +177,10 @@
     "Clueless/Basic Bios Configurations/Enabling Virtualization Support.md",
     "Clueless/Basic Bios Configurations/Enabling - Disabling Devices.md",
     "Clueless/Basic Bios Configurations/CPU Clockspeeds.md",
-    "Clueless/Basic Bios Configurations/CMOS Batteries.md",
-    "Clueless/Basic Bios Configurations/Changing Date - Time.md",
-    "Clueless/Basic Bios Configurations/Basic BIOS Configurations.md",
-    "Clueless/Basic Bios Configurations/BIOS Firmware Upgrades.md",
-    "Clueless/Basic Bios Configurations/Boot Sequence.md",
     "Clueless/Hard Drive Basics",
     "Clueless/Basic Bios Configurations",
-    "Clueless/Hard Drive Basics/Partitioning.md",
-    "Clueless/Hard Drive Basics/eMMC.md",
-    "Clueless/Hard Drive Basics/SSDs.md",
-    "Clueless/Hard Drive Basics/Magnetic HDDs.md",
-    "Clueless/Hard Drive Basics/Hard Drive Basics.md",
-    "Clueless/Basic Bios Configurations/Secure Boot _(Basic Understanding)_.md",
-    "Changing Date /Time.md",
     "Changing Date ",
-    "Cyber Security.md",
     "Clueless",
-    "Enabling /Disabling Devices.md",
     "Enabling "
   ]
 }

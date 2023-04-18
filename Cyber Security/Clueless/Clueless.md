@@ -21,18 +21,20 @@
         -   [[ext2, ext3, ext4]]
     -   [[MBR _(Legacy)_]]
     -   [[EFI - UEFI]]
--   **RAM**
-    -   DDR1, DDR2, DDR3, DDR4
-    -   Memory Speeds
-    -   Memory Addressing
--   **CPUs**
-    -   Intel
-        -   i3, i5, i7, i9
-    -   AMD
-        -   Ryzen 3, Ryzen 5, Ryzen 7, Ryzen 9
-    -   32bit CPUs
-    -   64bit CPUs
-    -   MultiThreading vs. MultiProcessing
+-   **[[RAM]]**
+    -   [[DDR1, DDR2, DDR3, DDR4, DDR5]]
+    -   [[Memory Speeds]]
+    -   [[Memory Addressing]]
+-   **[[CPUs]]**
+    -   [[Intel]]
+        -   [[i3, i5, i7, i9]]
+    -   [[AMD]]
+        -   [[Ryzen 3, Ryzen 5, Ryzen 7, Ryzen 9]]
+    -   [[Arm]]
+        -   [[M1, M2]]
+    -   [[32bit CPUs]]
+    -   [[64bit CPUs]]
+    -   [[MultiThreading vs. MultiProcessing]]
 -   **GPUs**
     -   Integrated vs. Discrete GPUs
     -   Ray Tracing

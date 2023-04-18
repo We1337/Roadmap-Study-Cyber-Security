@@ -1,0 +1,10 @@
+Memory addressing refers to the process by which a computer system identifies and accesses specific memory locations in its physical memory. Each memory location is assigned a unique address, which is used by the system to read from or write to that particular location.
+
+Memory addressing is essential for the proper functioning of a computer system, as it enables the CPU (Central Processing Unit) to retrieve and store data in memory for processing. The size of the memory address space, which is the range of memory addresses that the system can access, depends on the architecture and design of the computer system.
+
+There are two main types of memory addressing used in computer systems:
+
+1. Physical addressing: In physical addressing, the CPU directly accesses the physical memory addresses in the system's RAM (Random Access Memory). The CPU uses a memory address, typically represented in binary form, to access a specific memory location and retrieve or store data. Physical addressing is used in most computer systems for accessing system memory and other hardware devices directly connected to the system bus.
+2. Virtual addressing: In virtual addressing, the CPU uses virtual memory addresses that are mapped to physical memory addresses by a memory management unit (MMU) or similar hardware. Virtual addressing allows for the abstraction of physical memory, allowing processes to use a larger address space than the available physical memory. Virtual memory management techniques, such as paging or segmentation, are used to manage the translation of virtual addresses to physical addresses. Virtual addressing is widely used in modern computer systems to provide memory protection, memory sharing, and efficient memory management.
+
+Memory addressing is a complex process that involves coordination between the CPU, memory controller, MMU, and other hardware components. It plays a critical role in the overall performance and functionality of a computer system, and proper memory addressing is essential for efficient and reliable operation of computer systems.
