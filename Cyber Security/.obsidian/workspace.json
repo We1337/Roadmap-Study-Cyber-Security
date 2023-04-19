@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "69246bf9de75899b",
@@ -148,8 +149,11 @@
   },
   "active": "fc6997f45b062ef6",
   "lastOpenFiles": [
-    "Executables.md",
+    "Clueless/Common File Exstentions/-.sh.md",
     "Clueless/Clueless.md",
+    "Clueless/Common File Exstentions/-.o.md",
+    "Clueless/Common File Exstentions/-.exe.md",
+    "Executables.md",
     "Clueless/Common File Exstentions/Common File Exstentions.md",
     "Clueless/Common File Exstentions",
     "Clueless/Caching/Distributed Caching.md",
@@ -176,9 +180,6 @@
     "Clueless/CPUs/Arm.md",
     "Clueless/CPUs/Ryzen 3, Ryzen 5, Ryzen 7, Ryzen 9.md",
     "Clueless/CPUs/AMD.md",
-    "Clueless/CPUs/i3, i5, i7, i9.md",
-    "Clueless/CPUs/Intel.md",
-    "Clueless/RAM/Memory Addressing.md",
     "Clueless/RAM",
     "EFI ",
     "Clueless/Hard Drive Basics",
