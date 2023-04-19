@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ray Tracing.md",
-                "mode": "source",
+                "file": "Clueless/Clueless.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "69246bf9de75899b",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ray Tracing.md",
+                "file": "Clueless/Clueless.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ray Tracing.md",
+                "file": "Clueless/Clueless.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ray Tracing.md"
+                "file": "Clueless/Clueless.md"
               }
             }
           }
@@ -149,10 +148,24 @@
   },
   "active": "fc6997f45b062ef6",
   "lastOpenFiles": [
+    "Executables.md",
     "Clueless/Clueless.md",
-    "Ray Tracing.md",
-    "Integrated vs. Discrete GPUs.md",
-    "GPUs.md",
+    "Clueless/Common File Exstentions/Common File Exstentions.md",
+    "Clueless/Common File Exstentions",
+    "Clueless/Caching/Distributed Caching.md",
+    "Clueless/Caching/Application - Output Caching.md",
+    "Clueless/Caching",
+    "Clueless/GPUs/GPU Memory.md",
+    "Clueless/GPUs",
+    "Application/Output Caching.md",
+    "Application",
+    "Clueless/Caching/Data Caching.md",
+    "Clueless/Caching/Web Caching.md",
+    "Clueless/Caching/Caching.md",
+    "Clueless/GPUs/GPU Bandwidth.md",
+    "Clueless/GPUs/Ray Tracing.md",
+    "Clueless/GPUs/Integrated vs. Discrete GPUs.md",
+    "Clueless/GPUs/GPUs.md",
     "Clueless/CPUs/CPUs.md",
     "Clueless/CPUs/MultiThreading vs. MultiProcessing.md",
     "Untitled.md",
@@ -166,22 +179,10 @@
     "Clueless/CPUs/i3, i5, i7, i9.md",
     "Clueless/CPUs/Intel.md",
     "Clueless/RAM/Memory Addressing.md",
-    "Clueless/RAM/Memory Speeds.md",
-    "Clueless/RAM/DDR1, DDR2, DDR3, DDR4, DDR5.md",
     "Clueless/RAM",
-    "Clueless/RAM/RAM.md",
-    "Cyber Security.md",
-    "Clueless/Hard Drive Basics/EFI - UEFI.md",
-    "EFI /UEFI.md",
     "EFI ",
-    "Clueless/Hard Drive Basics/MBR _(Legacy)_.md",
-    "Clueless/Hard Drive Basics/ext2, ext3, ext4.md",
-    "Clueless/Hard Drive Basics/NTFS.md",
-    "Clueless/Hard Drive Basics/FAT32.md",
     "Clueless/Hard Drive Basics",
     "Clueless/Basic Bios Configurations",
-    "Changing Date ",
-    "Clueless",
-    "Enabling "
+    "Changing Date "
   ]
 }

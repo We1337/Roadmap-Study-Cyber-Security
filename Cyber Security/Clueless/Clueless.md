@@ -43,7 +43,7 @@
 -   **[[Caching]]**
     -   [[Web Caching]]
     -   [[Data Caching]]
-    -   [[Application/Output Caching]]
+    -   [[Application - Output Caching]]
     -   [[Distributed Caching]]
 -   **[[Common File Exstentions]]**
     -   [[Executables]]

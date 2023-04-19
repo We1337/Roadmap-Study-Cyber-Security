@@ -1,0 +1,13 @@
+Executables are files that contain machine code instructions that can be directly executed by a computer's central processing unit (CPU) to perform specific tasks or operations. Executable files typically have a specific file format that includes instructions, data, and other information required for the operating system to load and execute the program. Executables are used to run software applications, scripts, and other programs on a computer.
+
+There are different types of executables, depending on the operating system and the programming language used to create the software. Here are some common types of executable files:
+
+1. .exe (Windows Executable): This is the most common executable file format used in Windows operating systems. It contains compiled machine code instructions that can be executed by the Windows operating system. It is typically used for standalone desktop applications and command-line tools.
+2. .app (macOS Application): This is the executable file format used in macOS operating systems. It is typically used for standalone applications designed to run on macOS.
+3. .sh (Shell Script): This is a script file that contains shell commands, typically written in Bash or other shell scripting languages. Shell scripts are interpreted by the operating system's shell and do not require compilation.
+4. .bat (Batch Script): This is a script file that contains commands written in a batch scripting language, typically used in Windows operating systems. Batch scripts are interpreted by the Windows command prompt and are often used for automating tasks and running commands in sequence.
+5. .py (Python Script): This is a script file that contains Python programming code. Python scripts are interpreted by the Python interpreter and are used for writing scripts and small programs in the Python programming language.
+6. .jar (Java Archive): This is a file format used for Java applications, which contains compiled Java bytecode and other resources required for running Java programs. Java executable files are typically used for Java applications and require a Java Virtual Machine (JVM) to execute.
+7. .dll (Dynamic Link Library): This is a file format used in Windows operating systems for shared libraries, which contain compiled code that can be loaded dynamically by other programs at runtime. DLL files are commonly used for implementing shared functions and resources used by multiple programs.
+
+These are just a few examples of different types of executable files. Executables play a crucial role in running software and applications on computers, and they are an essential component of modern computing systems.
