@@ -11,8 +11,12 @@
             "id": "fc6997f45b062ef6",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Ray Tracing.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Ray Tracing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Ray Tracing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Ray Tracing.md"
+              }
             }
           }
         ]
@@ -141,8 +149,12 @@
   },
   "active": "fc6997f45b062ef6",
   "lastOpenFiles": [
-    "Clueless/CPUs/MultiThreading vs. MultiProcessing.md",
     "Clueless/Clueless.md",
+    "Ray Tracing.md",
+    "Integrated vs. Discrete GPUs.md",
+    "GPUs.md",
+    "Clueless/CPUs/CPUs.md",
+    "Clueless/CPUs/MultiThreading vs. MultiProcessing.md",
     "Untitled.md",
     "Clueless/CPUs/64bit CPUs.md",
     "Clueless/CPUs/32bit CPUs.md",
@@ -153,7 +165,6 @@
     "Clueless/CPUs/AMD.md",
     "Clueless/CPUs/i3, i5, i7, i9.md",
     "Clueless/CPUs/Intel.md",
-    "Clueless/CPUs/CPUs.md",
     "Clueless/RAM/Memory Addressing.md",
     "Clueless/RAM/Memory Speeds.md",
     "Clueless/RAM/DDR1, DDR2, DDR3, DDR4, DDR5.md",
@@ -167,9 +178,6 @@
     "Clueless/Hard Drive Basics/ext2, ext3, ext4.md",
     "Clueless/Hard Drive Basics/NTFS.md",
     "Clueless/Hard Drive Basics/FAT32.md",
-    "Clueless/Basic Bios Configurations/Enabling Virtualization Support.md",
-    "Clueless/Basic Bios Configurations/Enabling - Disabling Devices.md",
-    "Clueless/Basic Bios Configurations/CPU Clockspeeds.md",
     "Clueless/Hard Drive Basics",
     "Clueless/Basic Bios Configurations",
     "Changing Date ",
