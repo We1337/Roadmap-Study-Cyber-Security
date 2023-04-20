@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Clueless/Clueless.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -149,20 +149,24 @@
   },
   "active": "fc6997f45b062ef6",
   "lastOpenFiles": [
-    "Windows Compatibilitiy Mode.md",
+    "Clueless/Very Basic Networking Funadmentals",
+    "Clueless/Windows Operating System Essentials/Domains.md",
     "Clueless/Clueless.md",
-    "RegEdit.md",
-    "Registry.md",
-    "SAM File.md",
-    "HOSTS File.md",
-    "Network Interfaces.md",
-    "Domains.md",
-    "WorkGroups.md",
-    "Windows Home vs. Windows Pro.md",
-    "SMB _(Basic Understanding)_.md",
-    "LDAP _(Basic Understanding)_.md",
-    "Hyper-V _(Basic Understanding)_.md",
-    "-.NET _(Basic Understanding)_.md",
+    "Clueless/Windows Operating System Essentials/Basic Windows Features/Basic Windows Features.md",
+    "Clueless/Windows Operating System Essentials/Registry",
+    "Clueless/Windows Operating System Essentials/Basic Windows Features 1",
+    "Clueless/Windows Operating System Essentials/Windows Compatibilitiy Mode.md",
+    "Clueless/Windows Operating System Essentials/Registry/RegEdit.md",
+    "Clueless/Windows Operating System Essentials/Registry/Registry.md",
+    "Clueless/Windows Operating System Essentials/SAM File.md",
+    "Clueless/Windows Operating System Essentials/HOSTS File.md",
+    "Clueless/Windows Operating System Essentials/Network Interfaces.md",
+    "Clueless/Windows Operating System Essentials/WorkGroups.md",
+    "Clueless/Windows Operating System Essentials/Windows Home vs. Windows Pro.md",
+    "Clueless/Windows Operating System Essentials/Basic Windows Features/SMB _(Basic Understanding)_.md",
+    "Clueless/Windows Operating System Essentials/Basic Windows Features/LDAP _(Basic Understanding)_.md",
+    "Clueless/Windows Operating System Essentials/Basic Windows Features/Hyper-V _(Basic Understanding)_.md",
+    "Clueless/Windows Operating System Essentials/Basic Windows Features/-.NET _(Basic Understanding)_.md",
     "Clueless/Windows Operating System Essentials/Basic Windows Features",
     "Clueless/Windows Operating System Essentials/SysPrep/OOBE",
     "Clueless/Windows Operating System Essentials/SysPrep",
@@ -172,9 +176,6 @@
     "Clueless/Very Basic Computer Fundamentals/Common File Exstentions/RAIDs",
     "Clueless/Very Basic Computer Fundamentals/Common File Exstentions/Encoding",
     "Clueless/Very Basic Computer Fundamentals/Common File Exstentions/Key files",
-    "Clueless/Very Basic Computer Fundamentals/Common File Exstentions/Code files",
-    "Clueless/Very Basic Computer Fundamentals/Common File Exstentions/Document files",
-    "Basic Windows Features.md",
     "Clueless/Windows Operating System Essentials/msconfig.md",
     "Clueless/Windows Operating System Essentials/Task Manager.md",
     "Clueless/Windows Operating System Essentials/Device Manager.md",
@@ -183,7 +184,6 @@
     "Clueless/Windows Operating System Essentials/SysPrep/OOBE/Generalize.md",
     "Clueless/Windows Operating System Essentials/SysPrep/OOBE/OOBE.md",
     "Clueless/Windows Operating System Essentials/SysPrep/SysPrep.md",
-    "Clueless/Windows Operating System Essentials/Windows Update.md",
-    "Clueless/Windows Operating System Essentials/Windows Control Panel.md"
+    "Clueless/Windows Operating System Essentials/Windows Update.md"
   ]
 }
