@@ -88,30 +88,30 @@
 
 ## Windows Operating System Essentials
 
--   Windows Control Panel
--   Windows Update
--   SysPrep
-    -   OOBE
-        -   Generalize
-    -   Audit Mode
-    -   WIM Images
--   Device Manager
--   Task Manager
--   msconfig
--   **Basic Windows Features**
-    -   .NET _(Basic Understanding)_
-    -   Hyper-V _(Basic Understanding)_
-    -   LDAP _(Basic Understanding)_
-    -   SMB _(Basic Understanding)_
--   Windows Home vs. Windows Pro
--   WorkGroups
--   Domains
--   Network Interfaces
--   HOSTS File
--   SAM File
--   Registry
-    -   RegEdit
--   Windows Compatibilitiy Mode
+-   [[Windows Control Panel]]
+-   [[Windows Update]]
+-   [[SysPrep]]
+    -   [[OOBE]]
+        -   [[Generalize]]
+    -   [[Audit Mode]]
+    -   [[WIM Images]]
+-   [[Device Manager]]
+-   [[Task Manager]]
+-   [[msconfig]]
+-   **[[Basic Windows Features]]**
+    -   [[-.NET _(Basic Understanding)_]]
+    -   [[Hyper-V _(Basic Understanding)_]]
+    -   [[LDAP _(Basic Understanding)_]]
+    -   [[SMB _(Basic Understanding)_]]
+-   [[Windows Home vs. Windows Pro]]
+-   [[WorkGroups]]
+-   [[Domains]]
+-   [[Network Interfaces]]
+-   [[HOSTS File]]
+-   [[SAM File]]
+-   [[Registry]]
+    -   [[RegEdit]]
+-   [[Windows Compatibilitiy Mode]]
 
 ### Very Basic Networking Funadmentals
 
