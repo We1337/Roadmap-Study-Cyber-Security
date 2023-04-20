@@ -1,0 +1,11 @@
+RAID 1, also known as mirroring, is a RAID level that provides data redundancy by creating an exact copy, or mirror, of data on two or more disks. In RAID 1, data is duplicated across multiple disks, so that each disk contains an identical copy of the same data. This redundancy provides increased data protection, as even if one disk fails, the data can still be accessed from the remaining disks.
+
+In a RAID 1 array, when data is written to one disk, it is simultaneously written to the other disk(s) in the array, creating a real-time, synchronous mirror of the data. This means that in case of a disk failure, the RAID 1 array can continue to operate normally, as the data can be read from the remaining disks without any data loss or downtime.
+
+One of the main advantages of RAID 1 is its high level of data protection. RAID 1 provides fault tolerance, as the failure of any one disk in the array does not result in data loss or system downtime, since the data is available on the remaining disks. This makes RAID 1 suitable for applications where data integrity and availability are critical, such as in databases, file servers, and other mission-critical systems.
+
+Another advantage of RAID 1 is its simplicity. RAID 1 does not require complex data striping or parity calculations, making it easy to implement and manage. RAID 1 arrays can also be easily expanded by adding more disks, and the array can continue to operate even during the process of adding or replacing disks.
+
+However, RAID 1 has some downsides as well. One major drawback is its lower storage efficiency compared to other RAID levels. Since data is duplicated across multiple disks, the usable storage capacity in a RAID 1 array is limited to the capacity of a single disk. For example, in a two-disk RAID 1 array, only 50% of the total storage capacity is available for storing data, while the other 50% is used for redundancy.
+
+In summary, RAID 1 provides data redundancy and fault tolerance by creating a mirror of data on multiple disks, making it suitable for applications where data protection and availability are critical. However, it has lower storage efficiency compared to other RAID levels, and it is not as suitable for applications where maximizing storage capacity or performance is a priority.
