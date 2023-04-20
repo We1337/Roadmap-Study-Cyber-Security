@@ -14,12 +14,25 @@
               "type": "markdown",
               "state": {
                 "file": "Clueless/Clueless.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "74273b6035d77cf0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Data-Link Layer_.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "69246bf9de75899b",
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Clueless/Clueless.md",
+                "file": "_Data-Link Layer_.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Clueless/Clueless.md",
+                "file": "_Data-Link Layer_.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Clueless/Clueless.md"
+                "file": "_Data-Link Layer_.md"
               }
             }
           }
@@ -147,15 +159,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fc6997f45b062ef6",
+  "active": "74273b6035d77cf0",
   "lastOpenFiles": [
+    "Clueless/Clueless.md",
+    "_Data-Link Layer_.md",
+    "Clueless/Very Basic Networking Funadmentals/_Physical Layer_/Fiber Optics",
+    "Clueless/Very Basic Networking Funadmentals/_Physical Layer_/Fiber Optics/Multi-Mode.md",
+    "Clueless/Very Basic Networking Funadmentals/_Physical Layer_/Fiber Optics/Single Mode.md",
+    "Clueless/Very Basic Networking Funadmentals/_Physical Layer_/Fiber Optics/Fiber Optics.md",
+    "Clueless/Very Basic Networking Funadmentals/_Physical Layer_/Coaxial Cabling.md",
+    "Clueless/Very Basic Networking Funadmentals/_Physical Layer_/RJ45, Twisted Pairs.md",
+    "Clueless/Very Basic Networking Funadmentals/_Physical Layer_/_Physical Layer_.md",
+    "Clueless/Very Basic Networking Funadmentals/_Physical Layer_",
+    "Cyber Security.md",
+    "Clueless/Very Basic Networking Funadmentals/IPv4 vs IPv6.md",
+    "Clueless/Very Basic Networking Funadmentals/LAN vs. WAN vs. MAN.md",
+    "Clueless/Very Basic Networking Funadmentals/The OSI Model.md",
+    "Clueless/Very Basic Networking Funadmentals/Power Over Ethernet _(PoE)_.md",
+    "Clueless/Very Basic Networking Funadmentals/NAT vs. PAT.md",
+    "Clueless/Windows Operating System Essentials/Windows Compatibilitiy Mode.md",
     "Clueless/Very Basic Networking Funadmentals",
     "Clueless/Windows Operating System Essentials/Domains.md",
-    "Clueless/Clueless.md",
     "Clueless/Windows Operating System Essentials/Basic Windows Features/Basic Windows Features.md",
     "Clueless/Windows Operating System Essentials/Registry",
     "Clueless/Windows Operating System Essentials/Basic Windows Features 1",
-    "Clueless/Windows Operating System Essentials/Windows Compatibilitiy Mode.md",
     "Clueless/Windows Operating System Essentials/Registry/RegEdit.md",
     "Clueless/Windows Operating System Essentials/Registry/Registry.md",
     "Clueless/Windows Operating System Essentials/SAM File.md",
@@ -165,25 +192,10 @@
     "Clueless/Windows Operating System Essentials/Windows Home vs. Windows Pro.md",
     "Clueless/Windows Operating System Essentials/Basic Windows Features/SMB _(Basic Understanding)_.md",
     "Clueless/Windows Operating System Essentials/Basic Windows Features/LDAP _(Basic Understanding)_.md",
-    "Clueless/Windows Operating System Essentials/Basic Windows Features/Hyper-V _(Basic Understanding)_.md",
-    "Clueless/Windows Operating System Essentials/Basic Windows Features/-.NET _(Basic Understanding)_.md",
     "Clueless/Windows Operating System Essentials/Basic Windows Features",
     "Clueless/Windows Operating System Essentials/SysPrep/OOBE",
     "Clueless/Windows Operating System Essentials/SysPrep",
-    "Cyber Security.md",
     "Clueless/Windows Operating System Essentials",
-    "Clueless/Very Basic Computer Fundamentals",
-    "Clueless/Very Basic Computer Fundamentals/Common File Exstentions/RAIDs",
-    "Clueless/Very Basic Computer Fundamentals/Common File Exstentions/Encoding",
-    "Clueless/Very Basic Computer Fundamentals/Common File Exstentions/Key files",
-    "Clueless/Windows Operating System Essentials/msconfig.md",
-    "Clueless/Windows Operating System Essentials/Task Manager.md",
-    "Clueless/Windows Operating System Essentials/Device Manager.md",
-    "Clueless/Windows Operating System Essentials/SysPrep/WIM Images.md",
-    "Clueless/Windows Operating System Essentials/SysPrep/Audit Mode.md",
-    "Clueless/Windows Operating System Essentials/SysPrep/OOBE/Generalize.md",
-    "Clueless/Windows Operating System Essentials/SysPrep/OOBE/OOBE.md",
-    "Clueless/Windows Operating System Essentials/SysPrep/SysPrep.md",
-    "Clueless/Windows Operating System Essentials/Windows Update.md"
+    "Clueless/Very Basic Computer Fundamentals"
   ]
 }
