@@ -1,0 +1,7 @@
+FCS (Frame Check Sequence) and CRC (Cyclic Redundancy Check) are both methods used in data communication to ensure data integrity and detect errors in the data transmission process.
+
+FCS is a field in the data-link layer frame that contains a checksum value calculated based on the data in the frame. The sender computes the checksum value and appends it to the end of the frame before transmission. The receiver then recalculates the checksum based on the received data and compares it with the FCS field value in the received frame. If the values match, the data is assumed to be correct, and the frame is accepted. If the values do not match, an error is detected, and the frame is discarded.
+
+CRC is another error detection method that uses polynomial division to calculate a checksum value. Like FCS, the checksum value is appended to the data frame and is used by the receiver to verify the integrity of the data. The CRC method is widely used in Ethernet networks, and it is also used in other communication protocols.
+
+Both FCS and CRC are used to detect errors in data transmission, but CRC is generally considered to be more robust and efficient than FCS. CRC can detect more types of errors, including burst errors, and it requires less computation time than FCS. However, FCS is still used in some communication protocols and devices, and it is simpler to implement than CRC.

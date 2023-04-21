@@ -1,0 +1,7 @@
+TCP (Transmission Control Protocol) and UDP (User Datagram Protocol) are two protocols used at the Transport Layer of the OSI model. Both protocols are used for sending data over a network, but they have different characteristics that make them suitable for different applications.
+
+TCP is a connection-oriented protocol, which means that it establishes a reliable, virtual connection between two devices before transmitting data. TCP provides features such as flow control, congestion control, and error detection and correction to ensure that data is delivered reliably and completely. TCP is suitable for applications that require reliable data transfer, such as file transfers, email, and web browsing.
+
+UDP, on the other hand, is a connectionless protocol that does not establish a virtual connection before transmitting data. UDP does not provide any reliability mechanisms, so packets may be lost or delivered out of order. However, UDP is faster and more efficient than TCP, making it suitable for applications that require real-time data transfer, such as video streaming, online gaming, and voice over IP (VoIP).
+
+In summary, TCP provides reliable, ordered, and error-checked delivery of data between applications running on different devices, while UDP provides faster, less reliable data transfer. The choice of protocol depends on the specific requirements of the application and the characteristics of the network being used.

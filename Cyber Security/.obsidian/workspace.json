@@ -18,21 +18,8 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "74273b6035d77cf0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Data-Link Layer_.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Data-Link Layer_.md",
+                "file": "Clueless/Clueless.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Data-Link Layer_.md",
+                "file": "Clueless/Clueless.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Data-Link Layer_.md"
+                "file": "Clueless/Clueless.md"
               }
             }
           }
@@ -159,43 +146,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "74273b6035d77cf0",
+  "active": "c030f1cc639e139c",
   "lastOpenFiles": [
+    "Clueless/Very Basic Networking Funadmentals/WiFi Essentials/WiFi Security Basics _(Shared Key)_/WPS.md",
     "Clueless/Clueless.md",
-    "_Data-Link Layer_.md",
-    "Clueless/Very Basic Networking Funadmentals/_Physical Layer_/Fiber Optics",
-    "Clueless/Very Basic Networking Funadmentals/_Physical Layer_/Fiber Optics/Multi-Mode.md",
-    "Clueless/Very Basic Networking Funadmentals/_Physical Layer_/Fiber Optics/Single Mode.md",
-    "Clueless/Very Basic Networking Funadmentals/_Physical Layer_/Fiber Optics/Fiber Optics.md",
-    "Clueless/Very Basic Networking Funadmentals/_Physical Layer_/Coaxial Cabling.md",
-    "Clueless/Very Basic Networking Funadmentals/_Physical Layer_/RJ45, Twisted Pairs.md",
-    "Clueless/Very Basic Networking Funadmentals/_Physical Layer_/_Physical Layer_.md",
-    "Clueless/Very Basic Networking Funadmentals/_Physical Layer_",
-    "Cyber Security.md",
-    "Clueless/Very Basic Networking Funadmentals/IPv4 vs IPv6.md",
-    "Clueless/Very Basic Networking Funadmentals/LAN vs. WAN vs. MAN.md",
-    "Clueless/Very Basic Networking Funadmentals/The OSI Model.md",
-    "Clueless/Very Basic Networking Funadmentals/Power Over Ethernet _(PoE)_.md",
-    "Clueless/Very Basic Networking Funadmentals/NAT vs. PAT.md",
-    "Clueless/Windows Operating System Essentials/Windows Compatibilitiy Mode.md",
-    "Clueless/Very Basic Networking Funadmentals",
-    "Clueless/Windows Operating System Essentials/Domains.md",
-    "Clueless/Windows Operating System Essentials/Basic Windows Features/Basic Windows Features.md",
-    "Clueless/Windows Operating System Essentials/Registry",
-    "Clueless/Windows Operating System Essentials/Basic Windows Features 1",
-    "Clueless/Windows Operating System Essentials/Registry/RegEdit.md",
-    "Clueless/Windows Operating System Essentials/Registry/Registry.md",
-    "Clueless/Windows Operating System Essentials/SAM File.md",
-    "Clueless/Windows Operating System Essentials/HOSTS File.md",
-    "Clueless/Windows Operating System Essentials/Network Interfaces.md",
-    "Clueless/Windows Operating System Essentials/WorkGroups.md",
-    "Clueless/Windows Operating System Essentials/Windows Home vs. Windows Pro.md",
-    "Clueless/Windows Operating System Essentials/Basic Windows Features/SMB _(Basic Understanding)_.md",
-    "Clueless/Windows Operating System Essentials/Basic Windows Features/LDAP _(Basic Understanding)_.md",
-    "Clueless/Windows Operating System Essentials/Basic Windows Features",
-    "Clueless/Windows Operating System Essentials/SysPrep/OOBE",
-    "Clueless/Windows Operating System Essentials/SysPrep",
-    "Clueless/Windows Operating System Essentials",
-    "Clueless/Very Basic Computer Fundamentals"
+    "Clueless/Very Basic Networking Funadmentals/WiFi Essentials/WiFi Security Basics _(Shared Key)_/TKIP vs. AES.md",
+    "Clueless/Very Basic Networking Funadmentals/WiFi Essentials/WiFi Security Basics _(Shared Key)_/WPA1, WPA2.md",
+    "Clueless/Very Basic Networking Funadmentals/WiFi Essentials/WiFi Security Basics _(Shared Key)_/WEP.md",
+    "Clueless/Very Basic Networking Funadmentals/WiFi Essentials/WiFi Security Basics _(Shared Key)_/_(Shared Key)_.md",
+    "Clueless/Very Basic Networking Funadmentals/WiFi Essentials/WiFi Security Basics _(Shared Key)_",
+    "Clueless/Very Basic Networking Funadmentals/WiFi Essentials/WiFi Frequences/5.0GHz.md",
+    "Clueless/Very Basic Networking Funadmentals/WiFi Essentials/WiFi Frequences",
+    "Clueless/Very Basic Networking Funadmentals/WiFi Essentials/WiFi Frequences/2.4GHz.md",
+    "Clueless/Very Basic Networking Funadmentals/WiFi Essentials/WiFi Frequences/WiFi Frequences.md",
+    "Clueless/Very Basic Networking Funadmentals/WiFi Essentials/Ad Hoc Networking.md",
+    "Clueless/Very Basic Networking Funadmentals/WiFi Essentials/802.11.md",
+    "Clueless/Very Basic Networking Funadmentals/WiFi Essentials/Configuring Router's WiFi.md",
+    "Clueless/Very Basic Networking Funadmentals/WiFi Essentials",
+    "Clueless/Very Basic Networking Funadmentals/WiFi Essentials/WiFi Essentials.md",
+    "Clueless/Very Basic Networking Funadmentals/Domain Names.md",
+    "Clueless/Very Basic Networking Funadmentals/Email Technologies",
+    "Clueless/Very Basic Networking Funadmentals/Email Technologies/MX Records.md",
+    "Clueless/Very Basic Networking Funadmentals/Email Technologies/SPF Records.md",
+    "Clueless/Very Basic Networking Funadmentals/Email Technologies/POP3.md",
+    "Clueless/Very Basic Networking Funadmentals/Email Technologies/IMAP.md",
+    "Clueless/Very Basic Networking Funadmentals/Email Technologies/Exchange Servers.md",
+    "Clueless/Very Basic Networking Funadmentals/Email Technologies/Email Technologies.md",
+    "Clueless/Very Basic Networking Funadmentals/Layer 7 - _Application Layer_/FTP.md",
+    "Clueless/Very Basic Networking Funadmentals/Layer 7 - _Application Layer_/HTTP.md",
+    "Clueless/Very Basic Networking Funadmentals/Layer 7 - _Application Layer_/DNS.md",
+    "Clueless/Very Basic Networking Funadmentals/Layer 7 - _Application Layer_/_Application Layer_.md",
+    "Clueless/Very Basic Networking Funadmentals/Layer 6 - _Presentation Layer_/SSH.md",
+    "Clueless/Very Basic Networking Funadmentals/Layer 6 - _Presentation Layer_/TLS _(Basic Understanding)_.md",
+    "SSL ",
+    "Clueless/Very Basic Networking Funadmentals/Layer 4 - _Transport Layer_/Most Common Port Numbers",
+    "Clueless/Very Basic Networking Funadmentals/Layer 1 - _Physical Layer_/Fiber Optics",
+    "Clueless/Very Basic Networking Funadmentals/Layer 7 - _Application Layer_",
+    "Clueless/Very Basic Networking Funadmentals/Layer 6 - _Presentation Layer_",
+    "Clueless/Very Basic Networking Funadmentals/Layer 5 - _Session Layer_"
   ]
 }
