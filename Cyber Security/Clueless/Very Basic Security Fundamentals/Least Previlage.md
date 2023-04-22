@@ -1,0 +1,7 @@
+Least privilege is a security principle that states that users and processes should only be given the minimum level of access and permissions necessary to perform their tasks or functions. This principle is based on the idea that granting excessive permissions or privileges to users or processes increases the risk of security incidents or data breaches.
+
+In practice, least privilege means that users should only be given access to the resources and data they need to do their job, and no more. This might include restricting access to certain files or directories, limiting the ability to install software or make system-level changes, and enforcing strong password policies.
+
+Least privilege can be enforced using a variety of mechanisms, including access control lists (ACLs), role-based access control (RBAC), and mandatory access control (MAC) policies. These mechanisms can be used to limit user and process permissions and ensure that users only have access to the resources and data they need to perform their job.
+
+By following the principle of least privilege, organizations can significantly reduce the risk of security incidents and data breaches, as well as improve overall system performance and reliability.

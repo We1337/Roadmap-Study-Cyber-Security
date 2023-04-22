@@ -1,0 +1,7 @@
+Symmetric encryption is a type of encryption where the same key is used for both encryption and decryption of data. This means that the sender and receiver must share the same secret key and keep it confidential to prevent unauthorized access to the encrypted data.
+
+In symmetric encryption, the plaintext data is encrypted using an encryption algorithm that transforms the data into a scrambled format that cannot be read without the key. The encrypted data is then transmitted over a communication channel to the receiver, who uses the same key to decrypt the data and retrieve the original plaintext.
+
+Symmetric encryption algorithms are designed to be computationally efficient and are typically faster than asymmetric encryption algorithms, making them suitable for encrypting large amounts of data. Examples of symmetric encryption algorithms include Advanced Encryption Standard (AES), Data Encryption Standard (DES), and Triple DES (3DES).
+
+While symmetric encryption is a powerful and efficient encryption method, it is not without its limitations. The main limitation is the need for a secure method of key distribution between the sender and receiver. If the key is intercepted by an attacker, the encrypted data can be easily decrypted, rendering the encryption useless. Another limitation is the lack of a built-in method for ensuring the integrity and authenticity of the encrypted data, which can be addressed by using additional security measures such as digital signatures and message authentication codes.
