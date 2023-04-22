@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
+                "file": "Cyber Security/Clueless/Clueless.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Cyber Security/Clueless/Clueless.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Cyber Security/Clueless/Clueless.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Cyber Security/Clueless/Clueless.md"
               }
             }
           }
@@ -148,18 +148,41 @@
   },
   "active": "a6adb262cc60c95f",
   "lastOpenFiles": [
-    "Computer Science/Tree.md",
-    "Computer Science/Stack.md",
-    "Computer Science/Queue.md",
-    "Computer Science/Python for Everybody.md",
-    "Computer Science/Pick a Language.md",
-    "Computer Science/OSSU CS Timeline.md",
-    "Computer Science/Linked List.md",
-    "Computer Science/Hash Table.md",
-    "Computer Science/Data Structures.md",
-    "Computer Science/Computer Science.md",
-    "Computer Science/Binary Tree.md",
-    "Computer Science/Array.md",
-    "Computer Science"
+    "Cyber Security/Clueless/IT Support Equipment/Basic Networking Equipment/RJ45 Wall Mounts.md",
+    "Cyber Security/Clueless/Clueless.md",
+    "Cyber Security/Clueless/IT Support Equipment/Basic Networking Equipment/RJ45 Wall Jacks.md",
+    "Cyber Security/Clueless/IT Support Equipment/Basic Networking Equipment/Drywall Saw.md",
+    "Cyber Security/Clueless/IT Support Equipment/Basic Networking Equipment/RJ45 Wire Tracer (Tone & Probe).md",
+    "Cyber Security/Clueless/IT Support Equipment/Basic Networking Equipment/RJ45 Modular Plug Tester.md",
+    "Cyber Security/Clueless/IT Support Equipment/Basic Networking Equipment/Ethernet Cable Crimpers.md",
+    "Cyber Security/Clueless/IT Support Equipment/Basic Networking Equipment/Box of Cat5e Cable.md",
+    "Cyber Security/Clueless/IT Support Equipment/Basic Networking Equipment/Out-of-Box Router _(for testing)_.md",
+    "Cyber Security/Clueless/IT Support Equipment/Basic Networking Equipment/Basic Networking Equipment.md",
+    "Cyber Security/Clueless/IT Support Equipment/Basic Networking Equipment",
+    "Cyber Security/Clueless/IT Support Equipment/Basic Must-Have Equipment/External Webcam.md",
+    "Cyber Security/Clueless/IT Support Equipment/Basic Must-Have Equipment/External Speakers _(Testing sound)_.md",
+    "Cyber Security/Clueless/IT Support Equipment/Basic Must-Have Equipment/USB-to-Bluetooth.md",
+    "Cyber Security/Clueless/IT Support Equipment/Basic Must-Have Equipment/USB-to-SD.md",
+    "Cyber Security/Clueless/IT Support Equipment/Basic Must-Have Equipment/USB-to-Ethernet.md",
+    "Cyber Security/Clueless/IT Support Equipment/Basic Must-Have Equipment/USB WiFi Dongle.md",
+    "Cyber Security/Clueless/IT Support Equipment/Basic Must-Have Equipment/Universal Laptop Charger.md",
+    "Cyber Security/Clueless/IT Support Equipment/Basic Must-Have Equipment/USB-C Converter.md",
+    "Cyber Security/Clueless/IT Support Equipment/Basic Must-Have Equipment/External CD-Rom Drive.md",
+    "Cyber Security/Clueless/IT Support Equipment/Basic Must-Have Equipment/USB Flash Drives.md",
+    "Cyber Security/Clueless/IT Support Equipment/Basic Must-Have Equipment/USB A-to-B Printer Cables.md",
+    "Cyber Security/Clueless/IT Support Equipment/Basic Must-Have Equipment/c13 Power Cords.md",
+    "Cyber Security/Clueless/IT Support Equipment/Basic Must-Have Equipment/PSU Cable Converters/Molex to SATA Power Adapter.md",
+    "Cyber Security/Clueless/IT Support Equipment/Basic Must-Have Equipment/PSU Cable Converters/Molex to 8-Pin PCIe.md",
+    "Cyber Security/Clueless/IT Support Equipment/Basic Must-Have Equipment/PSU Cable Converters/PSU Cable Converters.md",
+    "Cyber Security/Clueless/IT Support Equipment/Basic Must-Have Equipment/PSU Cable Converters",
+    "Cyber Security/Clueless/IT Support Equipment/Basic Must-Have Equipment/SATA Cables.md",
+    "Cyber Security/Clueless/IT Support Equipment/Basic Must-Have Equipment",
+    "Cyber Security/Clueless/IT Support Equipment",
+    "Cyber Security/Clueless/Tools/IT Support Software/Network Troubleshooting",
+    "Cyber Security/Clueless/Tools/IT Support Software/Computer Diagnositics & Repair/Hardware Diagnostic Utilities",
+    "sfc ",
+    "Cyber Security/Clueless/Tools/IT Support Software/Computer Diagnositics & Repair/Windows Recovery Tools",
+    "Cyber Security/Clueless/Tools/IT Support Software/Computer Diagnositics & Repair/Malware Removal Tools",
+    "Cyber Security/Clueless/Tools/IT Support Software/Computer Diagnositics & Repair/Reviewing System Logs _(Windows)_"
   ]
 }

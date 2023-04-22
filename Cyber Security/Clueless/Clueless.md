@@ -265,7 +265,7 @@
         -   [[JRT _(Junk Removal Tool)_]]
     -   [[Windows Recovery Tools]]
         -   [[chkdsk]]
-        -   [[sfc /scannow]]
+        -   [[sfc - scannow]]
         -   [[DISM.exe]]
         -   [[Safemode]]
         -   [[System Restore]]

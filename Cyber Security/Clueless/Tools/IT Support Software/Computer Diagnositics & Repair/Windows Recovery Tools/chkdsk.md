@@ -1,0 +1,5 @@
+CHKDSK stands for "check disk" and is a utility program built into the Windows operating system that is used to check for and repair errors on hard drives or other storage media. When you run CHKDSK, it will scan the file system and file metadata on the disk to check for errors, such as bad sectors, cross-linked files, and file system corruption.
+
+To run CHKDSK, you can open a command prompt and type "chkdsk" followed by the drive letter you want to check, for example "chkdsk C:". You can also run CHKDSK from the File Explorer by right-clicking on the drive you want to check, selecting "Properties," and then clicking on the "Tools" tab and selecting "Check" under the "Error checking" section.
+
+Note that CHKDSK can take some time to run, especially if it finds errors that need to be repaired, so be prepared to wait for it to complete. It's also a good idea to back up your important files before running CHKDSK, just in case anything goes wrong during the repair process.

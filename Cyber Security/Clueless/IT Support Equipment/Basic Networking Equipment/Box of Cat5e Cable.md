@@ -1,0 +1,7 @@
+A box of Cat5e cable typically contains a spool or reel of unshielded twisted pair (UTP) copper wire that is used for Ethernet networking. Cat5e cable is a popular choice for both residential and commercial installations, as it supports up to 1 Gigabit per second (Gbps) data transfer speeds over a distance of up to 100 meters (328 feet).
+
+The standard box of Cat5e cable contains 1000 feet of cable, although smaller or larger quantities may be available. The cable is typically solid-core, meaning it has a single strand of copper wire in each conductor, which makes it easier to terminate with connectors or to punch down into wall jacks or patch panels.
+
+Cat5e cable is used to connect devices such as computers, routers, switches, and network-attached storage (NAS) devices to each other and to the internet. It is also used to create local area networks (LANs) within homes or businesses.
+
+When installing Cat5e cable, it is important to follow best practices to ensure optimal performance and reliability. This includes avoiding sharp bends, avoiding running the cable parallel to power lines or other sources of electromagnetic interference (EMI), and using high-quality connectors and termination tools.
