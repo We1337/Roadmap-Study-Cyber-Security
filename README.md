@@ -8,6 +8,17 @@ This document outlines our organization's strategy for managing and improving ou
 
 The first step in our cybersecurity roadmap is to conduct a thorough risk assessment. This will involve identifying potential threats and vulnerabilities in our systems and processes, and prioritizing them based on their likelihood and potential impact.
 
+### How to use
+
+To open a vault in Obsidian, you can follow these steps:
+
+1. Open Obsidian on your computer.
+2. Click on the "Open another vault" button in the lower-left corner of the screen, or go to "File" > "Open another vault" in the menu bar.
+3. Select the folder that contains your vault, or select the ".obsidian" folder within your vault.
+4. Click "Open" to open the vault in Obsidian.
+
+Once your vault is open, you can start creating and editing notes, linking them together, and organizing them using hashtags and other features.
+
 ### Goals and Objectives
 
 Based on our risk assessment, we will establish goals and objectives for improving our security posture. These might include:
