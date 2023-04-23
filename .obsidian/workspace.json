@@ -146,10 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a6adb262cc60c95f",
+  "active": "fa69e08d272109f7",
   "lastOpenFiles": [
-    "Cyber Security/Clueless/IT Support Equipment/Basic Networking Equipment/RJ45 Wall Mounts.md",
+    "Cyber Security/Newbie/Newbie.md",
+    "Cyber Security/Newbie",
     "Cyber Security/Clueless/Clueless.md",
+    "Cyber Security/Clueless/IT Support Equipment/Basic Networking Equipment/RJ45 Wall Mounts.md",
     "Cyber Security/Clueless/IT Support Equipment/Basic Networking Equipment/RJ45 Wall Jacks.md",
     "Cyber Security/Clueless/IT Support Equipment/Basic Networking Equipment/Drywall Saw.md",
     "Cyber Security/Clueless/IT Support Equipment/Basic Networking Equipment/RJ45 Wire Tracer (Tone & Probe).md",
@@ -173,16 +175,13 @@
     "Cyber Security/Clueless/IT Support Equipment/Basic Must-Have Equipment/c13 Power Cords.md",
     "Cyber Security/Clueless/IT Support Equipment/Basic Must-Have Equipment/PSU Cable Converters/Molex to SATA Power Adapter.md",
     "Cyber Security/Clueless/IT Support Equipment/Basic Must-Have Equipment/PSU Cable Converters/Molex to 8-Pin PCIe.md",
-    "Cyber Security/Clueless/IT Support Equipment/Basic Must-Have Equipment/PSU Cable Converters/PSU Cable Converters.md",
     "Cyber Security/Clueless/IT Support Equipment/Basic Must-Have Equipment/PSU Cable Converters",
-    "Cyber Security/Clueless/IT Support Equipment/Basic Must-Have Equipment/SATA Cables.md",
     "Cyber Security/Clueless/IT Support Equipment/Basic Must-Have Equipment",
     "Cyber Security/Clueless/IT Support Equipment",
     "Cyber Security/Clueless/Tools/IT Support Software/Network Troubleshooting",
     "Cyber Security/Clueless/Tools/IT Support Software/Computer Diagnositics & Repair/Hardware Diagnostic Utilities",
     "sfc ",
     "Cyber Security/Clueless/Tools/IT Support Software/Computer Diagnositics & Repair/Windows Recovery Tools",
-    "Cyber Security/Clueless/Tools/IT Support Software/Computer Diagnositics & Repair/Malware Removal Tools",
-    "Cyber Security/Clueless/Tools/IT Support Software/Computer Diagnositics & Repair/Reviewing System Logs _(Windows)_"
+    "Cyber Security/Clueless/Tools/IT Support Software/Computer Diagnositics & Repair/Malware Removal Tools"
   ]
 }
