@@ -1,11 +1,11 @@
 # Table of Contents
 
 ## Popular Penetration Testing Tools
- * **Popular Penetration Testing Distros**
-    * Kali Linux
-    * Parrot
-    * BackBox
-    * BlackArch
+ * **[[Popular Penetration Testing Distros]]**
+    * [[Kali Linux]]
+    * [[Parrot]]
+    * [[BackBox]]
+    * [[BlackArch]]
  * **Web Applications Tools**
    * BurpSuite
    * Nikto

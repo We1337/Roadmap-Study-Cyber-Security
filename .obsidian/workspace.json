@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber Security/Clueless/Clueless.md",
-                "mode": "preview",
+                "file": "Cyber Security/Newbie/Newbie.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber Security/Clueless/Clueless.md",
+                "file": "Cyber Security/Newbie/Newbie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cyber Security/Clueless/Clueless.md",
+                "file": "Cyber Security/Newbie/Newbie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cyber Security/Clueless/Clueless.md"
+                "file": "Cyber Security/Newbie/Newbie.md"
               }
             }
           }
@@ -148,9 +148,14 @@
   },
   "active": "fa69e08d272109f7",
   "lastOpenFiles": [
+    "BlackArch.md",
     "Cyber Security/Newbie/Newbie.md",
-    "Cyber Security/Newbie",
+    "BackBox.md",
+    "Parrot.md",
+    "Kali Linux.md",
+    "Popular Penetration Testing Distros.md",
     "Cyber Security/Clueless/Clueless.md",
+    "Cyber Security/Newbie",
     "Cyber Security/Clueless/IT Support Equipment/Basic Networking Equipment/RJ45 Wall Mounts.md",
     "Cyber Security/Clueless/IT Support Equipment/Basic Networking Equipment/RJ45 Wall Jacks.md",
     "Cyber Security/Clueless/IT Support Equipment/Basic Networking Equipment/Drywall Saw.md",
@@ -171,10 +176,6 @@
     "Cyber Security/Clueless/IT Support Equipment/Basic Must-Have Equipment/USB-C Converter.md",
     "Cyber Security/Clueless/IT Support Equipment/Basic Must-Have Equipment/External CD-Rom Drive.md",
     "Cyber Security/Clueless/IT Support Equipment/Basic Must-Have Equipment/USB Flash Drives.md",
-    "Cyber Security/Clueless/IT Support Equipment/Basic Must-Have Equipment/USB A-to-B Printer Cables.md",
-    "Cyber Security/Clueless/IT Support Equipment/Basic Must-Have Equipment/c13 Power Cords.md",
-    "Cyber Security/Clueless/IT Support Equipment/Basic Must-Have Equipment/PSU Cable Converters/Molex to SATA Power Adapter.md",
-    "Cyber Security/Clueless/IT Support Equipment/Basic Must-Have Equipment/PSU Cable Converters/Molex to 8-Pin PCIe.md",
     "Cyber Security/Clueless/IT Support Equipment/Basic Must-Have Equipment/PSU Cable Converters",
     "Cyber Security/Clueless/IT Support Equipment/Basic Must-Have Equipment",
     "Cyber Security/Clueless/IT Support Equipment",

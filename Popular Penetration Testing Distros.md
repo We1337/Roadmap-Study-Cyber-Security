@@ -1,0 +1,9 @@
+There are several popular penetration testing distros (short for "distributions") available, each with its own unique features and strengths. Some of the most well-known ones are:
+
+1. Kali Linux: Kali Linux is a Debian-based distro specifically designed for penetration testing and digital forensics. It comes preloaded with hundreds of tools for various aspects of penetration testing and is widely considered to be one of the most powerful and versatile distros available.
+2. Parrot Security OS: Parrot Security OS is another Debian-based distro that is geared towards penetration testing, but with a focus on usability and user-friendliness. It includes a wide range of tools for penetration testing, forensics, and privacy protection, and can be easily customized to suit the needs of different users.
+3. BlackArch Linux: BlackArch Linux is an Arch Linux-based distro that provides a large collection of penetration testing tools, with a focus on security research and ethical hacking. It is known for its lightweight and fast performance, as well as its easy-to-use package management system.
+4. BackBox Linux: BackBox Linux is an Ubuntu-based distro that comes with a curated selection of penetration testing tools, along with additional security and privacy features. It is designed to be easy to use, even for beginners, and is ideal for both personal and professional use.
+5. Pentoo: Pentoo is a Gentoo-based distro that is specifically tailored for penetration testing and security auditing. It includes a range of tools for network analysis, vulnerability assessment, and digital forensics, and can be used for both offensive and defensive security testing.
+
+Each of these distros has its own strengths and weaknesses, so it's important to choose the one that best suits your needs and level of experience.
