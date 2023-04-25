@@ -1,0 +1,6 @@
+Network-based tools are software tools that are designed to work with computer networks, either to monitor and analyze network traffic or to manage and control network resources. These tools can be broadly classified into two categories:
+
+1. Network Monitoring and Analysis Tools - These tools are used to monitor and analyze network traffic and performance. They capture packets that are transmitted over the network and analyze them to provide insights into the behavior of the network and its components. Some popular examples of network monitoring and analysis tools include Wireshark, tcpdump, and ntop.
+2. Network Management Tools - These tools are used to manage and control network resources, such as routers, switches, and servers. They can be used to configure network settings, monitor network performance, and troubleshoot network problems. Some popular examples of network management tools include Nagios, Cacti, and Zabbix.
+
+Network-based tools can be very useful for network administrators, security professionals, and developers, as they can help to detect and prevent network-related problems and vulnerabilities. However, like any other software tool, they should be used ethically and with permission from the owners of the network being monitored or managed.

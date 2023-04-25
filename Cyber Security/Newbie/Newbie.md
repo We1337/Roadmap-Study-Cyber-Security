@@ -22,15 +22,15 @@
          * [[Aquatone]]
          * [[EyeWitness]]
          * [[Hydra]]
- * **Network-Based Tools**
-   * nmap
-   * Netcat
-   * Wireshark
-   * curl
-      * **DNS Tools**
-        * dig
-        * dnsenum
-        * dnsrecon
+ * **[[Network-Based Tools]]**
+   * [[nmap]]
+   * [[Netcat]]
+   * [[Wireshark]]
+   * [[curl]]
+      * **[[DNS Tools]]**
+        * [[dig]]
+        * [[dnsenum]]
+        * [[dnsrecon]]
  * **Password Cracking Tools**
    * Hashcat
    * John the Ripper
