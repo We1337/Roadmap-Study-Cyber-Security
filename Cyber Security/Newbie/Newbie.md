@@ -6,22 +6,22 @@
     * [[Parrot]]
     * [[BackBox]]
     * [[BlackArch]]
- * **Web Applications Tools**
-   * BurpSuite
-   * Nikto
-   * Directory Busters
-     * Dirb
-     * Dirbuster
-   * SQLmap
-   * WPscan
-   * CMSmap
-   * w3af
-   * CeWL
-   * testssl.sh
+ * **[[Web Applications Tools]]**
+   * [[BurpSuite]]
+   * [[Nikto]]
+   * [[Directory Busters]]
+     * [[Dirb]]
+     * [[Dirbuster]]
+   * [[SQLmap]]
+   * [[WPscan]]
+   * [[CMSmap]]
+   * [[w3af]]
+   * [[CeWL]]
+   * [[testssl.sh]]
       * **Less-Used Web App Tools...*
-         * Aquatone
-         * EyeWitness
-         * Hydra
+         * [[Aquatone]]
+         * [[EyeWitness]]
+         * [[Hydra]]
  * **Network-Based Tools**
    * nmap
    * Netcat
