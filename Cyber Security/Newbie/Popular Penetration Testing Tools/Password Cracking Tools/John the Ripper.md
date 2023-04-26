@@ -1,0 +1,7 @@
+John the Ripper is another popular open-source password cracking tool that can be used for recovering lost or forgotten passwords, as well as for testing the strength of passwords. It is a command-line tool that runs on various operating systems, including Windows, Linux, and macOS.
+
+John the Ripper supports a wide range of password hash types, including traditional Unix-style DES and MD5 hashes, as well as more modern hashing algorithms such as SHA-1, SHA-256, and bcrypt. It can use various attack modes, including dictionary attacks, brute-force attacks, and hybrid attacks.
+
+One of the key features of John the Ripper is its ability to use external wordlists and rulesets to improve the efficiency of dictionary attacks. It also supports multi-core and distributed processing, allowing it to utilize the computing power of multiple CPUs and networked systems to speed up password cracking.
+
+John the Ripper is often used by security professionals and researchers to test the strength of passwords and to identify weak passwords that are vulnerable to cracking. However, it should only be used for legitimate purposes and with proper authorization. Using John the Ripper to crack passwords without permission is illegal and can result in serious consequences. It's important to use strong passwords and enable two-factor authentication where possible to protect your accounts from being hacked.

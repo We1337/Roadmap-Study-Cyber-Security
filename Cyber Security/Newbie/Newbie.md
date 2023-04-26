@@ -31,9 +31,9 @@
         * [[dig]]
         * [[dnsenum]]
         * [[dnsrecon]]
- * **Password Cracking Tools**
-   * Hashcat
-   * John the Ripper
+ * **[[Password Cracking Tools]]**
+   * [[Hashcat]]
+   * [[John the Ripper]]
  * **WiFi Hacking Tools**
    * airmon-ng
    * airodump-ng
