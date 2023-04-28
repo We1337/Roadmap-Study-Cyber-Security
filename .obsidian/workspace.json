@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Cyber Security/Newbie/Newbie.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -146,10 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a6adb262cc60c95f",
+  "active": "fa69e08d272109f7",
   "lastOpenFiles": [
-    "Cyber Security/Newbie/Popular Penetration Testing Tools/WiFi Hacking Tools/naive-hashcat.md",
+    "Reverse Engineering Tools.md",
     "Cyber Security/Newbie/Newbie.md",
+    "Reverse Engineering Tools",
+    "Cyber Security/Newbie/Popular Penetration Testing Tools/WiFi Hacking Tools/naive-hashcat.md",
     "Cyber Security/Newbie/Popular Penetration Testing Tools/WiFi Hacking Tools/aircrack-ng.md",
     "Cyber Security/Newbie/Popular Penetration Testing Tools/WiFi Hacking Tools/airodump-ng.md",
     "Cyber Security/Newbie/Popular Penetration Testing Tools/WiFi Hacking Tools/airmon-ng.md",
@@ -180,9 +182,7 @@
     "Cyber Security/Newbie/Popular Penetration Testing Tools/Web Applications Tools/CeWL.md",
     "Cyber Security/Newbie/Popular Penetration Testing Tools/Web Applications Tools/w3af.md",
     "Cyber Security/Newbie/Popular Penetration Testing Tools/Web Applications Tools/CMSmap.md",
-    "Cyber Security/Newbie/Popular Penetration Testing Tools/Web Applications Tools/WPscan.md",
     "Cyber Security/Newbie/Popular Penetration Testing Tools/Web Applications Tools/Directory Busters",
-    "Cyber Security/Newbie/Popular Penetration Testing Tools/Web Applications Tools",
-    "Cyber Security/Newbie/Popular Penetration Testing Tools/Popular Penetration Testing Distros"
+    "Cyber Security/Newbie/Popular Penetration Testing Tools/Web Applications Tools"
   ]
 }
