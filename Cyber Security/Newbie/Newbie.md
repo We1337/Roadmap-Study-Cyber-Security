@@ -41,7 +41,7 @@
    * [[naive-hashcat]]
  * **[[Reverse Engineering Tools]]**
    * **Linux-Based:**
-     * gdb
+     * [[gdb]]
      * Radare2
      * Hopper _($)_
      * file

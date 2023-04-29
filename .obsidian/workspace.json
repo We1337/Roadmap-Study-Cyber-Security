@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber Security/Newbie/Newbie.md",
+                "file": "gdb.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber Security/Newbie/Newbie.md",
+                "file": "gdb.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cyber Security/Newbie/Newbie.md",
+                "file": "gdb.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cyber Security/Newbie/Newbie.md"
+                "file": "gdb.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "fa69e08d272109f7",
   "lastOpenFiles": [
-    "Reverse Engineering Tools.md",
     "Cyber Security/Newbie/Newbie.md",
+    "gdb.md",
+    "Reverse Engineering Tools/Reverse Engineering Tools.md",
     "Reverse Engineering Tools",
     "Cyber Security/Newbie/Popular Penetration Testing Tools/WiFi Hacking Tools/naive-hashcat.md",
     "Cyber Security/Newbie/Popular Penetration Testing Tools/WiFi Hacking Tools/aircrack-ng.md",
@@ -181,7 +182,6 @@
     "Cyber Security/Newbie/Popular Penetration Testing Tools/Web Applications Tools/testssl.sh/testssl.sh.md",
     "Cyber Security/Newbie/Popular Penetration Testing Tools/Web Applications Tools/CeWL.md",
     "Cyber Security/Newbie/Popular Penetration Testing Tools/Web Applications Tools/w3af.md",
-    "Cyber Security/Newbie/Popular Penetration Testing Tools/Web Applications Tools/CMSmap.md",
     "Cyber Security/Newbie/Popular Penetration Testing Tools/Web Applications Tools/Directory Busters",
     "Cyber Security/Newbie/Popular Penetration Testing Tools/Web Applications Tools"
   ]
