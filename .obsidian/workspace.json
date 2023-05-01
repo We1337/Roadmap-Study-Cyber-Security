@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Cyber Security/Newbie/Newbie.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -148,8 +148,22 @@
   },
   "active": "a6adb262cc60c95f",
   "lastOpenFiles": [
-    "Cyber Security/Newbie/Popular Penetration Testing Tools/Misc Tools/Top Browser Extensions/Builtwith.md",
+    "Web Application Fundamentals/CSS/Stylesheet Subresource Integrity.md",
     "Cyber Security/Newbie/Newbie.md",
+    "Web Application Fundamentals/CSS/CSS Frameworks/Purple.md",
+    "Web Application Fundamentals/CSS/CSS Frameworks/Google Material.md",
+    "Web Application Fundamentals/CSS/CSS Frameworks/Bootstrap.md",
+    "Web Application Fundamentals/CSS/CSS Frameworks",
+    "Web Application Fundamentals/CSS/CSS Frameworks/CSS Frameworks.md",
+    "Web Application Fundamentals/CSS",
+    "Web Application Fundamentals/HTML/iFrames.md",
+    "Web Application Fundamentals/HTML/Attributes.md",
+    "Web Application Fundamentals/HTML/Forms.md",
+    "Web Application Fundamentals/HTML/MetaTags.md",
+    "Web Application Fundamentals/HTML",
+    "Cyber Security/Clueless/Fundamental Web Application Design/HTML/HTML.md",
+    "Web Application Fundamentals",
+    "Cyber Security/Newbie/Popular Penetration Testing Tools/Misc Tools/Top Browser Extensions/Builtwith.md",
     "Cyber Security/Newbie/Popular Penetration Testing Tools/Misc Tools/Top Browser Extensions/Retire.js.md",
     "Cyber Security/Newbie/Popular Penetration Testing Tools/Misc Tools/Top Browser Extensions/JSONView.md",
     "Cyber Security/Newbie/Popular Penetration Testing Tools/Misc Tools/Top Browser Extensions/JWT Debugger.md",
@@ -168,21 +182,7 @@
     "Cyber Security/Newbie/Popular Penetration Testing Tools/Programming Tools/Visual Studio.md",
     "Cyber Security/Newbie/Popular Penetration Testing Tools/Programming Tools/Programming Tools.md",
     "Cyber Security/Newbie/Popular Penetration Testing Tools/Programming Tools",
-    "Cyber Security/Newbie/Popular Penetration Testing Tools/Windows-Based/API Monitor.md",
-    "Cyber Security/Newbie/Popular Penetration Testing Tools/Windows-Based/Windows SysInternals/ProcDump.md",
-    "Cyber Security/Newbie/Popular Penetration Testing Tools/Windows-Based/Windows SysInternals/Portmon.md",
-    "Cyber Security/Newbie/Popular Penetration Testing Tools/Windows-Based/Windows SysInternals/Procmon.md",
-    "Cyber Security/Newbie/Popular Penetration Testing Tools/Windows-Based/Windows SysInternals/ListDLLs.md",
-    "Cyber Security/Newbie/Popular Penetration Testing Tools/Windows-Based/Windows SysInternals/Windows SysInternals.md",
-    "Cyber Security/Newbie/Popular Penetration Testing Tools/Windows-Based/IAP Pro _($)_.md",
     "Cyber Security/Newbie/Popular Penetration Testing Tools/Windows-Based/Windows SysInternals",
-    "Cyber Security/Newbie/Popular Penetration Testing Tools/Windows-Based/WinDGB.md",
-    "Cyber Security/Newbie/Popular Penetration Testing Tools/Windows-Based",
-    "Cyber Security/Newbie/Popular Penetration Testing Tools/Windows-Based/Windows-Based.md",
-    "Cyber Security/Newbie/Popular Penetration Testing Tools/Windows-Based/OllyDBG.md",
-    "Cyber Security/Newbie/Popular Penetration Testing Tools/Reverse Engineering Tools/Linux-Based",
-    "Cyber Security/Newbie/Popular Penetration Testing Tools/Reverse Engineering Tools",
-    "Cyber Security/Newbie/Popular Penetration Testing Tools/WiFi Hacking Tools",
-    "Cyber Security/Newbie/Popular Penetration Testing Tools"
+    "Cyber Security/Newbie/Popular Penetration Testing Tools/Windows-Based"
   ]
 }
