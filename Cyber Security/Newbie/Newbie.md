@@ -40,41 +40,40 @@
    * [[aircrack-ng]]
    * [[naive-hashcat]]
  * **[[Reverse Engineering Tools]]**
-   * **Linux-Based:**
+   * **[[Linux-Based]]:**
      * [[gdb]]
-     * Radare2
-     * Hopper _($)_
-     * file
-     * strings
-     * strace
-     * ltrace
-     * objdump
-   * **Windows-Based:**
-     * OllyDBG
-     * WinDGB
-     * IAP Pro _($)_
-     * Windows SysInternals
-       * ListDLLs
-       * Procmon
-       * Portmon
-       * ProcDump
-     * API Monitor
- * **Programming Tools**
-   * Visual Studio
-   * Visual Studio Code
-   * Pycharm
-   * Git
-   * Git BASH
- * **Misc Tools**
-   * MetaSploit Framework
-   * **Top Browser Extensions**
-      * Wappalyzer
-      * Link Redirect Trace
-      * JWT Debugger
-      * JSONView
-      * Retire.js
-      * Builtwith
-   
+     * [[Radare2]]
+     * [[Hopper _($)_]]
+     * [[file]]
+     * [[strings]]
+     * [[strace]]
+     * [[ltrace]]
+     * [[objdump]]
+   * **[[Windows-Based]]:**
+     * [[OllyDBG]]
+     * [[WinDGB]]
+     * [[IAP Pro _($)_]]
+     * [[Windows SysInternals]]
+       * [[ListDLLs]]
+       * [[Procmon]]
+       * [[Portmon]]
+       * [[ProcDump]]
+     * [[API Monitor]]
+ * **[[Programming Tools]]**
+   * [[Visual Studio]]
+   * [[Visual Studio Code]]
+   * [[Pycharm]]
+   * [[Git]]
+   * [[Git BASH]]
+ * **[[Misc Tools]]**
+   * [[MetaSploit Framework]]
+   * **[[Top Browser Extensions]]**
+      * [[Wappalyzer]]
+      * [[Link Redirect Trace]]
+      * [[JWT Debugger]]
+      * [[JSONView]]
+      * [[Retire.js]]
+      * [[Builtwith]]
 
 ## Web Application Fundamentals
   * **HTML**

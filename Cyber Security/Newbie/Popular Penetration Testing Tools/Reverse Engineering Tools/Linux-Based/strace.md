@@ -1,0 +1,7 @@
+`strace` is a command-line utility in Unix and Unix-like operating systems that is used to trace system calls and signals between a running program and the operating system. It works by intercepting and logging the system calls and signals made by a program and displaying them in a human-readable format.
+
+When run on a program, the `strace` utility logs every system call and signal that the program makes, along with any associated arguments and return values. This can be useful for debugging programs, as it allows developers to see exactly what system calls a program is making and how it is interacting with the operating system.
+
+In addition to logging system calls and signals, `strace` also includes a number of options that can be used to control its behavior. For example, the `-p` option can be used to attach `strace` to a running process, and the `-c` option can be used to generate a summary of system calls and signals.
+
+Overall, `strace` is a powerful tool for working with system calls and signals in Unix and Unix-like systems, and it is commonly used by system administrators, developers, and security professionals. However, it should be used with caution, as tracing system calls and signals can have a performance impact on running programs.

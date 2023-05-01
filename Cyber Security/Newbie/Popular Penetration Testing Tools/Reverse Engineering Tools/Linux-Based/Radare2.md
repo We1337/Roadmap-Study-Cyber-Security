@@ -1,0 +1,7 @@
+Radare2 is a free and open-source reverse engineering framework that can be used to analyze binaries, debug programs, and extract data from them. It is available on multiple platforms, including Linux, macOS, Windows, and Android. Radare2 has a command-line interface, but it also provides a web interface and a graphical user interface called Cutter.
+
+Radare2 is designed to be highly modular and extensible, with a plugin-based architecture that allows users to extend its functionality by creating and sharing their own plugins. It supports multiple architectures, file formats, and operating systems, making it a versatile tool for reverse engineering and binary analysis.
+
+Some of the key features of Radare2 include disassembling and decompiling binaries, analyzing and visualizing control flow and data flow, debugging programs with advanced features such as hardware breakpoints, and manipulating binary data and files. Radare2 also has a scripting language called RLang that can be used to automate tasks and create custom tools.
+
+Radare2 is widely used in the security community for tasks such as malware analysis, vulnerability research, and exploit development. It is also used in academia for teaching and research purposes, as well as in industry for software analysis and testing.

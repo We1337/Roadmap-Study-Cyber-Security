@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gdb.md",
+                "file": "Cyber Security/Newbie/Newbie.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "gdb.md",
+                "file": "Cyber Security/Newbie/Newbie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "gdb.md",
+                "file": "Cyber Security/Newbie/Newbie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "gdb.md"
+                "file": "Cyber Security/Newbie/Newbie.md"
               }
             }
           }
@@ -146,43 +146,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fa69e08d272109f7",
+  "active": "a6adb262cc60c95f",
   "lastOpenFiles": [
+    "Cyber Security/Newbie/Popular Penetration Testing Tools/Misc Tools/Top Browser Extensions/Builtwith.md",
     "Cyber Security/Newbie/Newbie.md",
-    "gdb.md",
-    "Reverse Engineering Tools/Reverse Engineering Tools.md",
-    "Reverse Engineering Tools",
-    "Cyber Security/Newbie/Popular Penetration Testing Tools/WiFi Hacking Tools/naive-hashcat.md",
-    "Cyber Security/Newbie/Popular Penetration Testing Tools/WiFi Hacking Tools/aircrack-ng.md",
-    "Cyber Security/Newbie/Popular Penetration Testing Tools/WiFi Hacking Tools/airodump-ng.md",
-    "Cyber Security/Newbie/Popular Penetration Testing Tools/WiFi Hacking Tools/airmon-ng.md",
-    "Cyber Security/Newbie/Popular Penetration Testing Tools/WiFi Hacking Tools/WiFi Hacking Tools.md",
+    "Cyber Security/Newbie/Popular Penetration Testing Tools/Misc Tools/Top Browser Extensions/Retire.js.md",
+    "Cyber Security/Newbie/Popular Penetration Testing Tools/Misc Tools/Top Browser Extensions/JSONView.md",
+    "Cyber Security/Newbie/Popular Penetration Testing Tools/Misc Tools/Top Browser Extensions/JWT Debugger.md",
+    "Cyber Security/Newbie/Popular Penetration Testing Tools/Misc Tools/Top Browser Extensions/Link Redirect Trace.md",
+    "Cyber Security/Newbie/Popular Penetration Testing Tools/Misc Tools/Top Browser Extensions/Wappalyzer.md",
+    "Cyber Security/Newbie/Popular Penetration Testing Tools/Misc Tools/Top Browser Extensions/Top Browser Extensions.md",
+    "Cyber Security/Newbie/Popular Penetration Testing Tools/Misc Tools/Top Browser Extensions",
+    "Cyber Security/Newbie/Popular Penetration Testing Tools/Misc Tools/MetaSploit Framework/MetaSploit Framework.md",
+    "Cyber Security/Newbie/Popular Penetration Testing Tools/Misc Tools/MetaSploit Framework",
+    "Cyber Security/Newbie/Popular Penetration Testing Tools/Misc Tools/Misc Tools.md",
+    "Cyber Security/Newbie/Popular Penetration Testing Tools/Misc Tools",
+    "Cyber Security/Newbie/Popular Penetration Testing Tools/Programming Tools/Git BASH.md",
+    "Cyber Security/Newbie/Popular Penetration Testing Tools/Programming Tools/Git.md",
+    "Cyber Security/Newbie/Popular Penetration Testing Tools/Programming Tools/Pycharm.md",
+    "Cyber Security/Newbie/Popular Penetration Testing Tools/Programming Tools/Visual Studio Code.md",
+    "Cyber Security/Newbie/Popular Penetration Testing Tools/Programming Tools/Visual Studio.md",
+    "Cyber Security/Newbie/Popular Penetration Testing Tools/Programming Tools/Programming Tools.md",
+    "Cyber Security/Newbie/Popular Penetration Testing Tools/Programming Tools",
+    "Cyber Security/Newbie/Popular Penetration Testing Tools/Windows-Based/API Monitor.md",
+    "Cyber Security/Newbie/Popular Penetration Testing Tools/Windows-Based/Windows SysInternals/ProcDump.md",
+    "Cyber Security/Newbie/Popular Penetration Testing Tools/Windows-Based/Windows SysInternals/Portmon.md",
+    "Cyber Security/Newbie/Popular Penetration Testing Tools/Windows-Based/Windows SysInternals/Procmon.md",
+    "Cyber Security/Newbie/Popular Penetration Testing Tools/Windows-Based/Windows SysInternals/ListDLLs.md",
+    "Cyber Security/Newbie/Popular Penetration Testing Tools/Windows-Based/Windows SysInternals/Windows SysInternals.md",
+    "Cyber Security/Newbie/Popular Penetration Testing Tools/Windows-Based/IAP Pro _($)_.md",
+    "Cyber Security/Newbie/Popular Penetration Testing Tools/Windows-Based/Windows SysInternals",
+    "Cyber Security/Newbie/Popular Penetration Testing Tools/Windows-Based/WinDGB.md",
+    "Cyber Security/Newbie/Popular Penetration Testing Tools/Windows-Based",
+    "Cyber Security/Newbie/Popular Penetration Testing Tools/Windows-Based/Windows-Based.md",
+    "Cyber Security/Newbie/Popular Penetration Testing Tools/Windows-Based/OllyDBG.md",
+    "Cyber Security/Newbie/Popular Penetration Testing Tools/Reverse Engineering Tools/Linux-Based",
+    "Cyber Security/Newbie/Popular Penetration Testing Tools/Reverse Engineering Tools",
     "Cyber Security/Newbie/Popular Penetration Testing Tools/WiFi Hacking Tools",
-    "Cyber Security/Newbie/Popular Penetration Testing Tools",
-    "Cyber Security/Newbie/Popular Penetration Testing Tools/Password Cracking Tools/John the Ripper.md",
-    "Cyber Security/Newbie/Popular Penetration Testing Tools/Password Cracking Tools/Hashcat.md",
-    "Cyber Security/Newbie/Popular Penetration Testing Tools/Password Cracking Tools/Password Cracking Tools.md",
-    "Cyber Security/Newbie/Popular Penetration Testing Tools/Password Cracking Tools",
-    "Cyber Security/Newbie/Popular Penetration Testing Tools/Network-Based Tools/DNS Tools/dnsrecon.md",
-    "Cyber Security/Newbie/Popular Penetration Testing Tools/Network-Based Tools/DNS Tools/dnsenum.md",
-    "Cyber Security/Clueless/Tools/IT Support Software/Network Troubleshooting/dig.md",
-    "Cyber Security/Newbie/Popular Penetration Testing Tools/Network-Based Tools/DNS Tools/DNS Tools.md",
-    "Cyber Security/Newbie/Popular Penetration Testing Tools/Network-Based Tools/DNS Tools",
-    "Cyber Security/Newbie/Popular Penetration Testing Tools/Network-Based Tools",
-    "Cyber Security/Newbie/Popular Penetration Testing Tools/Network-Based Tools/Network-Based Tools.md",
-    "Cyber Security/Newbie/Popular Penetration Testing Tools/Web Applications Tools/testssl.sh/Less-Used Web App Tools/Hydra.md",
-    "Cyber Security/Newbie/Popular Penetration Testing Tools/Network-Based Tools/curl.md",
-    "Cyber Security/Newbie/Popular Penetration Testing Tools/Network-Based Tools/Wireshark.md",
-    "Cyber Security/Newbie/Popular Penetration Testing Tools/Network-Based Tools/Netcat.md",
-    "Cyber Security/Newbie/Popular Penetration Testing Tools/Network-Based Tools/nmap.md",
-    "Cyber Security/Newbie/Popular Penetration Testing Tools/Web Applications Tools/testssl.sh/Less-Used Web App Tools/EyeWitness.md",
-    "Cyber Security/Newbie/Popular Penetration Testing Tools/Web Applications Tools/testssl.sh/Less-Used Web App Tools/Aquatone.md",
-    "Cyber Security/Newbie/Popular Penetration Testing Tools/Web Applications Tools/testssl.sh/Less-Used Web App Tools",
-    "Cyber Security/Newbie/Popular Penetration Testing Tools/Web Applications Tools/testssl.sh",
-    "Cyber Security/Newbie/Popular Penetration Testing Tools/Web Applications Tools/testssl.sh/testssl.sh.md",
-    "Cyber Security/Newbie/Popular Penetration Testing Tools/Web Applications Tools/CeWL.md",
-    "Cyber Security/Newbie/Popular Penetration Testing Tools/Web Applications Tools/w3af.md",
-    "Cyber Security/Newbie/Popular Penetration Testing Tools/Web Applications Tools/Directory Busters",
-    "Cyber Security/Newbie/Popular Penetration Testing Tools/Web Applications Tools"
+    "Cyber Security/Newbie/Popular Penetration Testing Tools"
   ]
 }
