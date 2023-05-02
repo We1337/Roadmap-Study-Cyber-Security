@@ -87,57 +87,57 @@
       * [[Google Material]]
       * [[Purple]]
     * [[Stylesheet Subresource Integrity]]
-  * **XML**
-    * SVG Images
-    * SAML _(Basic Familiarity)_
-  * **JavaScript**
-    * JavaScript Syntax Fundamentals
-      * Function Prototyping
-      * XMLHttpRequest()
-      * JSON _(Data Serialization)_
-    * jQuery _(Basic Familiarity)_
-    * JavaScript Frameworks _(Basic Familiarity)_
-      * Angular
-      * Angular2
-      * React
-      * Vue
-    * JavaScript Subresource Integrity
-  * **Same-Origin Policy _(SOP)_**
-  * **CORS**
-    * Preflight Requests
-  * **Content Deliver Networks _(CDNs)_**
-  * **MVC Design Pattern**
-    * Models
-    * Views
-    * Controllers
-  * **HTTP Headers**
-    * User-Agent
-    * Host
-    * Cookie
-    * Authorization
-    * Content-Type _(MIME Types)_
-    * Transfer-Encoding
-    * Accept-Encoding
-    * Upgrade
-    * **CORS Headers**
-      * Origin
-      * Access-Control-Allow-Origin
-      * Access-Control-Allow-Credentials
-      * Access-Control-Request-Method
-      * Access-Control-Request-Headers
-    * **HTTP Security Headers**
-      * Strict-Transport-Security
-      * Content-Security-Policy
-      * X-XSS-Protection
-      * X-Frame-Options
-      * X-Content-Type-Options
-    * X-Csrf-Token
-  * **HTTP Requests**
-    * GET
-    * POST
-    * PUT
-    * DELETE
-    * OPTIONS
+  * **[[XML]]**
+    * [[SVG Images]]
+    * [[SAML _(Basic Familiarity)_]]
+  * **[[JavaScript]]**
+    * [[JavaScript Syntax Fundamentals]]
+      * [[Function Prototyping]]
+      * [[XMLHttpRequest()]]
+      * [[JSON _(Data Serialization)_]]
+    * [[jQuery _(Basic Familiarity)_]]
+    * [[JavaScript Frameworks _(Basic Familiarity)_]]
+      * [[Angular]]
+      * [[Angular2]]
+      * [[React]]
+      * [[Vue]]
+    * [[JavaScript Subresource Integrity]]
+  * **[[Same-Origin Policy _(SOP)_]]**
+  * **[[CORS]]**
+    * [[Preflight Requests]]
+  * **[[Content Deliver Networks _(CDNs)_]]**
+  * **[[MVC Design Pattern]]**
+    * [[Models]]
+    * [[Views]]
+    * [[Controllers]]
+  * **[[HTTP Headers]]**
+    * [[User-Agent]]
+    * [[Host]]
+    * [[Cookie]]
+    * [[Authorization]]
+    * [[Content-Type _(MIME Types)_]]
+    * [[Transfer-Encoding]]
+    * [[Accept-Encoding]]
+    * [[Upgrade]]
+    * **[[CORS Headers]]**
+      * [[Origin]]
+      * [[Access-Control-Allow-Origin]]
+      * [[Access-Control-Allow-Credentials]]
+      * [[Access-Control-Request-Method]]
+      * [[Access-Control-Request-Headers]]
+    * **[[HTTP Security Headers]]**
+      * [[Strict-Transport-Security]]
+      * [[Content-Security-Policy]]
+      * [[X-XSS-Protection]]
+      * [[X-Frame-Options]]
+      * [[X-Content-Type-Options]]
+    * [[X-Csrf-Token]]
+  * **[[HTTP Requests]]**
+    * [[GET]]
+    * [[POST]]
+    * [[PUT]]
+    * [[DELETE]]
+    * [[OPTIONS]]
   * **Session Management**
     * **Cookies**
       * Cookie Flags / Cookie Prefixes

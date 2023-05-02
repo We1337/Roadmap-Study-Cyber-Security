@@ -1,0 +1,5 @@
+Origin is an HTTP header that contains the protocol, hostname, and port number of the web page that made the request. The Origin header is sent by the browser as part of the CORS (Cross-Origin Resource Sharing) mechanism to indicate the domain from which the request originated. The server can use the Origin header to determine whether to allow or reject a cross-origin request.
+
+For example, if a web page served from [https://example.com](https://example.com) makes an AJAX request to [https://api.example.com](https://api.example.com), the browser sends the Origin header with the value [https://example.com](https://example.com). The server can use this header to determine whether to allow or reject the request based on its CORS configuration.
+
+It is important to note that the Origin header can be spoofed by attackers, so it should not be relied upon as the sole means of preventing cross-origin attacks. Servers should also use other security mechanisms such as CSRF (Cross-Site Request Forgery) tokens to ensure that cross-origin requests are made intentionally by the user and not by malicious scripts.
