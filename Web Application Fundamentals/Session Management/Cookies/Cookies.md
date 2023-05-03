@@ -1,0 +1,9 @@
+Cookies are small text files that are stored on a user's computer or mobile device by a web browser. They are commonly used by web applications to maintain state between requests, store user preferences, and track user behavior.
+
+When a user visits a website, the website sends a cookie to the user's browser, which stores it on the user's device. On subsequent visits to the same website, the browser sends the stored cookie back to the website, allowing the website to identify the user and maintain state between requests.
+
+Cookies can be either session cookies or persistent cookies. Session cookies are temporary and are deleted when the user closes their browser. Persistent cookies, on the other hand, are stored on the user's device for a longer period of time and are used to remember user preferences or track user behavior over time.
+
+Cookies can be used for both good and bad purposes. For example, cookies can be used to improve user experience by remembering user preferences and keeping users logged in to web applications. However, cookies can also be used to track users across websites and build profiles of their behavior for targeted advertising.
+
+To protect user privacy, web applications should use cookies responsibly and provide users with clear information about how their data is being collected and used. Users should also have the ability to control and delete cookies stored on their devices. Web developers can use techniques such as HTTPS communication, secure cookie storage, and cookie expiration to help protect against cookie-related attacks such as cookie theft, cookie injection, and cross-site scripting (XSS) attacks.

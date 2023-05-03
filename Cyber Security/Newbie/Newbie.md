@@ -138,58 +138,58 @@
     * [[PUT]]
     * [[DELETE]]
     * [[OPTIONS]]
-  * **Session Management**
-    * **Cookies**
-      * Cookie Flags / Cookie Prefixes
-        * HttpOnly
-        * HostOnly
-        * Secure
-        * Same-Site
-        * Expires
-    * **JSON Web Tokens _(JWT)_**
-      * JWS vs. JWE
-        * JWT Header
-          * alg:
-          * typ:
-        * JWT Payload
-        * JWT Signature
-      * Claims
- * **Database Essentials**
-   * **SQL:**
-     * **SQL DBMS:** _(Basic Familiarity)_
-       * MySQL
-       * SQLite
-       * Microsoft SQL
-       * PostgreSQL
-       * Oracle DB
-     * **SQL Syntax Basics:**
-       * USE
-       * SELECT
-         * WHERE
-         * LIKE
-       * INSERT
-       * UPDATE
-       * DROP
-       * DELETE
-   * **NoSQL:**
-     * **NoSQL DBMS:** _(Basic Familiarity)_
-       * Redis
-       * MongoDB
-       * Apache CouchDB
-        * Cloud Variants
-          * AWS DynomoDB
-          * GCP DataStore
-          * Azure CosmosDB
-     * **NoSQL Syntax Basics:**
-        * $where
-        * $eq
-        * $ne
-        * $gt
-   * **Content Management Systems** _(CMS)_
-      * WordPress
-      * Drupal
-      * Joomla
-      * Django
+  * **[[Session Management]]**
+    * **[[Cookies]]**
+      * [[Cookie Flags - Cookie Prefixes]]
+        * [[HttpOnly]]
+        * [[HostOnly]]
+        * [[Secure]]
+        * [[Same-Site]]
+        * [[Expires]]
+    * **[[JSON Web Tokens _(JWT)_]]**
+      * [[JWS vs. JWE]]
+        * [[JWT Header]]
+          * [[alg]]:
+          * [[typ]]:
+        * [[JWT Payload]]
+        * [[JWT Signature]]
+      * [[Claims]]
+ * **[[Database Essentials]]**
+   * **[[SQL]]:**
+     * **[[SQL DBMS]]:** _(Basic Familiarity)_
+       * [[MySQL]]
+       * [[SQLite]]
+       * [[Microsoft SQL]]
+       * [[PostgreSQL]]
+       * [[Oracle DB]]
+     * **[[SQL Syntax Basics]]:**
+       * [[USE]]
+       * [[SELECT]]
+         * [[WHERE]]
+         * [[LIKE]]
+       * [[INSERT]]
+       * [[UPDATE]]
+       * [[DROP]]
+       * [[DELETE sql]]
+   * **[[NoSQL]]:**
+     * **[[NoSQL DBMS]]:** _(Basic Familiarity)_
+       * [[Redis]]
+       * [[MongoDB]]
+       * [[Apache CouchDB]]
+        * [[Cloud Variants]]
+          * [[AWS DynomoDB]]
+          * [[GCP DataStore]]
+          * [[Azure CosmosDB]]
+     * **[[NoSQL Syntax Basics]]:**
+        * [[$where]]
+        * [[$eq]]
+        * [[$ne]]
+        * [[$gt]]
+   * **[[Content Management Systems]]** _(CMS)_
+      * [[WordPress]]
+      * [[Drupal]]
+      * [[Joomla]]
+      * [[Django]]
 
 ## Web Application Reconnaissance
   * **Top 10 To-Do List**
