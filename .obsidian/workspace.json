@@ -154,11 +154,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a6adb262cc60c95f",
+  "active": "fa69e08d272109f7",
   "lastOpenFiles": [
+    "Cloud Variants.md",
+    "Cyber Security/Newbie/Newbie.md",
+    "Apache CouchDB.md",
+    "MongoDB.md",
+    "Redis.md",
+    "NoSQL/NoSQL DBMS/NoSQL DBMS.md",
+    "SQL/SQL DBMS/SQL DBMS.md",
+    "NoSQL/NoSQL DBMS",
     "NoSQL",
     "NoSQL/NoSQL.md",
-    "Cyber Security/Newbie/Newbie.md",
     "SQL/SQL Syntax Basics/DELETE sql.md",
     "SQL/SQL Syntax Basics/DROP.md",
     "SQL/SQL Syntax Basics/UPDATE.md",
@@ -176,21 +183,14 @@
     "SQL/SQL DBMS/Microsoft SQL.md",
     "SQL/SQL DBMS/SQLite.md",
     "SQL/SQL DBMS/MySQL.md",
-    "SQL/SQL DBMS/SQL DBMS.md",
     "SQL/SQL DBMS",
     "SQL/SQL.md",
     "SQL",
     "Database Essentials/Database Essentials.md",
     "Database Essentials",
     "Web Application Fundamentals/Session Management/JSON Web Tokens _(JWT)_/Claims.md",
-    "Web Application Fundamentals/Session Management/JSON Web Tokens _(JWT)_/JWS vs. JWE/JWT Signature.md",
-    "Web Application Fundamentals/Session Management/JSON Web Tokens _(JWT)_/JWS vs. JWE/JWT Payload.md",
-    "Web Application Fundamentals/Session Management/JSON Web Tokens _(JWT)_/JWS vs. JWE/JWT Header/typ.md",
-    "Web Application Fundamentals/Session Management/JSON Web Tokens _(JWT)_/JWS vs. JWE/JWT Header/alg.md",
     "Web Application Fundamentals/Session Management/JSON Web Tokens _(JWT)_/JWS vs. JWE/JWT Header",
     "Web Application Fundamentals/Session Management/JSON Web Tokens _(JWT)_/JWS vs. JWE",
-    "Web Application Fundamentals/Session Management/JSON Web Tokens _(JWT)_",
-    "Web Application Fundamentals/Session Management/Cookies/Cookie Flags - Cookie Prefixes",
-    "Web Application Fundamentals/Session Management/Cookies"
+    "Web Application Fundamentals/Session Management/JSON Web Tokens _(JWT)_"
   ]
 }
