@@ -156,8 +156,9 @@
   },
   "active": "fa69e08d272109f7",
   "lastOpenFiles": [
-    "Django.md",
+    "Spidering with BurpSuite.md",
     "Cyber Security/Newbie/Newbie.md",
+    "Django.md",
     "Joomla.md",
     "Drupal.md",
     "WordPress.md",
@@ -186,7 +187,6 @@
     "Database Essentials/SQL/SQL Syntax Basics/DELETE sql.md",
     "Database Essentials/SQL/SQL Syntax Basics/DROP.md",
     "Database Essentials/SQL/SQL Syntax Basics/UPDATE.md",
-    "Database Essentials/SQL/SQL Syntax Basics/INSERT.md",
     "Database Essentials/SQL/SQL Syntax Basics/SELECT",
     "Database Essentials/SQL/SQL Syntax Basics",
     "Database Essentials/SQL/SQL DBMS",

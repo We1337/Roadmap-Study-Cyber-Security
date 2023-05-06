@@ -192,13 +192,13 @@
       * [[Django]]
 
 ## Web Application Reconnaissance
-  * **Top 10 To-Do List**
-      * Spidering with BurpSuite
-        * Take notes of any attack vectors
-          * Forms, File Uploads, etc.
-      * Check robots.txt
-      * nikto
-      * Check Security Headers
+  * **[[Top 10 To-Do List]]**
+      * [[Spidering with BurpSuite]]
+        * [[Take notes of any attack vectors]]
+          * [[Forms, File Uploads, etc]].
+      * [[Check robots.txt]]
+      * [[nikto]]
+      * [[Check Security Headers]]
         * https://securityheaders.com/
       * Google Dorks
       * Checking HTTP Responses for sensitive information
