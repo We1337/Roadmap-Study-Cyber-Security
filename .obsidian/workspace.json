@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Forms, File Uploads, etc.md",
+                "file": "Cyber Security/Newbie/Newbie.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Forms, File Uploads, etc.md",
+                "file": "Cyber Security/Newbie/Newbie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Forms, File Uploads, etc.md",
+                "file": "Cyber Security/Newbie/Newbie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Forms, File Uploads, etc.md"
+                "file": "Cyber Security/Newbie/Newbie.md"
               }
             }
           }
@@ -156,7 +156,9 @@
   },
   "active": "fa69e08d272109f7",
   "lastOpenFiles": [
+    "Check Security Headers.md",
     "Cyber Security/Newbie/Newbie.md",
+    "Cyber Security/Clueless/Clueless.md",
     "Forms, File Uploads, etc.md",
     "Take notes of any attack vectors.md",
     "Spidering with BurpSuite.md",
@@ -185,8 +187,6 @@
     "Database Essentials/SQL/SQL DBMS/SQL DBMS.md",
     "Database Essentials/NoSQL/NoSQL DBMS",
     "Database Essentials/NoSQL",
-    "Database Essentials/NoSQL/NoSQL.md",
-    "Database Essentials/SQL/SQL Syntax Basics/DELETE sql.md",
     "Database Essentials/SQL/SQL Syntax Basics/SELECT",
     "Database Essentials/SQL/SQL Syntax Basics",
     "Database Essentials/SQL/SQL DBMS",
