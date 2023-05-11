@@ -200,8 +200,8 @@
       * [[nikto]]
       * [[Check Security Headers]]
         * https://securityheaders.com/
-      * Google Dorks
-      * Checking HTTP Responses for sensitive information
+      * [[Google Dorks]]
+      * [[Checking HTTP Responses for sensitive information]]
       * Forced Browsing
         * Authorization bugs, etc.
       * Enumerate subdomains

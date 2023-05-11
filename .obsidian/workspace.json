@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Check robots.txt.md",
-                "mode": "preview",
+                "file": "Google Dorks.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Check robots.txt.md",
+                "file": "Google Dorks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Check robots.txt.md",
+                "file": "Google Dorks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Check robots.txt.md"
+                "file": "Google Dorks.md"
               }
             }
           }
@@ -157,9 +157,10 @@
   "active": "fa69e08d272109f7",
   "lastOpenFiles": [
     "Cyber Security/Newbie/Newbie.md",
+    "Google Dorks.md",
+    "Cyber Security/Clueless/Clueless.md",
     "Check robots.txt.md",
     "Check Security Headers.md",
-    "Cyber Security/Clueless/Clueless.md",
     "Forms, File Uploads, etc.md",
     "Take notes of any attack vectors.md",
     "Spidering with BurpSuite.md",
@@ -184,7 +185,6 @@
     "Database Essentials/NoSQL/NoSQL DBMS/Apache CouchDB.md",
     "Database Essentials/NoSQL/NoSQL DBMS/MongoDB.md",
     "Database Essentials/NoSQL/NoSQL DBMS/Redis.md",
-    "Database Essentials/NoSQL/NoSQL DBMS/NoSQL DBMS.md",
     "Database Essentials/NoSQL/NoSQL DBMS",
     "Database Essentials/NoSQL",
     "Database Essentials/SQL/SQL Syntax Basics/SELECT",
