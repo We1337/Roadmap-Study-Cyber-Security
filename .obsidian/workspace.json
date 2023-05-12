@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Google Dorks.md",
+                "file": "Cyber Security/Newbie/Newbie.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Google Dorks.md",
+                "file": "Cyber Security/Newbie/Newbie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Google Dorks.md",
+                "file": "Cyber Security/Newbie/Newbie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Google Dorks.md"
+                "file": "Cyber Security/Newbie/Newbie.md"
               }
             }
           }
@@ -156,6 +156,7 @@
   },
   "active": "fa69e08d272109f7",
   "lastOpenFiles": [
+    "Checking HTTP Responses for sensitive information.md",
     "Cyber Security/Newbie/Newbie.md",
     "Google Dorks.md",
     "Cyber Security/Clueless/Clueless.md",
@@ -184,7 +185,6 @@
     "Database Essentials/NoSQL/NoSQL DBMS/Cloud Variants/Cloud Variants.md",
     "Database Essentials/NoSQL/NoSQL DBMS/Apache CouchDB.md",
     "Database Essentials/NoSQL/NoSQL DBMS/MongoDB.md",
-    "Database Essentials/NoSQL/NoSQL DBMS/Redis.md",
     "Database Essentials/NoSQL/NoSQL DBMS",
     "Database Essentials/NoSQL",
     "Database Essentials/SQL/SQL Syntax Basics/SELECT",
