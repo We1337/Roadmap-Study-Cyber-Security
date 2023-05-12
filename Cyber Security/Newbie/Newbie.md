@@ -202,32 +202,31 @@
         * https://securityheaders.com/
       * [[Google Dorks]]
       * [[Checking HTTP Responses for sensitive information]]
-      * Forced Browsing
-        * Authorization bugs, etc.
-      * Enumerate subdomains
-      * Check for HTML Comments
-      * View custom JavaScript
-        * DOM-XSS, (sources / sinks?)
-        * APIs endpoints?
-      * Enumerate Frameworks and Versions
-        * BuiltWith, WApplzyer, Comments, etc.
-        * Research for unpatched CVEs?
-      * Session Management Configurations
-        * Review OAuth2 Implementations
-        * JSON Web Token Implementations
-        * SAML Misconfigurations
-        * Cookie Prefixes
-  * **More Checks**
-      * Testing SSL
-        * testsssl.sh
-        * ssllabs.com scan
-      * Vhost Bruteforcing _(eh...)_
-        * Accessing unresolved DNS via Host Header
-      * CMS Scanners
-        * wpscan
-      * /.well-known/security.txt
-      * Testing for CGI-Bin Vulnerabilities
-      
+      * [[Forced Browsing]]
+        * [[Authorization bugs, etc.]]
+      * [[Enumerate subdomains]]
+      * [[Check for HTML Comments]]
+      * [[View custom JavaScript]]
+        * [[DOM-XSS, (sources - sinks?)]]
+        * [[APIs endpoints?]]
+      * [[Enumerate Frameworks and Versions]]
+        * [[BuiltWith, WApplzyer, Comments, etc.]]
+        * [[Research for unpatched CVEs?]]
+      * [[Session Management Configurations]]
+        * [[Review OAuth2 Implementations]]
+        * [[JSON Web Token Implementations]]
+        * [[SAML Misconfigurations]]
+        * [[Cookie Prefixes]]
+  * **[[More Checks]]**
+      * [[Testing SSL]]
+        * [[testsssl.sh]]
+        * [[ssllabs.com scan]]
+      * [[Vhost Bruteforcing _(eh...)_]]
+        * [[Accessing unresolved DNS via Host Header]]
+      * [[CMS Scanners]]
+        * [[wpscan]]
+      * [[-.well-known-security.txt]]
+      * [[Testing for CGI-Bin Vulnerabilities]]
       
 ## Web Application Vulnerabilities
   * **OWASP Top 10:**
