@@ -229,63 +229,62 @@
       * [[Testing for CGI-Bin Vulnerabilities]]
       
 ## Web Application Vulnerabilities
-  * **OWASP Top 10:**
-    * **Injection**
-      * **SQL Injection:**
-        * Error-Based
-        * UNION-Based
-        * Blind
-        * Second-Order SQL Injection
-      * **NoSQL Injection**
-        * JavaScript Injection
-      * **CMD Injection**
-      * **LDAP Injection**
-    * **Broken Authentication**
-    * **Sensitive Data Exposure**
-    * **XXE**
-      * Document Type Definitions
-      * Entities
-      * File Upload XXEs
-      * XXE-OOB
-        * Burp Collaborator
-        
-    * **Broken Access Controls**
-      * Insecure Direct Object Reference
-      * Forced Browsing
-    * **Security Misconfigurations**
-      * Default Passwords
-      * Liberal File Permissions
-      * Unecrypted backups
-      * CORS Misconfigurations, etc.
-    * **XSS**
-      * Reflected
-      * Stored
-      * DOM-XSS
-    * **Insecure Deserialization**
-      * Java
-      * PHP
-      * .NET
-    * **Using Components with Known Vulnerabilities**
-    * **Insufficient Logging & Monitoring**
-  * **Modern Application Attacks:**
-    * HTTP Response Splitting
-    * HTTP Request Smuggling
-    * Cache Posioning
-    * CORS Misconfigurations
-    * Server-Side Template Injection 
-    * OAuth2 Attacks
-      * Open Redirect Token Theft
-    * JSON Web Token CVEs
-      * [CVE-2015-2951] - alg=none
-      * [CVE-2016-10555] - RS/HS256 Key Mismatch
-      * [CVE-2018-0114] - Key injection
-    * Web Sockets
-    * Prototype Pollution
-  * **Other Attacks:**
-    * CSRF
-    * Directory Traversal
-    * Local File Inclusion
-      * Log Poisoning
+  * **[[OWASP Top 10]]:**
+    * **[[Injection]]**
+      * **[[SQL Injection]]:**
+        * [[Error-Based]]
+        * [[UNION-Based]]
+        * [[Blind]]
+        * [[Second-Order SQL Injection]]
+      * **[[NoSQL Injection]]**
+        * [[JavaScript Injection]]
+      * **[[CMD Injection]]**
+      * **[[LDAP Injection]]**
+    * **[[Broken Authentication]]**
+    * **[[Sensitive Data Exposure]]**
+    * **[[XXE]]**
+      * [[Document Type Definitions]]
+      * [[Entities]]
+      * [[File Upload XXEs]]
+      * [[XXE-OOB]]
+        * [[Burp Collaborator]]
+    * **[[Broken Access Controls]]**
+      * [[Insecure Direct Object Reference]]
+      * [[Forced Browsing]]
+    * **[[Security Misconfigurations]]**
+      * [[Default Passwords]]
+      * [[Liberal File Permissions]]
+      * [[Unecrypted backups]]
+      * [[CORS Misconfigurations, etc]].
+    * **[[XSS]]**
+      * [[Reflected]]
+      * [[Stored]]
+      * [[DOM-XSS]]
+    * **[[Insecure Deserialization]]**
+      * [[Java]]
+      * [[PHP]]
+      * [[.NET]]
+    * **[[Using Components with Known Vulnerabilities]]**
+    * **[[Insufficient Logging & Monitoring]]**
+  * **[[Modern Application Attacks]]:**
+    * [[HTTP Response Splitting]]
+    * [[HTTP Request Smuggling]]
+    * [[Cache Posioning]]
+    * [[CORS Misconfigurations]]
+    * [[Server-Side Template Injection]] 
+    * [[OAuth2 Attacks]]
+      * [[Open Redirect Token Theft]]
+    * [[JSON Web Token CVEs]]
+      * [[CVE-2015-2951 - alg=none]]
+      * [[CVE-2016-10555 - RS/HS256 Key Mismatch]]
+      * [[CVE-2018-0114 - Key injection]]
+    * [[Web Sockets]]
+    * [[Prototype Pollution]]
+  * **[[Other Attacks]]:**
+    * [[CSRF]]
+    * [[Directory Traversal]]
+    * [[Local File Inclusion]]
+      * [[Log Poisoning]]
 
 ## Advanced Networking Essentials
   * SYN Scanning
