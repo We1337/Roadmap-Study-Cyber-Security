@@ -256,14 +256,14 @@
       * [[Liberal File Permissions]]
       * [[Unecrypted backups]]
       * [[CORS Misconfigurations, etc]].
-    * **[[XSS]]**
+    * **[[XXE]]**
       * [[Reflected]]
       * [[Stored]]
       * [[DOM-XSS]]
     * **[[Insecure Deserialization]]**
-      * [[Java]]
-      * [[PHP]]
-      * [[.NET]]
+      * [[Java Deserialization]]
+      * [[PHP Deserialization]]
+      * [[-.NET Deserialization]]
     * **[[Using Components with Known Vulnerabilities]]**
     * **[[Insufficient Logging & Monitoring]]**
   * **[[Modern Application Attacks]]:**
@@ -276,7 +276,7 @@
       * [[Open Redirect Token Theft]]
     * [[JSON Web Token CVEs]]
       * [[CVE-2015-2951 - alg=none]]
-      * [[CVE-2016-10555 - RS/HS256 Key Mismatch]]
+      * [[CVE-2016-10555 - RS - HS256 Key Mismatch]]
       * [[CVE-2018-0114 - Key injection]]
     * [[Web Sockets]]
     * [[Prototype Pollution]]
