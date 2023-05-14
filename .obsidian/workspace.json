@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber Security/Newbie/Newbie.md",
-                "mode": "preview",
+                "file": "Insecure Direct Object Reference.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber Security/Newbie/Newbie.md",
+                "file": "Insecure Direct Object Reference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cyber Security/Newbie/Newbie.md",
+                "file": "Insecure Direct Object Reference.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cyber Security/Newbie/Newbie.md"
+                "file": "Insecure Direct Object Reference.md"
               }
             }
           }
@@ -154,10 +154,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a6adb262cc60c95f",
+  "active": "fa69e08d272109f7",
   "lastOpenFiles": [
-    "Web Application Vulnerabilities/OWASP Top 10/XXE/XXE-OOB/Burp Collaborator.md",
     "Cyber Security/Newbie/Newbie.md",
+    "Insecure Direct Object Reference.md",
+    "Web Application Vulnerabilities/OWASP Top 10/XXE/XXE-OOB/Burp Collaborator.md",
     "Web Application Vulnerabilities/OWASP Top 10/XXE/XXE-OOB/XXE-OOB.md",
     "Web Application Vulnerabilities/OWASP Top 10/XXE/XXE-OOB",
     "Web Application Vulnerabilities/OWASP Top 10/XXE/File Upload XXEs.md",
@@ -190,7 +191,6 @@
     "Vhost Bruteforcing _(eh...))",
     "Cyber Security/Newbie/Web Application Reconnaissance/More Checks/Vhost Bruteforcing _(eh...)_/Vhost Bruteforcing _(eh...)_.md",
     "Cyber Security/Newbie/Web Application Reconnaissance/More Checks/Vhost Bruteforcing _(eh...)_",
-    "Cyber Security/Newbie/Web Application Reconnaissance/More Checks/Testing SSL/ssllabs.com scan.md",
     "Cyber Security/Newbie/Web Application Reconnaissance/More Checks/Testing SSL"
   ]
 }
