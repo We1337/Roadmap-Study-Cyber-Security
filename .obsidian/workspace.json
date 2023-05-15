@@ -1,20 +1,20 @@
 {
   "main": {
-    "id": "1146cead846104bb",
+    "id": "b8d719aeb2da3654",
     "type": "split",
     "children": [
       {
-        "id": "fe3614c3ea06e4fa",
+        "id": "2ac5f587f3cce0d3",
         "type": "tabs",
         "children": [
           {
-            "id": "fa69e08d272109f7",
+            "id": "97a28fc60003150c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Cyber Security/Newbie/Newbie.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "45e84b6f14772452",
+    "id": "718462a6c8139b4d",
     "type": "split",
     "children": [
       {
-        "id": "03aced2cd5dded6d",
+        "id": "d8d3ad2d1fc2d9e8",
         "type": "tabs",
         "children": [
           {
-            "id": "a6adb262cc60c95f",
+            "id": "c49567a69c807792",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "27b3a5c3ee2ab9ad",
+            "id": "c9a70961e01906a6",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,15 +58,7 @@
             }
           },
           {
-            "id": "20e821d97439f808",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
-            "id": "04b84479c49292c3",
+            "id": "1b696da8309df86c",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -77,18 +69,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 497.5026054382324
+    "width": 300
   },
   "right": {
-    "id": "82f54e1191e8ad5a",
+    "id": "50f987f9b0b0e7fc",
     "type": "split",
     "children": [
       {
-        "id": "3052c695c53b9836",
+        "id": "979aae546c0f1fa1",
         "type": "tabs",
         "children": [
           {
-            "id": "1b211ead2d5539a9",
+            "id": "1339c8f92cc47212",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -105,7 +97,7 @@
             }
           },
           {
-            "id": "ede7e944afdb2b61",
+            "id": "23e2fef6d6d837a4",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -117,7 +109,7 @@
             }
           },
           {
-            "id": "7c1a8c68612e449c",
+            "id": "ef2d020a81746add",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -128,7 +120,7 @@
             }
           },
           {
-            "id": "fb9ae9461216449c",
+            "id": "a36e883429a727e4",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -154,43 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fa69e08d272109f7",
+  "active": "97a28fc60003150c",
   "lastOpenFiles": [
-    "Cyber Security/Newbie/Web Application Vulnerabilities/Other Attacks/Local File Inclusion/Log Poisoning.md",
+    "SSL-TLS In-Depth Understanding.md",
     "Cyber Security/Newbie/Newbie.md",
-    "Cyber Security/Newbie/Web Application Vulnerabilities/Other Attacks/Local File Inclusion",
-    "Cyber Security/Newbie/Web Application Vulnerabilities/Other Attacks/Local File Inclusion/Local File Inclusion.md",
-    "Cyber Security/Newbie/Web Application Vulnerabilities/Other Attacks/Directory Traversal.md",
-    "Cyber Security/Newbie/Web Application Vulnerabilities/Other Attacks/CSRF.md",
-    "Cyber Security/Newbie/Web Application Vulnerabilities/Other Attacks/Other Attacks.md",
-    "Cyber Security/Newbie/Web Application Vulnerabilities/Other Attacks",
-    "Cyber Security/Newbie/Web Application Vulnerabilities/Modern Application Attacks/Prototype Pollution.md",
-    "Cyber Security/Newbie/Web Application Vulnerabilities/Modern Application Attacks/Web Sockets.md",
-    "Cyber Security/Newbie/Web Application Vulnerabilities/Modern Application Attacks/JSON Web Token CVEs/CVE-2018-0114 - Key injection.md",
-    "Cyber Security/Newbie/Web Application Vulnerabilities/Modern Application Attacks/JSON Web Token CVEs/CVE-2016-10555 - RS - HS256 Key Mismatch.md",
-    "CVE-2016-10555 - RS/HS256 Key Mismatch.md",
-    "CVE-2016-10555 - RS",
-    "Cyber Security/Newbie/Web Application Vulnerabilities/Modern Application Attacks/JSON Web Token CVEs/CVE-2015-2951 - alg=none.md",
-    "Cyber Security/Newbie/Web Application Vulnerabilities/Modern Application Attacks/JSON Web Token CVEs/JSON Web Token CVEs.md",
-    "Cyber Security/Newbie/Web Application Vulnerabilities/Modern Application Attacks/JSON Web Token CVEs",
-    "Cyber Security/Newbie/Web Application Vulnerabilities/Modern Application Attacks/OAuth2 Attacks/Open Redirect Token Theft.md",
-    "Cyber Security/Newbie/Web Application Vulnerabilities/Modern Application Attacks/OAuth2 Attacks/OAuth2 Attacks.md",
-    "Cyber Security/Newbie/Web Application Vulnerabilities/Modern Application Attacks/OAuth2 Attacks",
-    "Cyber Security/Newbie/Web Application Vulnerabilities/Modern Application Attacks/Server-Side Template Injection.md",
-    "Cyber Security/Newbie/Web Application Vulnerabilities/Modern Application Attacks/CORS Misconfigurations.md",
-    "Cyber Security/Newbie/Web Application Vulnerabilities/Modern Application Attacks/Cache Posioning.md",
-    "Cyber Security/Newbie/Web Application Vulnerabilities/Modern Application Attacks/HTTP Request Smuggling.md",
-    "Cyber Security/Newbie/Web Application Vulnerabilities/Modern Application Attacks/HTTP Response Splitting.md",
-    "Cyber Security/Newbie/Web Application Vulnerabilities/Modern Application Attacks/Modern Application Attacks.md",
-    "Cyber Security/Newbie/Web Application Vulnerabilities/Modern Application Attacks",
-    "Cyber Security/Newbie/Web Application Vulnerabilities/OWASP Top 10/Insufficient Logging & Monitoring.md",
-    "Cyber Security/Newbie/Web Application Vulnerabilities/OWASP Top 10/Using Components with Known Vulnerabilities.md",
-    "Cyber Security/Newbie/Web Application Vulnerabilities/OWASP Top 10/Insecure Deserialization/-.NET Deserialization.md",
-    "Cyber Security/Newbie/Web Application Vulnerabilities/OWASP Top 10/Insecure Deserialization/PHP Deserialization.md",
-    "Cyber Security/Newbie/Web Application Vulnerabilities/OWASP Top 10/Insecure Deserialization/Java Deserialization.md",
-    "Cyber Security/Newbie/Web Application Vulnerabilities/OWASP Top 10/Insecure Deserialization",
-    "Cyber Security/Newbie/Web Application Vulnerabilities/OWASP Top 10/Web Application Vulnerabilities - OWASP Top 10 XXE - XXE",
-    "Cyber Security/Newbie/Web Application Vulnerabilities/OWASP Top 10/Security Misconfigurations",
-    "Cyber Security/Newbie/Web Application Vulnerabilities/OWASP Top 10/Broken Access Controls"
+    "SYN Scanning.md"
   ]
 }
