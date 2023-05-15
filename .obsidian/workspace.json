@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber Security/Newbie/Newbie.md",
-                "mode": "preview",
+                "file": "Kerberos.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber Security/Newbie/Newbie.md",
+                "file": "Kerberos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cyber Security/Newbie/Newbie.md",
+                "file": "Kerberos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cyber Security/Newbie/Newbie.md"
+                "file": "Kerberos.md"
               }
             }
           }
@@ -148,8 +148,27 @@
   },
   "active": "97a28fc60003150c",
   "lastOpenFiles": [
-    "SSL-TLS In-Depth Understanding.md",
     "Cyber Security/Newbie/Newbie.md",
-    "SYN Scanning.md"
+    "Kerberos.md",
+    "Advanced Networking Essentials/Active Directory Services/Single-Sign-On _(SSO)_.md",
+    "Advanced Networking Essentials/Active Directory Services/LDAP.md",
+    "Advanced Networking Essentials/Active Directory Services/Active Directory Services.md",
+    "Advanced Networking Essentials/Active Directory Services",
+    "Advanced Networking Essentials/SSL-TLS In-Depth Understanding/Diffie-Hellman Key Exchange.md",
+    "Advanced Networking Essentials/SSL-TLS In-Depth Understanding/Digital Signatures/Certificate Authorities/Chain of Trust.md",
+    "Advanced Networking Essentials/SSL-TLS In-Depth Understanding/Digital Signatures/Certificate Authorities/Server Certificates.md",
+    "Advanced Networking Essentials/SSL-TLS In-Depth Understanding/Digital Signatures/Certificate Authorities/Intermediate CA.md",
+    "Advanced Networking Essentials/SSL-TLS In-Depth Understanding/Digital Signatures/Certificate Authorities/Root CA.md",
+    "Advanced Networking Essentials/SSL-TLS In-Depth Understanding/Digital Signatures/Certificate Authorities/Certificate Authorities.md",
+    "Advanced Networking Essentials/SSL-TLS In-Depth Understanding/Digital Signatures/Certificate Authorities",
+    "Advanced Networking Essentials/SSL-TLS In-Depth Understanding/Digital Signatures/Digital Signatures.md",
+    "Advanced Networking Essentials/SSL-TLS In-Depth Understanding/Digital Signatures",
+    "Advanced Networking Essentials/SSL-TLS In-Depth Understanding/x509.md",
+    "Advanced Networking Essentials/SSL-TLS In-Depth Understanding/HSTS.md",
+    "Advanced Networking Essentials/SSL-TLS In-Depth Understanding/Let's Encrypt.md",
+    "Advanced Networking Essentials/SSL-TLS In-Depth Understanding",
+    "Advanced Networking Essentials/SSL-TLS In-Depth Understanding/SSL-TLS In-Depth Understanding.md",
+    "Advanced Networking Essentials",
+    "Advanced Networking Essentials/SYN Scanning.md"
   ]
 }
