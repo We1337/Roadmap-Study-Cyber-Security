@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kerberos.md",
-                "mode": "source",
+                "file": "Cyber Security/Newbie/Newbie.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kerberos.md",
+                "file": "Cyber Security/Newbie/Newbie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kerberos.md",
+                "file": "Cyber Security/Newbie/Newbie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kerberos.md"
+                "file": "Cyber Security/Newbie/Newbie.md"
               }
             }
           }
@@ -146,29 +146,41 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "97a28fc60003150c",
+  "active": "c49567a69c807792",
   "lastOpenFiles": [
+    "Cyber Security/Newbie/Advanced Networking Essentials/Linux iptables/ipTable Connection Responses/Reject.md",
     "Cyber Security/Newbie/Newbie.md",
-    "Kerberos.md",
-    "Advanced Networking Essentials/Active Directory Services/Single-Sign-On _(SSO)_.md",
-    "Advanced Networking Essentials/Active Directory Services/LDAP.md",
-    "Advanced Networking Essentials/Active Directory Services/Active Directory Services.md",
-    "Advanced Networking Essentials/Active Directory Services",
-    "Advanced Networking Essentials/SSL-TLS In-Depth Understanding/Diffie-Hellman Key Exchange.md",
-    "Advanced Networking Essentials/SSL-TLS In-Depth Understanding/Digital Signatures/Certificate Authorities/Chain of Trust.md",
-    "Advanced Networking Essentials/SSL-TLS In-Depth Understanding/Digital Signatures/Certificate Authorities/Server Certificates.md",
-    "Advanced Networking Essentials/SSL-TLS In-Depth Understanding/Digital Signatures/Certificate Authorities/Intermediate CA.md",
-    "Advanced Networking Essentials/SSL-TLS In-Depth Understanding/Digital Signatures/Certificate Authorities/Root CA.md",
-    "Advanced Networking Essentials/SSL-TLS In-Depth Understanding/Digital Signatures/Certificate Authorities/Certificate Authorities.md",
-    "Advanced Networking Essentials/SSL-TLS In-Depth Understanding/Digital Signatures/Certificate Authorities",
-    "Advanced Networking Essentials/SSL-TLS In-Depth Understanding/Digital Signatures/Digital Signatures.md",
-    "Advanced Networking Essentials/SSL-TLS In-Depth Understanding/Digital Signatures",
-    "Advanced Networking Essentials/SSL-TLS In-Depth Understanding/x509.md",
-    "Advanced Networking Essentials/SSL-TLS In-Depth Understanding/HSTS.md",
-    "Advanced Networking Essentials/SSL-TLS In-Depth Understanding/Let's Encrypt.md",
-    "Advanced Networking Essentials/SSL-TLS In-Depth Understanding",
-    "Advanced Networking Essentials/SSL-TLS In-Depth Understanding/SSL-TLS In-Depth Understanding.md",
-    "Advanced Networking Essentials",
-    "Advanced Networking Essentials/SYN Scanning.md"
+    "Cyber Security/Newbie/Advanced Networking Essentials/Linux iptables/ipTable Connection Responses/Drop IP.md",
+    "Cyber Security/Newbie/Advanced Networking Essentials/Linux iptables/ipTable Connection Responses/Accept.md",
+    "Cyber Security/Newbie/Advanced Networking Essentials/Linux iptables/ipTable Connection Responses/ipTable Connection Responses.md",
+    "Cyber Security/Newbie/Advanced Networking Essentials/Linux iptables/ipTable Connection Responses",
+    "Cyber Security/Newbie/Advanced Networking Essentials/Linux iptables/ipTable Chains/Output.md",
+    "Cyber Security/Newbie/Advanced Networking Essentials/Linux iptables/ipTable Chains/Forward.md",
+    "Cyber Security/Newbie/Advanced Networking Essentials/Linux iptables/ipTable Chains/Input.md",
+    "Cyber Security/Newbie/Advanced Networking Essentials/Linux iptables/ipTable Chains/ipTable Chains.md",
+    "Cyber Security/Newbie/Advanced Networking Essentials/Linux iptables/ipTable Chains",
+    "Cyber Security/Newbie/Advanced Networking Essentials/Linux iptables/Linux iptables.md",
+    "Cyber Security/Newbie/Advanced Networking Essentials/Linux iptables",
+    "Cyber Security/Newbie/Advanced Networking Essentials/RADIUS.md",
+    "Cyber Security/Newbie/Advanced Networking Essentials/Active Directory Services/Kerberos.md",
+    "Cyber Security/Newbie/Advanced Networking Essentials/Active Directory Services/Single-Sign-On _(SSO)_.md",
+    "Cyber Security/Newbie/Advanced Networking Essentials/Active Directory Services/LDAP.md",
+    "Cyber Security/Newbie/Advanced Networking Essentials/Active Directory Services/Active Directory Services.md",
+    "Cyber Security/Newbie/Advanced Networking Essentials/Active Directory Services",
+    "Cyber Security/Newbie/Advanced Networking Essentials/SSL-TLS In-Depth Understanding/Diffie-Hellman Key Exchange.md",
+    "Cyber Security/Newbie/Advanced Networking Essentials/SSL-TLS In-Depth Understanding/Digital Signatures/Certificate Authorities/Chain of Trust.md",
+    "Cyber Security/Newbie/Advanced Networking Essentials/SSL-TLS In-Depth Understanding/Digital Signatures/Certificate Authorities/Server Certificates.md",
+    "Cyber Security/Newbie/Advanced Networking Essentials/SSL-TLS In-Depth Understanding/Digital Signatures/Certificate Authorities/Intermediate CA.md",
+    "Cyber Security/Newbie/Advanced Networking Essentials/SSL-TLS In-Depth Understanding/Digital Signatures/Certificate Authorities/Root CA.md",
+    "Cyber Security/Newbie/Advanced Networking Essentials/SSL-TLS In-Depth Understanding/Digital Signatures/Certificate Authorities/Certificate Authorities.md",
+    "Cyber Security/Newbie/Advanced Networking Essentials/SSL-TLS In-Depth Understanding/Digital Signatures/Certificate Authorities",
+    "Cyber Security/Newbie/Advanced Networking Essentials/SSL-TLS In-Depth Understanding/Digital Signatures/Digital Signatures.md",
+    "Cyber Security/Newbie/Advanced Networking Essentials/SSL-TLS In-Depth Understanding/Digital Signatures",
+    "Cyber Security/Newbie/Advanced Networking Essentials/SSL-TLS In-Depth Understanding/x509.md",
+    "Cyber Security/Newbie/Advanced Networking Essentials/SSL-TLS In-Depth Understanding/HSTS.md",
+    "Cyber Security/Newbie/Advanced Networking Essentials/SSL-TLS In-Depth Understanding/Let's Encrypt.md",
+    "Cyber Security/Newbie/Advanced Networking Essentials/SSL-TLS In-Depth Understanding",
+    "Cyber Security/Newbie/Advanced Networking Essentials/SSL-TLS In-Depth Understanding/SSL-TLS In-Depth Understanding.md",
+    "Cyber Security/Newbie/Advanced Networking Essentials"
   ]
 }
