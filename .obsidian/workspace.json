@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Cyber Security/Newbie/Newbie.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -146,7 +146,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c49567a69c807792",
+  "active": "97a28fc60003150c",
   "lastOpenFiles": [
     "Cyber Security/Newbie/Advanced Networking Essentials/Linux iptables/ipTable Connection Responses/Reject.md",
     "Cyber Security/Newbie/Newbie.md",
