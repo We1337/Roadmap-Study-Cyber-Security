@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Cyber Security/Newbie/Newbie.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -146,10 +146,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "97a28fc60003150c",
+  "active": "c49567a69c807792",
   "lastOpenFiles": [
-    "Cyber Security/Newbie/Advanced Networking Essentials/Linux iptables/ipTable Connection Responses/Reject.md",
+    "Cyber Security/Newbie/Common Cryptography Algorithms/Encryption Algorithms",
+    "Cyber Security/Newbie/Common Cryptography Algorithms/Hashing Algorithms",
+    "Cyber Security/Newbie/Common Cryptography Algorithms",
+    "Cyber Security/Newbie/Common Cryptography Algorithms/Encryption Algorithms/Deffie-Hellman Key Exchange.md",
     "Cyber Security/Newbie/Newbie.md",
+    "Cyber Security/Newbie/Common Cryptography Algorithms/Encryption Algorithms/RSA.md",
+    "Cyber Security/Newbie/Common Cryptography Algorithms/Encryption Algorithms/EC.md",
+    "Cyber Security/Newbie/Common Cryptography Algorithms/Encryption Algorithms/Encryption Algorithms.md",
+    "Cyber Security/Newbie/Common Cryptography Algorithms/Hashing Algorithms/bCrypt.md",
+    "Cyber Security/Newbie/Common Cryptography Algorithms/Hashing Algorithms/Argon2.md",
+    "Cyber Security/Newbie/Common Cryptography Algorithms/Hashing Algorithms/HMAC.md",
+    "Cyber Security/Newbie/Common Cryptography Algorithms/Hashing Algorithms/Hashing Algorithms.md",
+    "Cyber Security/Newbie/Advanced Networking Essentials/Linux iptables/ipTable Connection Responses/Reject.md",
     "Cyber Security/Newbie/Advanced Networking Essentials/Linux iptables/ipTable Connection Responses/Drop IP.md",
     "Cyber Security/Newbie/Advanced Networking Essentials/Linux iptables/ipTable Connection Responses/Accept.md",
     "Cyber Security/Newbie/Advanced Networking Essentials/Linux iptables/ipTable Connection Responses/ipTable Connection Responses.md",
@@ -169,18 +180,9 @@
     "Cyber Security/Newbie/Advanced Networking Essentials/Active Directory Services",
     "Cyber Security/Newbie/Advanced Networking Essentials/SSL-TLS In-Depth Understanding/Diffie-Hellman Key Exchange.md",
     "Cyber Security/Newbie/Advanced Networking Essentials/SSL-TLS In-Depth Understanding/Digital Signatures/Certificate Authorities/Chain of Trust.md",
-    "Cyber Security/Newbie/Advanced Networking Essentials/SSL-TLS In-Depth Understanding/Digital Signatures/Certificate Authorities/Server Certificates.md",
-    "Cyber Security/Newbie/Advanced Networking Essentials/SSL-TLS In-Depth Understanding/Digital Signatures/Certificate Authorities/Intermediate CA.md",
-    "Cyber Security/Newbie/Advanced Networking Essentials/SSL-TLS In-Depth Understanding/Digital Signatures/Certificate Authorities/Root CA.md",
-    "Cyber Security/Newbie/Advanced Networking Essentials/SSL-TLS In-Depth Understanding/Digital Signatures/Certificate Authorities/Certificate Authorities.md",
     "Cyber Security/Newbie/Advanced Networking Essentials/SSL-TLS In-Depth Understanding/Digital Signatures/Certificate Authorities",
-    "Cyber Security/Newbie/Advanced Networking Essentials/SSL-TLS In-Depth Understanding/Digital Signatures/Digital Signatures.md",
     "Cyber Security/Newbie/Advanced Networking Essentials/SSL-TLS In-Depth Understanding/Digital Signatures",
-    "Cyber Security/Newbie/Advanced Networking Essentials/SSL-TLS In-Depth Understanding/x509.md",
-    "Cyber Security/Newbie/Advanced Networking Essentials/SSL-TLS In-Depth Understanding/HSTS.md",
-    "Cyber Security/Newbie/Advanced Networking Essentials/SSL-TLS In-Depth Understanding/Let's Encrypt.md",
     "Cyber Security/Newbie/Advanced Networking Essentials/SSL-TLS In-Depth Understanding",
-    "Cyber Security/Newbie/Advanced Networking Essentials/SSL-TLS In-Depth Understanding/SSL-TLS In-Depth Understanding.md",
     "Cyber Security/Newbie/Advanced Networking Essentials"
   ]
 }

@@ -315,17 +315,17 @@
       * [[Reject]]
     
 ## Common Cryptography Algorithms
-  * **Hashing Algorithms**
-    * HMAC
-    * MD5
-    * SHA1, SHA2
-    * Argon2
-    * bCrypt
-  * **Encryption Algorithms**
-    * EC
-    * RSA
-    * AES
-    * Deffie-Hellman Key Exchange
+  * **[[Hashing Algorithms]]**
+    * [[HMAC]]
+    * [[MD5]]
+    * [[SHA1, SHA2]]
+    * [[Argon2]]
+    * [[bCrypt]]
+  * **[[Encryption Algorithms]]**
+    * [[EC]]
+    * [[RSA]]
+    * [[AES]]
+    * [[Deffie-Hellman Key Exchange]]
 ## Fundamental Network-Based Vulnerabilities
   * Man-In-The-Middle Attack
     * ARP Poisoning
