@@ -148,11 +148,16 @@
   },
   "active": "c49567a69c807792",
   "lastOpenFiles": [
+    "Fundamental Network-Based Vulnerabilities/Promiscuous Mode.md",
+    "Cyber Security/Newbie/Newbie.md",
+    "Fundamental Network-Based Vulnerabilities/Man-In-The-Middle Attack/ARP Poisoning.md",
+    "Fundamental Network-Based Vulnerabilities/Man-In-The-Middle Attack/Man-In-The-Middle Attack.md",
+    "Fundamental Network-Based Vulnerabilities/Man-In-The-Middle Attack",
+    "Fundamental Network-Based Vulnerabilities",
     "Cyber Security/Newbie/Common Cryptography Algorithms/Encryption Algorithms",
     "Cyber Security/Newbie/Common Cryptography Algorithms/Hashing Algorithms",
     "Cyber Security/Newbie/Common Cryptography Algorithms",
     "Cyber Security/Newbie/Common Cryptography Algorithms/Encryption Algorithms/Deffie-Hellman Key Exchange.md",
-    "Cyber Security/Newbie/Newbie.md",
     "Cyber Security/Newbie/Common Cryptography Algorithms/Encryption Algorithms/RSA.md",
     "Cyber Security/Newbie/Common Cryptography Algorithms/Encryption Algorithms/EC.md",
     "Cyber Security/Newbie/Common Cryptography Algorithms/Encryption Algorithms/Encryption Algorithms.md",
@@ -178,11 +183,6 @@
     "Cyber Security/Newbie/Advanced Networking Essentials/Active Directory Services/LDAP.md",
     "Cyber Security/Newbie/Advanced Networking Essentials/Active Directory Services/Active Directory Services.md",
     "Cyber Security/Newbie/Advanced Networking Essentials/Active Directory Services",
-    "Cyber Security/Newbie/Advanced Networking Essentials/SSL-TLS In-Depth Understanding/Diffie-Hellman Key Exchange.md",
-    "Cyber Security/Newbie/Advanced Networking Essentials/SSL-TLS In-Depth Understanding/Digital Signatures/Certificate Authorities/Chain of Trust.md",
-    "Cyber Security/Newbie/Advanced Networking Essentials/SSL-TLS In-Depth Understanding/Digital Signatures/Certificate Authorities",
-    "Cyber Security/Newbie/Advanced Networking Essentials/SSL-TLS In-Depth Understanding/Digital Signatures",
-    "Cyber Security/Newbie/Advanced Networking Essentials/SSL-TLS In-Depth Understanding",
-    "Cyber Security/Newbie/Advanced Networking Essentials"
+    "Cyber Security/Newbie/Advanced Networking Essentials/SSL-TLS In-Depth Understanding/Digital Signatures/Certificate Authorities"
   ]
 }
