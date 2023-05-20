@@ -335,7 +335,7 @@
     * [[EAP]]
     * [[Promiscuous Detection]]
     * [[Cracking WEP]]
-    * [[Cracking WPA/WPA2]]
+    * [[Cracking WPA-WPA2]]
         * [[4-Way Handshakes]]
           * [[Pre-Wise Master Keys]]
           * [[Authenticator Nonce]]
