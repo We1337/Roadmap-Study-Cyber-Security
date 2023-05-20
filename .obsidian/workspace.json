@@ -148,8 +148,14 @@
   },
   "active": "c49567a69c807792",
   "lastOpenFiles": [
-    "Fundamental Network-Based Vulnerabilities/Promiscuous Mode.md",
+    "WiFi Hacking - Security/Cracking WEP.md",
     "Cyber Security/Newbie/Newbie.md",
+    "WiFi Hacking - Security/Promiscuous Detection.md",
+    "WiFi Hacking - Security/EAP.md",
+    "WiFi Hacking - Security/Pre-Shared Keys.md",
+    "WiFi Hacking - Security",
+    "WiFi Hacking - Security/WiFi Hacking - Security.md",
+    "Fundamental Network-Based Vulnerabilities/Promiscuous Mode.md",
     "Fundamental Network-Based Vulnerabilities/Man-In-The-Middle Attack/ARP Poisoning.md",
     "Fundamental Network-Based Vulnerabilities/Man-In-The-Middle Attack/Man-In-The-Middle Attack.md",
     "Fundamental Network-Based Vulnerabilities/Man-In-The-Middle Attack",
@@ -177,12 +183,6 @@
     "Cyber Security/Newbie/Advanced Networking Essentials/Linux iptables/ipTable Chains",
     "Cyber Security/Newbie/Advanced Networking Essentials/Linux iptables/Linux iptables.md",
     "Cyber Security/Newbie/Advanced Networking Essentials/Linux iptables",
-    "Cyber Security/Newbie/Advanced Networking Essentials/RADIUS.md",
-    "Cyber Security/Newbie/Advanced Networking Essentials/Active Directory Services/Kerberos.md",
-    "Cyber Security/Newbie/Advanced Networking Essentials/Active Directory Services/Single-Sign-On _(SSO)_.md",
-    "Cyber Security/Newbie/Advanced Networking Essentials/Active Directory Services/LDAP.md",
-    "Cyber Security/Newbie/Advanced Networking Essentials/Active Directory Services/Active Directory Services.md",
-    "Cyber Security/Newbie/Advanced Networking Essentials/Active Directory Services",
-    "Cyber Security/Newbie/Advanced Networking Essentials/SSL-TLS In-Depth Understanding/Digital Signatures/Certificate Authorities"
+    "Cyber Security/Newbie/Advanced Networking Essentials/Active Directory Services"
   ]
 }
