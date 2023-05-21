@@ -355,16 +355,16 @@
         * [[Silver Ticket Attack]]
 
 ## Linux Essentials
-  * Linux Distributions:
-    * Debian vs. RedHat
-    * Debian-Based Distros
-      * Ubuntu
-      * Kali Linux
-      * ParrotOS
-    * RedHat
-      * RHEL _($)_
-      * CentOS
-      * Fedora
+  * [[Linux Distributions]]:
+    * [[Debian vs. RedHat]]
+    * [[Debian-Based Distros]]
+      * [[Ubuntu]]
+      * [[Kali Linux]]
+      * [[ParrotOS]]
+    * [[RedHat]]
+      * [[RHEL _($)_]]
+      * [[CentOS]]
+      * [[Fedora]]
   * Linux CLI Essentials
     * System Management
     * Installing Software
