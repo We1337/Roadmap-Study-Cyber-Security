@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Cyber Security/Newbie/Newbie.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -146,10 +146,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c49567a69c807792",
+  "active": "97a28fc60003150c",
   "lastOpenFiles": [
-    "Linux Essentials/Linux Distributions/Debian vs. RedHat.md",
+    "Linux Essentials/Linux Distributions/RedHat/Fedora.md",
     "Cyber Security/Newbie/Newbie.md",
+    "Linux Essentials/Linux Distributions/RedHat/CentOS.md",
+    "Linux Essentials/Linux Distributions/RedHat/RHEL _($)_.md",
+    "Linux Essentials/Linux Distributions/RedHat/RedHat.md",
+    "Linux Essentials/Linux Distributions/RedHat",
+    "Linux Essentials/Linux Distributions/Debian-Based Distros/ParrotOS.md",
+    "Linux Essentials/Linux Distributions/Debian-Based Distros/Ubuntu.md",
+    "Linux Essentials/Linux Distributions/Debian-Based Distros",
+    "Linux Essentials/Linux Distributions/Debian-Based Distros/Debian-Based Distros.md",
+    "Linux Essentials/Linux Distributions/Debian vs. RedHat.md",
     "Linux Essentials/Linux Distributions/Linux Distributions.md",
     "Linux Essentials/Linux Distributions",
     "Linux Essentials",
@@ -172,17 +181,8 @@
     "Cyber Security/Newbie/Fundamental Network-Based Vulnerabilities/WiFi Hacking - Security/Cracking WPA-WPA2/4-Way Handshakes/Supplicant Nonce.md",
     "Cyber Security/Newbie/Fundamental Network-Based Vulnerabilities/WiFi Hacking - Security/Cracking WPA-WPA2/4-Way Handshakes/Authenticator Nonce.md",
     "Cyber Security/Newbie/Fundamental Network-Based Vulnerabilities/WiFi Hacking - Security/Cracking WPA-WPA2/4-Way Handshakes/Pre-Wise Master Keys.md",
-    "Cyber Security/Newbie/Fundamental Network-Based Vulnerabilities/WiFi Hacking - Security/Cracking WPA-WPA2/4-Way Handshakes/4-Way Handshakes.md",
     "Cyber Security/Newbie/Fundamental Network-Based Vulnerabilities/WiFi Hacking - Security/Cracking WPA-WPA2/4-Way Handshakes",
-    "Cyber Security/Newbie/Fundamental Network-Based Vulnerabilities/WiFi Hacking - Security/Cracking WPA-WPA2/Cracking WPA-WPA2.md",
     "Cyber Security/Newbie/Fundamental Network-Based Vulnerabilities/WiFi Hacking - Security/Cracking WPA-WPA2",
-    "Cracking WPA/WPA2.md",
-    "Cracking WPA",
-    "Cyber Security/Newbie/Fundamental Network-Based Vulnerabilities/WiFi Hacking - Security/Cracking WEP.md",
-    "Cyber Security/Newbie/Fundamental Network-Based Vulnerabilities/WiFi Hacking - Security/Promiscuous Detection.md",
-    "Cyber Security/Newbie/Fundamental Network-Based Vulnerabilities/WiFi Hacking - Security/EAP.md",
-    "Cyber Security/Newbie/Fundamental Network-Based Vulnerabilities/WiFi Hacking - Security/Pre-Shared Keys.md",
-    "Cyber Security/Newbie/Fundamental Network-Based Vulnerabilities/WiFi Hacking - Security",
-    "Cyber Security/Newbie/Fundamental Network-Based Vulnerabilities/Man-In-The-Middle Attack"
+    "Cracking WPA"
   ]
 }
