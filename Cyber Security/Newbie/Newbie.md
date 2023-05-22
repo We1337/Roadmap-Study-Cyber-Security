@@ -365,38 +365,38 @@
       * [[RHEL _($)_]]
       * [[CentOS]]
       * [[Fedora]]
-  * Linux CLI Essentials
-    * System Management
-    * Installing Software
-      * apt _(Debian)_
-        * .deb
-        * dpkg
-      * yum _(RedHat)_
-        * .rpm
-      * /usr/bin
-      * /opt/
-    * Networking
-      * nmcli
-      * nmtui
-      * /etc/sysconfig/network-scripts/
-    * Inspecting Logs
-      * journelctl
-      * /var/log
-    * Environment Variables
-      * env
-  * Linux Data Exfilration _(Post exploitation)_
-    * /tmp
-    * /home
-    * /var/log
-    * ~/.bash_history
-    * Check Environment Variables
-      * env
-      * printenv
-    * /etc/passwd
-    * /etc/shadow
-    * ~/.ssh/id_rsa
-    * /etc/cron.d
-    * /var/www
+  * [[Linux CLI Essentials]]
+    * [[System Management]]
+    * [[Installing Software]]
+      * [[apt _(Debian)_]]
+        * [[deb]]
+        * [[dpkg]]
+      * [[yum _(RedHat)_]]
+        * [[rpm]]
+      * [[-usr-bin]]
+      * [[-opt]]
+    * [[Networking]]
+      * [[nmcli]]
+      * [[nmtui]]
+      * [[-etc-sysconfig-network-scripts-]]
+    * [[Inspecting Logs]]
+      * [[journelctl]]
+      * [[-var-log]]
+    * [[Environment Variables]]
+      * [[env]]
+  * [[Linux Data Exfilration _(Post exploitation)_]]
+    * [[-tmp]]
+    * [[-home]]
+    * [[-var-log]]
+    * [[~-.bash_history]]
+    * [[Check Environment Variables]]
+      * [[env]]
+      * [[printenv]]
+    * [[-etc-passwd]]
+    * [[-etc-shadow]]
+    * [[~-.ssh-id_rsa]]
+    * [[-etc-cron.d]]
+    * [[-var-www]]
     
 ## Memory / Binary Fundamentals
   * **Binary**
