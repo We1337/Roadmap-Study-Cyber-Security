@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber Security/Newbie/Newbie.md",
-                "mode": "preview",
+                "file": "Physical Memory vs. Virtual Memory.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber Security/Newbie/Newbie.md",
+                "file": "Physical Memory vs. Virtual Memory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cyber Security/Newbie/Newbie.md",
+                "file": "Physical Memory vs. Virtual Memory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cyber Security/Newbie/Newbie.md"
+                "file": "Physical Memory vs. Virtual Memory.md"
               }
             }
           }
@@ -148,8 +148,14 @@
   },
   "active": "97a28fc60003150c",
   "lastOpenFiles": [
-    "Binary.md",
     "Cyber Security/Newbie/Newbie.md",
+    "Physical Memory vs. Virtual Memory.md",
+    "The Kernel.md",
+    "Hexadecimal _(Base16)_.md",
+    "Base8 vs. Base10.md",
+    "8-Bit Binary Translation.md",
+    "Bit vs. Nyble vs. Byte.md",
+    "Binary.md",
     "Cyber Security/Newbie/Linux Essentials/Linux Data Exfilration _(Post exploitation)_/-var-www.md",
     "Cyber Security/Newbie/Linux Essentials/Linux Data Exfilration _(Post exploitation)_/-etc-cron.d.md",
     "Cyber Security/Newbie/Linux Essentials/Linux Data Exfilration _(Post exploitation)_/~-.ssh-id_rsa.md",
@@ -172,13 +178,7 @@
     "Cyber Security/Newbie/Linux Essentials/Linux CLI Essentials/Inspecting Logs",
     "Cyber Security/Newbie/Linux Essentials/Linux CLI Essentials/Networking/-etc-sysconfig-network-scripts-.md",
     "Cyber Security/Newbie/Linux Essentials/Linux CLI Essentials/Networking/nmtui.md",
-    "Cyber Security/Newbie/Linux Essentials/Linux CLI Essentials/Networking/nmcli.md",
-    "Cyber Security/Newbie/Linux Essentials/Linux CLI Essentials/Networking/Networking.md",
     "Cyber Security/Newbie/Linux Essentials/Linux CLI Essentials/Networking",
-    "Cyber Security/Newbie/Linux Essentials/Linux CLI Essentials/Installing Software/-opt.md",
-    "Cyber Security/Newbie/Linux Essentials/Linux CLI Essentials/Installing Software/-usr-bin.md",
-    "Cyber Security/Newbie/Linux Essentials/Linux CLI Essentials/Installing Software/yum _(RedHat)_/rpm.md",
-    "Cyber Security/Newbie/Linux Essentials/Linux CLI Essentials/Installing Software/yum _(RedHat)_/yum _(RedHat)_.md",
     "Cyber Security/Newbie/Linux Essentials/Linux CLI Essentials/Installing Software/yum _(RedHat)_",
     "Cyber Security/Newbie/Linux Essentials/Linux CLI Essentials/Installing Software/apt _(Debian)_",
     "Cyber Security/Newbie/Linux Essentials/Linux CLI Essentials/Installing Software",
