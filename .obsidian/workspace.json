@@ -146,10 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c49567a69c807792",
+  "active": "97a28fc60003150c",
   "lastOpenFiles": [
-    "Cyber Security/Newbie/Linux Essentials/Linux Data Exfilration _(Post exploitation)_/-var-www.md",
+    "Binary.md",
     "Cyber Security/Newbie/Newbie.md",
+    "Cyber Security/Newbie/Linux Essentials/Linux Data Exfilration _(Post exploitation)_/-var-www.md",
     "Cyber Security/Newbie/Linux Essentials/Linux Data Exfilration _(Post exploitation)_/-etc-cron.d.md",
     "Cyber Security/Newbie/Linux Essentials/Linux Data Exfilration _(Post exploitation)_/~-.ssh-id_rsa.md",
     "Cyber Security/Newbie/Linux Essentials/Linux Data Exfilration _(Post exploitation)_/-etc-shadow.md",
@@ -179,7 +180,6 @@
     "Cyber Security/Newbie/Linux Essentials/Linux CLI Essentials/Installing Software/yum _(RedHat)_/rpm.md",
     "Cyber Security/Newbie/Linux Essentials/Linux CLI Essentials/Installing Software/yum _(RedHat)_/yum _(RedHat)_.md",
     "Cyber Security/Newbie/Linux Essentials/Linux CLI Essentials/Installing Software/yum _(RedHat)_",
-    "Cyber Security/Newbie/Linux Essentials/Linux CLI Essentials/Installing Software/apt _(Debian)_/dpkg.md",
     "Cyber Security/Newbie/Linux Essentials/Linux CLI Essentials/Installing Software/apt _(Debian)_",
     "Cyber Security/Newbie/Linux Essentials/Linux CLI Essentials/Installing Software",
     "Cyber Security/Newbie/Linux Essentials/Linux CLI Essentials",

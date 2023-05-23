@@ -399,7 +399,7 @@
     * [[-var-www]]
     
 ## Memory / Binary Fundamentals
-  * **Binary**
+  * **[[Binary]]**
     * Bit vs. Nyble vs. Byte
     * 8-Bit Binary Translation
     * Base8 vs. Base10
