@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physical Memory vs. Virtual Memory.md",
-                "mode": "source",
+                "file": "Cyber Security/Newbie/Newbie.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physical Memory vs. Virtual Memory.md",
+                "file": "Cyber Security/Newbie/Newbie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physical Memory vs. Virtual Memory.md",
+                "file": "Cyber Security/Newbie/Newbie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physical Memory vs. Virtual Memory.md"
+                "file": "Cyber Security/Newbie/Newbie.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "97a28fc60003150c",
   "lastOpenFiles": [
+    "SYSCALLs.md",
     "Cyber Security/Newbie/Newbie.md",
     "Physical Memory vs. Virtual Memory.md",
     "The Kernel.md",
@@ -177,7 +178,6 @@
     "Cyber Security/Newbie/Linux Essentials/Linux CLI Essentials/Inspecting Logs/Inspecting Logs.md",
     "Cyber Security/Newbie/Linux Essentials/Linux CLI Essentials/Inspecting Logs",
     "Cyber Security/Newbie/Linux Essentials/Linux CLI Essentials/Networking/-etc-sysconfig-network-scripts-.md",
-    "Cyber Security/Newbie/Linux Essentials/Linux CLI Essentials/Networking/nmtui.md",
     "Cyber Security/Newbie/Linux Essentials/Linux CLI Essentials/Networking",
     "Cyber Security/Newbie/Linux Essentials/Linux CLI Essentials/Installing Software/yum _(RedHat)_",
     "Cyber Security/Newbie/Linux Essentials/Linux CLI Essentials/Installing Software/apt _(Debian)_",
