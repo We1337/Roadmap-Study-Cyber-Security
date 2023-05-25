@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber Security/Newbie/Newbie.md",
-                "mode": "preview",
+                "file": "System Interrupts.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber Security/Newbie/Newbie.md",
+                "file": "System Interrupts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cyber Security/Newbie/Newbie.md",
+                "file": "System Interrupts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cyber Security/Newbie/Newbie.md"
+                "file": "System Interrupts.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "97a28fc60003150c",
   "lastOpenFiles": [
-    "SYSCALLs.md",
     "Cyber Security/Newbie/Newbie.md",
+    "System Interrupts.md",
+    "SYSCALLs.md",
     "Physical Memory vs. Virtual Memory.md",
     "The Kernel.md",
     "Hexadecimal _(Base16)_.md",
@@ -177,7 +178,6 @@
     "Cyber Security/Newbie/Linux Essentials/Linux CLI Essentials/Inspecting Logs/journelctl.md",
     "Cyber Security/Newbie/Linux Essentials/Linux CLI Essentials/Inspecting Logs/Inspecting Logs.md",
     "Cyber Security/Newbie/Linux Essentials/Linux CLI Essentials/Inspecting Logs",
-    "Cyber Security/Newbie/Linux Essentials/Linux CLI Essentials/Networking/-etc-sysconfig-network-scripts-.md",
     "Cyber Security/Newbie/Linux Essentials/Linux CLI Essentials/Networking",
     "Cyber Security/Newbie/Linux Essentials/Linux CLI Essentials/Installing Software/yum _(RedHat)_",
     "Cyber Security/Newbie/Linux Essentials/Linux CLI Essentials/Installing Software/apt _(Debian)_",
