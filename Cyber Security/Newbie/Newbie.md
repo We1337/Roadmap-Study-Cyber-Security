@@ -410,19 +410,16 @@
     * [[System Interrupts]]
     * [[Modules]]
 
-## BASH Scripting [to-do]
-... ... ... ...
-
 ## Local Privilage Exculation
- * Windows
- * Linux
-    * LinPEAS
-    * Leveraging running processes running as root
-        * ps -ef
-        * ps -aux
-    * Searching for outdated vulnerable software
-        * dpkg -l _(Debian)_
-        * rpm -qa _(CentOS)_
+ * [[Windows]]
+ * [[Linux]]
+    * [[LinPEAS]]
+    * [[Leveraging running processes running as root]]
+        * [[ps -ef]]
+        * [[ps -aux]]
+    * [[Searching for outdated vulnerable software]]
+        * [[dpkg -l _(Debian)_]]
+        * [[rpm -qa _(CentOS)_]]
 
 
 ## Python Essentials

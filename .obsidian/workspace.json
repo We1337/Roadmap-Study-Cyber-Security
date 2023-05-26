@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System Interrupts.md",
+                "file": "Cyber Security/Newbie/Newbie.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System Interrupts.md",
+                "file": "Cyber Security/Newbie/Newbie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "System Interrupts.md",
+                "file": "Cyber Security/Newbie/Newbie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "System Interrupts.md"
+                "file": "Cyber Security/Newbie/Newbie.md"
               }
             }
           }
@@ -148,16 +148,20 @@
   },
   "active": "97a28fc60003150c",
   "lastOpenFiles": [
-    "Cyber Security/Newbie/Newbie.md",
-    "System Interrupts.md",
-    "SYSCALLs.md",
-    "Physical Memory vs. Virtual Memory.md",
     "The Kernel.md",
-    "Hexadecimal _(Base16)_.md",
-    "Base8 vs. Base10.md",
-    "8-Bit Binary Translation.md",
-    "Bit vs. Nyble vs. Byte.md",
-    "Binary.md",
+    "Cyber Security/Newbie/Memory - Binary Fundamentals/The Kernel",
+    "Cyber Security/Newbie/Newbie.md",
+    "Cyber Security/Newbie/Memory - Binary Fundamentals/Binary/Bit vs. Nyble vs. Byte.md",
+    "Cyber Security/Newbie/Memory - Binary Fundamentals",
+    "Cyber Security/Newbie/Memory - Binary Fundamentals/Binary",
+    "Cyber Security/Newbie/Memory - Binary Fundamentals/The Kernel/Modules.md",
+    "Cyber Security/Newbie/Memory - Binary Fundamentals/The Kernel/System Interrupts.md",
+    "Cyber Security/Newbie/Memory - Binary Fundamentals/The Kernel/SYSCALLs.md",
+    "Cyber Security/Newbie/Memory - Binary Fundamentals/The Kernel/Physical Memory vs. Virtual Memory.md",
+    "Cyber Security/Newbie/Memory - Binary Fundamentals/Binary/Hexadecimal _(Base16)_.md",
+    "Cyber Security/Newbie/Memory - Binary Fundamentals/Binary/Base8 vs. Base10.md",
+    "Cyber Security/Newbie/Memory - Binary Fundamentals/Binary/8-Bit Binary Translation.md",
+    "Cyber Security/Newbie/Memory - Binary Fundamentals/Binary/Binary.md",
     "Cyber Security/Newbie/Linux Essentials/Linux Data Exfilration _(Post exploitation)_/-var-www.md",
     "Cyber Security/Newbie/Linux Essentials/Linux Data Exfilration _(Post exploitation)_/-etc-cron.d.md",
     "Cyber Security/Newbie/Linux Essentials/Linux Data Exfilration _(Post exploitation)_/~-.ssh-id_rsa.md",
@@ -175,14 +179,9 @@
     "Cyber Security/Newbie/Linux Essentials/Linux CLI Essentials/Environment Variables/env.md",
     "Cyber Security/Newbie/Linux Essentials/Linux CLI Essentials/Environment Variables",
     "Cyber Security/Newbie/Linux Essentials/Linux CLI Essentials/Inspecting Logs/-var-log.md",
-    "Cyber Security/Newbie/Linux Essentials/Linux CLI Essentials/Inspecting Logs/journelctl.md",
-    "Cyber Security/Newbie/Linux Essentials/Linux CLI Essentials/Inspecting Logs/Inspecting Logs.md",
     "Cyber Security/Newbie/Linux Essentials/Linux CLI Essentials/Inspecting Logs",
     "Cyber Security/Newbie/Linux Essentials/Linux CLI Essentials/Networking",
     "Cyber Security/Newbie/Linux Essentials/Linux CLI Essentials/Installing Software/yum _(RedHat)_",
-    "Cyber Security/Newbie/Linux Essentials/Linux CLI Essentials/Installing Software/apt _(Debian)_",
-    "Cyber Security/Newbie/Linux Essentials/Linux CLI Essentials/Installing Software",
-    "Cyber Security/Newbie/Linux Essentials/Linux CLI Essentials",
-    "Cyber Security/Newbie/Linux Essentials/Linux Distributions/RedHat"
+    "Cyber Security/Newbie/Linux Essentials/Linux CLI Essentials/Installing Software/apt _(Debian)_"
   ]
 }
