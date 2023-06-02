@@ -421,23 +421,21 @@
         * [[dpkg -l _(Debian)_]]
         * [[rpm -qa _(CentOS)_]]
 
-
 ## Python Essentials
-  * Understanding the Basics / coding fundamentals...
-    * Loops, If/Else, Variables, Functions, etc
-  * Reading / Writing Files
-    * open()
-      * Read, Write, Append
-  * **Requests Module**
-    * requests.get()
-    * requests.post()
-      * auth=(user, pass)
-  * **Regular Expressions**
-    * [Top 15 Commonly Used RegEx](https://digitalfortress.tech/tricks/top-15-commonly-used-regex/)
-    * Parsing for Phone Numbers
-    * Parsing for Emails
-    * Parsing for Form Values
-
+  * [[Understanding the Basics - coding fundamentals...]]
+    * [[Loops, If/Else, Variables, Functions, etc]]
+  * [[Reading - Writing Files]]
+    * [[open()]]
+      * [[Read, Write, Append]]
+  * [[Requests Module]]
+    * [[requests.get()]]
+    * [[requests.post()]]
+      * [[auth=(user, pass)]]
+  * [[Regular Expressions]]
+    * [[Top 15 Commonly Used RegEx]]
+    * [[Parsing for Phone Numbers]]
+    * [[Parsing for Emails]]
+    * [[Parsing for Form Values]]
 
 ## Popular CVEs _(Stuff you should probably know about)_
   * Eternal Blue
