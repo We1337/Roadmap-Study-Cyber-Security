@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2ac5f587f3cce0d3",
+        "id": "1d98dbc61271cfda",
         "type": "tabs",
         "children": [
           {
-            "id": "97a28fc60003150c",
+            "id": "8a666210eec1e8b7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Understanding the Basics - coding fundamentals....md",
-                "mode": "source",
+                "file": "Cyber Security/Newbie/Newbie.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "50f987f9b0b0e7fc",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Understanding the Basics - coding fundamentals....md",
+                "file": "Cyber Security/Newbie/Newbie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Understanding the Basics - coding fundamentals....md",
+                "file": "Cyber Security/Newbie/Newbie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Understanding the Basics - coding fundamentals....md"
+                "file": "Cyber Security/Newbie/Newbie.md"
               }
             }
           }
@@ -147,10 +146,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "97a28fc60003150c",
+  "active": "8a666210eec1e8b7",
   "lastOpenFiles": [
+    "Parsing for Form Values.md",
     "Cyber Security/Newbie/Newbie.md",
+    "Parsing for Emails.md",
+    "Parsing for Phone Numbers.md",
+    "Top 15 Commonly Used RegEx.md",
+    "Regular Expressions.md",
+    "auth=(user, pass).md",
+    "requests.post().md",
+    "requests.get().md",
+    "Requests Module.md",
+    "Read, Write, Append.md",
+    "open().md",
+    "Reading - Writing Files.md",
+    "Loops, If/Else, Variables, Functions, etc.md",
     "Understanding the Basics - coding fundamentals....md",
+    "Loops, If",
     "The Kernel.md",
     "Cyber Security/Newbie/Memory - Binary Fundamentals/The Kernel",
     "Cyber Security/Newbie/Memory - Binary Fundamentals/Binary/Bit vs. Nyble vs. Byte.md",
@@ -165,25 +178,11 @@
     "Cyber Security/Newbie/Memory - Binary Fundamentals/Binary/8-Bit Binary Translation.md",
     "Cyber Security/Newbie/Memory - Binary Fundamentals/Binary/Binary.md",
     "Cyber Security/Newbie/Linux Essentials/Linux Data Exfilration _(Post exploitation)_/-var-www.md",
-    "Cyber Security/Newbie/Linux Essentials/Linux Data Exfilration _(Post exploitation)_/-etc-cron.d.md",
-    "Cyber Security/Newbie/Linux Essentials/Linux Data Exfilration _(Post exploitation)_/~-.ssh-id_rsa.md",
-    "Cyber Security/Newbie/Linux Essentials/Linux Data Exfilration _(Post exploitation)_/-etc-shadow.md",
-    "Cyber Security/Newbie/Linux Essentials/Linux Data Exfilration _(Post exploitation)_/-etc-passwd.md",
-    "Cyber Security/Newbie/Linux Essentials/Linux Data Exfilration _(Post exploitation)_/Check Environment Variables/printenv.md",
-    "Cyber Security/Newbie/Linux Essentials/Linux Data Exfilration _(Post exploitation)_/Check Environment Variables/Check Environment Variables.md",
     "Cyber Security/Newbie/Linux Essentials/Linux Data Exfilration _(Post exploitation)_/Check Environment Variables",
-    "Cyber Security/Newbie/Linux Essentials/Linux Data Exfilration _(Post exploitation)_/~-.bash_history.md",
-    "Cyber Security/Newbie/Linux Essentials/Linux Data Exfilration _(Post exploitation)_/-home.md",
-    "Cyber Security/Newbie/Linux Essentials/Linux Data Exfilration _(Post exploitation)_/-tmp.md",
-    "Cyber Security/Newbie/Linux Essentials/Linux Data Exfilration _(Post exploitation)_/Linux Data Exfilration _(Post exploitation)_.md",
     "Cyber Security/Newbie/Linux Essentials/Linux Data Exfilration _(Post exploitation)_",
-    "Cyber Security/Newbie/Linux Essentials/Linux CLI Essentials/Environment Variables/Environment Variables.md",
-    "Cyber Security/Newbie/Linux Essentials/Linux CLI Essentials/Environment Variables/env.md",
     "Cyber Security/Newbie/Linux Essentials/Linux CLI Essentials/Environment Variables",
-    "Cyber Security/Newbie/Linux Essentials/Linux CLI Essentials/Inspecting Logs/-var-log.md",
     "Cyber Security/Newbie/Linux Essentials/Linux CLI Essentials/Inspecting Logs",
     "Cyber Security/Newbie/Linux Essentials/Linux CLI Essentials/Networking",
-    "Cyber Security/Newbie/Linux Essentials/Linux CLI Essentials/Installing Software/yum _(RedHat)_",
-    "Cyber Security/Newbie/Linux Essentials/Linux CLI Essentials/Installing Software/apt _(Debian)_"
+    "Cyber Security/Newbie/Linux Essentials/Linux CLI Essentials/Installing Software/yum _(RedHat)_"
   ]
 }
