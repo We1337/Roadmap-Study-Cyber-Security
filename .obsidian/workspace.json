@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DirtyCow.md",
-                "mode": "source",
+                "file": "Cyber Security/Newbie/Newbie.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DirtyCow.md",
+                "file": "Cyber Security/Newbie/Newbie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DirtyCow.md",
+                "file": "Cyber Security/Newbie/Newbie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DirtyCow.md"
+                "file": "Cyber Security/Newbie/Newbie.md"
               }
             }
           }
@@ -148,7 +148,12 @@
   },
   "active": "8a666210eec1e8b7",
   "lastOpenFiles": [
+    "MS14-068 Kerberos Elevation of Privilege Vulnerability.md",
     "Cyber Security/Newbie/Newbie.md",
+    "HeartBleed.md",
+    "Spectre.md",
+    "MeltDown.md",
+    "ShellShock.md",
     "DirtyCow.md",
     "Eternal Blue.md",
     "Parsing for Form Values.md",
@@ -173,11 +178,6 @@
     "Cyber Security/Newbie/Memory - Binary Fundamentals/Binary",
     "Cyber Security/Newbie/Memory - Binary Fundamentals/The Kernel/Modules.md",
     "Cyber Security/Newbie/Memory - Binary Fundamentals/The Kernel/System Interrupts.md",
-    "Cyber Security/Newbie/Memory - Binary Fundamentals/The Kernel/SYSCALLs.md",
-    "Cyber Security/Newbie/Memory - Binary Fundamentals/The Kernel/Physical Memory vs. Virtual Memory.md",
-    "Cyber Security/Newbie/Memory - Binary Fundamentals/Binary/Hexadecimal _(Base16)_.md",
-    "Cyber Security/Newbie/Memory - Binary Fundamentals/Binary/Base8 vs. Base10.md",
-    "Cyber Security/Newbie/Memory - Binary Fundamentals/Binary/8-Bit Binary Translation.md",
     "Cyber Security/Newbie/Linux Essentials/Linux Data Exfilration _(Post exploitation)_/Check Environment Variables",
     "Cyber Security/Newbie/Linux Essentials/Linux Data Exfilration _(Post exploitation)_",
     "Cyber Security/Newbie/Linux Essentials/Linux CLI Essentials/Environment Variables",

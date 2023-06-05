@@ -444,7 +444,7 @@
   * [[MeltDown]]
     * [[Spectre]]
   * [[HeartBleed]]
-  * [[MS14-068: Kerberos Elevation of Privilege Vulnerability]]
+  * [[MS14-068 Kerberos Elevation of Privilege Vulnerability]]
 
 
 ## Recommended Certifications

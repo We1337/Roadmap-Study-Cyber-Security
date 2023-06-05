@@ -1,0 +1,9 @@
+DirtyCow, also known as CVE-2016-5195, is a computer vulnerability that affects the Linux kernel. The name "DirtyCow" is derived from the term "dirty copy-on-write," which refers to a race condition in the kernel's memory subsystem.
+
+The vulnerability was discovered in October 2016 and was considered a serious security issue. It allows an unprivileged local user to gain write access to read-only memory mappings. By exploiting DirtyCow, an attacker can potentially escalate their privileges and execute arbitrary code on the affected system.
+
+The DirtyCow vulnerability specifically targets the copy-on-write mechanism, which is used to optimize memory management. When a process requests a copy of a memory page that is marked as read-only, the kernel creates a copy of the page only when a write operation occurs. However, DirtyCow allows an attacker to race the copy-on-write process, modifying the page before it is marked as read-only, effectively gaining write access to the protected memory.
+
+The vulnerability affected a wide range of Linux distributions and devices, including servers, desktops, and embedded systems. The Linux kernel developers promptly released patches to address the vulnerability, and system administrators were advised to apply the updates as soon as possible.
+
+It is important to note that keeping software and systems up to date with the latest security patches is crucial to mitigate vulnerabilities like DirtyCow. Additionally, following best security practices, such as running as few privileged processes as necessary and implementing strong access controls, helps to minimize the potential impact of such vulnerabilities.
