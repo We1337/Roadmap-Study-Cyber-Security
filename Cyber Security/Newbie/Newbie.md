@@ -438,13 +438,13 @@
     * [[Parsing for Form Values]]
 
 ## Popular CVEs _(Stuff you should probably know about)_
-  * Eternal Blue
-  * DirtyCow
-  * ShellShock
-  * MeltDown
-    * Spectre
-  * HeartBleed
-  * MS14-068: Kerberos Elevation of Privilege Vulnerability
+  * [[Eternal Blue]]
+  * [[DirtyCow]]
+  * [[ShellShock]]
+  * [[MeltDown]]
+    * [[Spectre]]
+  * [[HeartBleed]]
+  * [[MS14-068: Kerberos Elevation of Privilege Vulnerability]]
 
 
 ## Recommended Certifications
