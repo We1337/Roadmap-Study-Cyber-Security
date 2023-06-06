@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber Security/Newbie/Newbie.md",
-                "mode": "preview",
+                "file": "Windows.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber Security/Newbie/Newbie.md",
+                "file": "Windows.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cyber Security/Newbie/Newbie.md",
+                "file": "Windows.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cyber Security/Newbie/Newbie.md"
+                "file": "Windows.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "8a666210eec1e8b7",
   "lastOpenFiles": [
-    "MS14-068 Kerberos Elevation of Privilege Vulnerability.md",
     "Cyber Security/Newbie/Newbie.md",
+    "Windows.md",
+    "MS14-068 Kerberos Elevation of Privilege Vulnerability.md",
     "HeartBleed.md",
     "Spectre.md",
     "MeltDown.md",
@@ -177,7 +178,6 @@
     "Cyber Security/Newbie/Memory - Binary Fundamentals",
     "Cyber Security/Newbie/Memory - Binary Fundamentals/Binary",
     "Cyber Security/Newbie/Memory - Binary Fundamentals/The Kernel/Modules.md",
-    "Cyber Security/Newbie/Memory - Binary Fundamentals/The Kernel/System Interrupts.md",
     "Cyber Security/Newbie/Linux Essentials/Linux Data Exfilration _(Post exploitation)_/Check Environment Variables",
     "Cyber Security/Newbie/Linux Essentials/Linux Data Exfilration _(Post exploitation)_",
     "Cyber Security/Newbie/Linux Essentials/Linux CLI Essentials/Environment Variables",
