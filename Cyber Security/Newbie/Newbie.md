@@ -423,7 +423,7 @@
 
 ## Python Essentials
   * [[Understanding the Basics - coding fundamentals...]]
-    * [[Loops, If/Else, Variables, Functions, etc]]
+    * [[Loops, If,Else, Variables, Functions, etc]]
   * [[Reading - Writing Files]]
     * [[open()]]
       * [[Read, Write, Append]]

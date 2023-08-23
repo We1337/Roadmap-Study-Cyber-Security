@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber Security/Newbie/Local Privilage Exculation/Linux.md",
+                "file": "Reading - Writing Files.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber Security/Newbie/Local Privilage Exculation/Linux.md",
+                "file": "Reading - Writing Files.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cyber Security/Newbie/Local Privilage Exculation/Linux.md",
+                "file": "Reading - Writing Files.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cyber Security/Newbie/Local Privilage Exculation/Linux.md"
+                "file": "Reading - Writing Files.md"
               }
             }
           }
@@ -146,16 +146,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c49567a69c807792",
+  "active": "8a666210eec1e8b7",
   "lastOpenFiles": [
-    "Cyber Security/Newbie/Newbie.md",
+    "Cyber Security/Newbie/Web Application Vulnerabilities/Loops, If,Else, Variables, Functions, etc.md",
     "Cyber Security/Newbie/Local Privilage Exculation/Linux.md",
+    "Cyber Security/Newbie/Newbie.md",
     "Cyber Security/Newbie/Local Privilage Exculation/Windows.md",
     "ShellShock.md",
     "Cyber Security/Newbie/Memory - Binary Fundamentals/The Kernel/Physical Memory vs. Virtual Memory.md",
     "Cyber Security/Newbie/Local Privilage Exculation",
     "Cyber Security/Clueless/Clueless.md",
-    "Loops, If/Else, Variables, Functions, etc.md",
     "MS14-068 Kerberos Elevation of Privilege Vulnerability.md",
     "HeartBleed.md",
     "Spectre.md",
