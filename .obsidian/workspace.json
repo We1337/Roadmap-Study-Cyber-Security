@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Windows.md",
+                "file": "Cyber Security/Newbie/Local Privilage Exculation/Linux.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 497.5
   },
   "right": {
     "id": "50f987f9b0b0e7fc",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Windows.md",
+                "file": "Cyber Security/Newbie/Local Privilage Exculation/Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Windows.md",
+                "file": "Cyber Security/Newbie/Local Privilage Exculation/Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Windows.md"
+                "file": "Cyber Security/Newbie/Local Privilage Exculation/Linux.md"
               }
             }
           }
@@ -146,15 +146,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8a666210eec1e8b7",
+  "active": "c49567a69c807792",
   "lastOpenFiles": [
     "Cyber Security/Newbie/Newbie.md",
-    "Windows.md",
+    "Cyber Security/Newbie/Local Privilage Exculation/Linux.md",
+    "Cyber Security/Newbie/Local Privilage Exculation/Windows.md",
+    "ShellShock.md",
+    "Cyber Security/Newbie/Memory - Binary Fundamentals/The Kernel/Physical Memory vs. Virtual Memory.md",
+    "Cyber Security/Newbie/Local Privilage Exculation",
+    "Cyber Security/Clueless/Clueless.md",
+    "Loops, If/Else, Variables, Functions, etc.md",
     "MS14-068 Kerberos Elevation of Privilege Vulnerability.md",
     "HeartBleed.md",
     "Spectre.md",
     "MeltDown.md",
-    "ShellShock.md",
     "DirtyCow.md",
     "Eternal Blue.md",
     "Parsing for Form Values.md",
@@ -169,20 +174,15 @@
     "Read, Write, Append.md",
     "open().md",
     "Reading - Writing Files.md",
-    "Loops, If/Else, Variables, Functions, etc.md",
     "Understanding the Basics - coding fundamentals....md",
     "Loops, If",
-    "The Kernel.md",
     "Cyber Security/Newbie/Memory - Binary Fundamentals/The Kernel",
-    "Cyber Security/Newbie/Memory - Binary Fundamentals/Binary/Bit vs. Nyble vs. Byte.md",
     "Cyber Security/Newbie/Memory - Binary Fundamentals",
     "Cyber Security/Newbie/Memory - Binary Fundamentals/Binary",
-    "Cyber Security/Newbie/Memory - Binary Fundamentals/The Kernel/Modules.md",
     "Cyber Security/Newbie/Linux Essentials/Linux Data Exfilration _(Post exploitation)_/Check Environment Variables",
     "Cyber Security/Newbie/Linux Essentials/Linux Data Exfilration _(Post exploitation)_",
     "Cyber Security/Newbie/Linux Essentials/Linux CLI Essentials/Environment Variables",
     "Cyber Security/Newbie/Linux Essentials/Linux CLI Essentials/Inspecting Logs",
-    "Cyber Security/Newbie/Linux Essentials/Linux CLI Essentials/Networking",
-    "Cyber Security/Newbie/Linux Essentials/Linux CLI Essentials/Installing Software/yum _(RedHat)_"
+    "Cyber Security/Newbie/Linux Essentials/Linux CLI Essentials/Networking"
   ]
 }
