@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1d98dbc61271cfda",
+        "id": "0f01c5ab88bf4f81",
         "type": "tabs",
         "children": [
           {
-            "id": "8a666210eec1e8b7",
+            "id": "e410f31851582a2a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reading - Writing Files.md",
+                "file": "Cyber Security/Newbie/Newbie.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reading - Writing Files.md",
+                "file": "Cyber Security/Newbie/Newbie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reading - Writing Files.md",
+                "file": "Cyber Security/Newbie/Newbie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reading - Writing Files.md"
+                "file": "Cyber Security/Newbie/Newbie.md"
               }
             }
           }
@@ -146,43 +146,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8a666210eec1e8b7",
+  "active": "c49567a69c807792",
   "lastOpenFiles": [
-    "Cyber Security/Newbie/Web Application Vulnerabilities/Loops, If,Else, Variables, Functions, etc.md",
-    "Cyber Security/Newbie/Local Privilage Exculation/Linux.md",
+    "Cyber Security/Newbie/Popular CVEs _(Stuff you should probably know about)_/MeltDown",
+    "Cyber Security/Newbie/Popular CVEs _(Stuff you should probably know about)_/MeltDown/MeltDown.md",
     "Cyber Security/Newbie/Newbie.md",
+    "Cyber Security/Newbie/Popular CVEs _(Stuff you should probably know about)_",
+    "Cyber Security/Newbie/Python Essentials/Regular Expressions/Regular Expressions.md",
+    "Cyber Security/Newbie/Python Essentials/Regular Expressions/Parsing for Phone Numbers.md",
+    "Cyber Security/Newbie/Python Essentials/Regular Expressions",
+    "Cyber Security/Newbie/Python Essentials/Requests Module/requests.post()/requests.post().md",
+    "Cyber Security/Newbie/Python Essentials/Requests Module/requests.post()",
+    "Cyber Security/Newbie/Python Essentials/Requests Module/Requests Module.md",
+    "Cyber Security/Newbie/Python Essentials/Requests Module",
+    "Cyber Security/Newbie/Popular CVEs _(Stuff you should probably know about)_/HeartBleed.md",
+    "Cyber Security/Newbie/Python Essentials/Reading - Writing Files/open()",
+    "Cyber Security/Newbie/Python Essentials/Reading - Writing Files 1",
+    "Cyber Security/Newbie/Python Essentials/Reading - Writing Files/Reading - Writing Files.md",
+    "Cyber Security/Newbie/Python Essentials/Reading - Writing Files",
+    "Cyber Security/Newbie/Python Essentials/Understanding the Basics - coding fundamentals.../Loops, If,Else, Variables, Functions, etc.md",
+    "Cyber Security/Newbie/Python Essentials/Understanding the Basics - coding fundamentals.../Understanding the Basics - coding fundamentals....md",
+    "Cyber Security/Newbie/Python Essentials/Understanding the Basics - coding fundamentals...",
+    "Cyber Security/Newbie/Python Essentials",
+    "Cyber Security/Newbie/Memory - Binary Fundamentals/Binary/Hexadecimal _(Base16)_.md",
+    "Cyber Security/Newbie/Local Privilage Exculation/Linux/Searching for outdated vulnerable software/rpm -qa _(CentOS)_.md",
+    "Cyber Security/Newbie/Local Privilage Exculation/Linux/Searching for outdated vulnerable software/dpkg -l _(Debian)_.md",
+    "Cyber Security/Newbie/Local Privilage Exculation/Linux/Searching for outdated vulnerable software/Searching for outdated vulnerable software.md",
+    "Cyber Security/Newbie/Local Privilage Exculation/Linux/Searching for outdated vulnerable software",
+    "Cyber Security/Newbie/Local Privilage Exculation/Linux/Leveraging running processes running as root/ps -aux.md",
+    "Cyber Security/Newbie/Local Privilage Exculation/Linux/Leveraging running processes running as root/ps -ef.md",
+    "Cyber Security/Newbie/Local Privilage Exculation/Linux/Leveraging running processes running as root/Leveraging running processes running as root.md",
+    "Cyber Security/Newbie/Local Privilage Exculation/Linux/LinPEAS.md",
+    "Cyber Security/Newbie/Local Privilage Exculation/Linux/Linux.md",
     "Cyber Security/Newbie/Local Privilage Exculation/Windows.md",
-    "ShellShock.md",
+    "Cyber Security/Newbie/Popular CVEs _(Stuff you should probably know about)_/ShellShock.md",
     "Cyber Security/Newbie/Memory - Binary Fundamentals/The Kernel/Physical Memory vs. Virtual Memory.md",
-    "Cyber Security/Newbie/Local Privilage Exculation",
     "Cyber Security/Clueless/Clueless.md",
-    "MS14-068 Kerberos Elevation of Privilege Vulnerability.md",
-    "HeartBleed.md",
-    "Spectre.md",
-    "MeltDown.md",
-    "DirtyCow.md",
-    "Eternal Blue.md",
-    "Parsing for Form Values.md",
-    "Parsing for Emails.md",
-    "Parsing for Phone Numbers.md",
-    "Top 15 Commonly Used RegEx.md",
-    "Regular Expressions.md",
-    "auth=(user, pass).md",
-    "requests.post().md",
-    "requests.get().md",
-    "Requests Module.md",
-    "Read, Write, Append.md",
-    "open().md",
-    "Reading - Writing Files.md",
-    "Understanding the Basics - coding fundamentals....md",
-    "Loops, If",
-    "Cyber Security/Newbie/Memory - Binary Fundamentals/The Kernel",
-    "Cyber Security/Newbie/Memory - Binary Fundamentals",
-    "Cyber Security/Newbie/Memory - Binary Fundamentals/Binary",
-    "Cyber Security/Newbie/Linux Essentials/Linux Data Exfilration _(Post exploitation)_/Check Environment Variables",
-    "Cyber Security/Newbie/Linux Essentials/Linux Data Exfilration _(Post exploitation)_",
-    "Cyber Security/Newbie/Linux Essentials/Linux CLI Essentials/Environment Variables",
-    "Cyber Security/Newbie/Linux Essentials/Linux CLI Essentials/Inspecting Logs",
-    "Cyber Security/Newbie/Linux Essentials/Linux CLI Essentials/Networking"
+    "Cyber Security/Newbie/Popular CVEs _(Stuff you should probably know about)_/MS14-068 Kerberos Elevation of Privilege Vulnerability.md",
+    "Cyber Security/Newbie/Popular CVEs _(Stuff you should probably know about)_/MeltDown/Spectre.md"
   ]
 }

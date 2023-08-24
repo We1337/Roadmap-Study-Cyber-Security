@@ -409,7 +409,6 @@
     * [[SYSCALLs]]
     * [[System Interrupts]]
     * [[Modules]]
-
 ## Local Privilage Exculation
  * [[Windows]]
  * [[Linux]]
