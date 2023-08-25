@@ -159,14 +159,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "53cc2d932e10db57",
+  "active": "c49567a69c807792",
   "lastOpenFiles": [
-    "Mobile Application Hacking Tools.md",
+    "Cyber Security/Associate/Advanced Penetration Testing Tools/Mobile Application Hacking Tools/iOS-Based Assessments",
+    "Cyber Security/Associate/Advanced Penetration Testing Tools/Mobile Application Hacking Tools/iOS-Based Assessments/iOS-Based Assessments.md",
     "Cyber Security/Associate/Associate.md",
-    "Andriod-Based Assessments.md",
-    "PassionFruit.md",
-    "iOS-Based Assessments.md",
-    "Frida.md",
+    "Cyber Security/Associate/Advanced Penetration Testing Tools/Mobile Application Hacking Tools/Mobile Application Hacking Tools.md",
+    "Cyber Security/Associate/Advanced Penetration Testing Tools/Mobile Application Hacking Tools",
+    "Cyber Security/Associate/Advanced Penetration Testing Tools/Mobile Application Hacking Tools/Andriod-Based Assessments.md",
+    "Cyber Security/Associate/Advanced Penetration Testing Tools/Mobile Application Hacking Tools/iOS-Based Assessments/PassionFruit.md",
+    "Cyber Security/Associate/Advanced Penetration Testing Tools/Mobile Application Hacking Tools/Frida.md",
     "Cyber Security/Associate/Advanced Penetration Testing Tools/More Reverse Engineering Tools/Fuzzers/SPIKE",
     "Cyber Security/Associate/Advanced Penetration Testing Tools/More Reverse Engineering Tools/Fuzzers",
     "Cyber Security/Associate/Advanced Penetration Testing Tools/More Reverse Engineering Tools/Linux-Based Tools/gdb-peda/gdb-peda.md",
@@ -194,8 +196,6 @@
     "Cyber Security/Associate/Advanced Penetration Testing Tools",
     "Cyber Security/Newbie/Newbie.md",
     "Cyber Security/Associate",
-    "Cyber Security/Newbie/Popular CVEs _(Stuff you should probably know about)_/MeltDown",
-    "Cyber Security/Newbie/Popular CVEs _(Stuff you should probably know about)_/MeltDown/MeltDown.md",
-    "Cyber Security/Newbie/Popular CVEs _(Stuff you should probably know about)_"
+    "Cyber Security/Newbie/Popular CVEs _(Stuff you should probably know about)_/MeltDown"
   ]
 }

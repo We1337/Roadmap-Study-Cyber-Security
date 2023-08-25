@@ -39,13 +39,11 @@ Below is a list that I like to call the BIG 4.  Your employer should have confid
        * [[generic_chunked]]
      * [[PEACH Fuzzer]]
    * [[PwnTools]]
-
  * [[Mobile Application Hacking Tools]]
    * [[Frida]]
-   * [[iOS-Based Assessments]]:
+   * [[iOS-Based Assessments]]
      * [[PassionFruit]]
-   * [[Andriod-Based Assessments]]:
-     * ...
+   * [[Andriod-Based Assessments]]
 
 
 ## Advanced Web Application Exploitation
