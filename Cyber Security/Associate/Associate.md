@@ -40,7 +40,7 @@ Below is a list that I like to call the BIG 4.  Your employer should have confid
      * [[PEACH Fuzzer]]
    * [[PwnTools]]
 
- * **Mobile Application Hacking Tools**
+ * [[Mobile Application Hacking Tools]]
    * [[Frida]]
    * [[iOS-Based Assessments]]:
      * [[PassionFruit]]
@@ -59,42 +59,42 @@ Below is a list that I like to call the BIG 4.  Your employer should have confid
  * [[XXE-OOB Exploitation]]
 
 ## C/C++ Programming Essentials
- * Variable Types
-   * int
-   * double
-   * float
-   * char
- * stdin & stdout
- * File Descriptors
- * Sockets
- * Signed vs. Unsigned
-   * Twos-Compliment
- * Object-Oriented Programming
-   * Encapsulation
-   * Abstraction
-   * Inheritance
-   * Polymorphism
- * Buffers
-   * Arrays
-   * Strings _(Behavior in memory)_
- * Pointers
-   * Smart Pointers
-   * Linked-Listed
- * Vectors
- * Type Casting
- * References
+ * [[Variable Types]]
+   * [[int]]
+   * [[double]]
+   * [[float]]
+   * [[char]]
+ * [[stdin & stdout]]
+ * [[File Descriptors]]
+ * [[Sockets]]
+ * [[Signed vs. Unsigned]]
+   * [[Twos-Compliment]]
+ * [[Object-Oriented Programming]]
+   * [[Encapsulation]]
+   * [[Abstraction]]
+   * [[Inheritance]]
+   * [[Polymorphism]]
+ * [[Buffers]]
+   * [[Arrays]]
+   * [[Strings _(Behavior in memory)_]]
+ * [[Pointers]]
+   * [[Smart Pointers]]
+   * [[Linked-Listed]]
+ * [[Vectors]]
+ * [[Type Casting]]
+ * [[References]]
 
 ## Advanced Network-Based Vulnerabilities [to-do]
- * SSL/TLS Vulnerabilities
-    * POODLE
-    * BEAST
-    * CRIME
-    * FREAK
-    * DROWN
-    * SWEET32
-    * NOMORE
-    * BREACH
-    * HeartBleed
+ * [[SSL/TLS Vulnerabilities]]
+    * [[POODLE]]
+    * [[BEAST]]
+    * [[CRIME]]
+    * [[FREAK]]
+    * [[DROWN]]
+    * [[SWEET32]]
+    * [[NOMORE]]
+    * [[BREACH]]
+    * [[HeartBleed]]
 
 ## Reverse Engineering
  * **Binary Fundamentals**
