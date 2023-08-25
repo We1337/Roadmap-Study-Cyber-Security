@@ -41,23 +41,22 @@ Below is a list that I like to call the BIG 4.  Your employer should have confid
    * [[PwnTools]]
 
  * **Mobile Application Hacking Tools**
-   * Frida
-   * iOS-Based Assessments:
-     * PassionFruit
-   * Andriod-Based Assessments:
+   * [[Frida]]
+   * [[iOS-Based Assessments]]:
+     * [[PassionFruit]]
+   * [[Andriod-Based Assessments]]:
      * ...
 
 
 ## Advanced Web Application Exploitation
- * Bypassing WAFs
- * Malicious File Uploads
-   * .pdf Upload Attacks
-     * XSS Embedded PDF Attacks
-     * XXE Embedded PDF Attacks
-   * .doc Upload Attacks
-   * img Upload Attacks
- * XXE-OOB Exploitation
-
+ * [[Bypassing WAFs]]
+ * [[Malicious File Uploads]]
+   * [[-.pdf Upload Attacks]]
+     * [[XSS Embedded PDF Attacks]]
+     * [[XXE Embedded PDF Attacks]]
+   * [[-.doc Upload Attacks]]
+   * [[img Upload Attacks]]
+ * [[XXE-OOB Exploitation]]
 
 ## C/C++ Programming Essentials
  * Variable Types
