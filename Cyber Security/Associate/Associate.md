@@ -64,7 +64,7 @@ Below is a list that I like to call the BIG 4.  Your employer should have confid
    * [[char]]
  * [[stdin & stdout]]
  * [[File Descriptors]]
- * [[Sockets]]
+ * [[Sockets C-C++]]
  * [[Signed vs. Unsigned]]
    * [[Twos-Compliment]]
  * [[Object-Oriented Programming]]
