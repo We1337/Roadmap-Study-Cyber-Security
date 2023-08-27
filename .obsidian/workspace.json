@@ -159,11 +159,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c49567a69c807792",
+  "active": "53cc2d932e10db57",
   "lastOpenFiles": [
+    "XXE-OOB Exploitation.md",
+    "Cyber Security/Associate/Associate.md",
+    "img Upload Attacks.md",
+    "Cyber Security/Associate/Advanced Web Application Exploitation/Malicious File Uploads/-.doc Upload Attacks.md",
+    "Cyber Security/Associate/Advanced Web Application Exploitation/Malicious File Uploads/-.pdf Upload Attacks",
+    "Cyber Security/Associate/Advanced Web Application Exploitation/Malicious File Uploads/-.pdf Upload Attacks/-.pdf Upload Attacks.md",
+    "Cyber Security/Associate/Advanced Web Application Exploitation/Malicious File Uploads/-.pdf Upload Attacks/XXE Embedded PDF Attacks.md",
+    "Cyber Security/Associate/Advanced Web Application Exploitation/Malicious File Uploads/-.pdf Upload Attacks/XSS Embedded PDF Attacks.md",
+    "Cyber Security/Associate/Advanced Web Application Exploitation/Malicious File Uploads",
+    "Cyber Security/Associate/Advanced Web Application Exploitation/Malicious File Uploads/Malicious File Uploads.md",
+    "Cyber Security/Associate/Advanced Web Application Exploitation/Bypassing WAFs.md",
+    "Cyber Security/Associate/Advanced Web Application Exploitation",
+    "Cyber Security/Newbie/Newbie.md",
     "Cyber Security/Associate/Advanced Penetration Testing Tools/Mobile Application Hacking Tools/iOS-Based Assessments",
     "Cyber Security/Associate/Advanced Penetration Testing Tools/Mobile Application Hacking Tools/iOS-Based Assessments/iOS-Based Assessments.md",
-    "Cyber Security/Associate/Associate.md",
     "Cyber Security/Associate/Advanced Penetration Testing Tools/Mobile Application Hacking Tools/Mobile Application Hacking Tools.md",
     "Cyber Security/Associate/Advanced Penetration Testing Tools/Mobile Application Hacking Tools",
     "Cyber Security/Associate/Advanced Penetration Testing Tools/Mobile Application Hacking Tools/Andriod-Based Assessments.md",
@@ -177,7 +189,6 @@
     "Cyber Security/Associate/Advanced Penetration Testing Tools/More Reverse Engineering Tools/Windows-Based Tools/Windows-Based Tools.md",
     "Cyber Security/Associate/Advanced Penetration Testing Tools/More Reverse Engineering Tools/Windows-Based Tools",
     "Cyber Security/Associate/Advanced Penetration Testing Tools/More Reverse Engineering Tools/More Reverse Engineering Tools.md",
-    "Cyber Security/Associate/Advanced Penetration Testing Tools/More Reverse Engineering Tools",
     "Cyber Security/Associate/Advanced Penetration Testing Tools/More Reverse Engineering Tools/PwnTools.md",
     "Cyber Security/Associate/Advanced Penetration Testing Tools/More Reverse Engineering Tools/Fuzzers/PEACH Fuzzer.md",
     "Cyber Security/Associate/Advanced Penetration Testing Tools/More Reverse Engineering Tools/Fuzzers/SPIKE/generic_chunked.md",
@@ -185,17 +196,6 @@
     "Cyber Security/Associate/Advanced Penetration Testing Tools/More Reverse Engineering Tools/Fuzzers/SPIKE/generic_send_tcp.md",
     "Cyber Security/Associate/Advanced Penetration Testing Tools/More Reverse Engineering Tools/Fuzzers/SPIKE/-.spk.md",
     "Cyber Security/Associate/Advanced Penetration Testing Tools/More Reverse Engineering Tools/Fuzzers/SPIKE/SPIKE.md",
-    "Cyber Security/Associate/Advanced Penetration Testing Tools/More Reverse Engineering Tools/Fuzzers/Fuzzers.md",
-    "Cyber Security/Associate/Advanced Penetration Testing Tools/More Reverse Engineering Tools/Linux-Based Tools/pwndbg.md",
-    "Cyber Security/Associate/Advanced Penetration Testing Tools/More Reverse Engineering Tools/Linux-Based Tools/gdb-peda/checksec.md",
-    "Cyber Security/Associate/Advanced Penetration Testing Tools/More Reverse Engineering Tools/Linux-Based Tools/Linux-Based Tools.md",
-    "Cyber Security/Associate/Advanced Penetration Testing Tools/More Reverse Engineering Tools/Windows-Based Tools/Get-PESecurity.md",
-    "Cyber Security/Associate/Advanced Penetration Testing Tools/More Reverse Engineering Tools/Windows-Based Tools/CFF Explorer.md",
-    "Cyber Security/Associate/Advanced Penetration Testing Tools/More Reverse Engineering Tools/Windows-Based Tools/SysInternals.md",
-    "Cyber Security/Associate/Advanced Penetration Testing Tools/More Reverse Engineering Tools/Windows-Based Tools/Flare VM.md",
-    "Cyber Security/Associate/Advanced Penetration Testing Tools",
-    "Cyber Security/Newbie/Newbie.md",
-    "Cyber Security/Associate",
-    "Cyber Security/Newbie/Popular CVEs _(Stuff you should probably know about)_/MeltDown"
+    "Cyber Security/Associate/Advanced Penetration Testing Tools/More Reverse Engineering Tools/Fuzzers/Fuzzers.md"
   ]
 }
