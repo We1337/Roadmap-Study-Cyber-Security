@@ -1,0 +1,3 @@
+"NOMORE" is not a term I'm familiar with in the context of security vulnerabilities or cryptographic attacks as of my last update in September 2021. If "NOMORE" refers to a specific vulnerability or topic that emerged after that date or is a less widely known term, I might not have information about it.
+
+If you have additional context or details about what "NOMORE" refers to, please provide more information so that I can better assist you. If it's a new term or concept that has arisen since my last update, I recommend checking with more recent sources or security advisories for the most up-to-date information.

@@ -8,31 +8,55 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e410f31851582a2a",
+            "id": "53cc2d932e10db57",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber Security/Newbie/Newbie.md",
+                "file": "README.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a47c47981313cbe1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "53cc2d932e10db57",
+            "id": "193cac5cd812dd88",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber Security/Associate/Associate.md",
-                "mode": "preview",
+                "file": "Advanced Network-Based Vulnerabilities/SSL-TLS Vulnerabilites/SWEET32.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "014b98330e956b47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Advanced Network-Based Vulnerabilities/SSL-TLS Vulnerabilites/SWEET32.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber Security/Associate/Associate.md",
+                "file": "Advanced Network-Based Vulnerabilities/SSL-TLS Vulnerabilites/SWEET32.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cyber Security/Associate/Associate.md",
+                "file": "Advanced Network-Based Vulnerabilities/SSL-TLS Vulnerabilites/SWEET32.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cyber Security/Associate/Associate.md"
+                "file": "Advanced Network-Based Vulnerabilities/SSL-TLS Vulnerabilites/SWEET32.md"
               }
             }
           }
@@ -161,8 +185,23 @@
   },
   "active": "c49567a69c807792",
   "lastOpenFiles": [
-    "Cyber Security/Associate/C-C++ Programming Essentials/References.md",
+    "README.md",
+    "Advanced Network-Based Vulnerabilities/SSL-TLS Vulnerabilites/SWEET32.md",
     "Cyber Security/Associate/Associate.md",
+    "Advanced Network-Based Vulnerabilities/SSL-TLS Vulnerabilites",
+    "Advanced Network-Based Vulnerabilities/SSL-TLS Vulnerabilites/BREACH.md",
+    "Advanced Network-Based Vulnerabilities/SSL-TLS Vulnerabilites/NOMORE.md",
+    "Advanced Network-Based Vulnerabilities/SSL-TLS Vulnerabilites/DROWN.md",
+    "Advanced Network-Based Vulnerabilities/SSL-TLS Vulnerabilites/FREAK.md",
+    "Advanced Network-Based Vulnerabilities/SSL-TLS Vulnerabilites/CRIME.md",
+    "Advanced Network-Based Vulnerabilities/SSL-TLS Vulnerabilites/BEAST.md",
+    "Advanced Network-Based Vulnerabilities/SSL-TLS Vulnerabilites/POODLE.md",
+    "Advanced Network-Based Vulnerabilities/SSL-TLS Vulnerabilites/SSL-TLS Vulnerabilities.md",
+    "Advanced Network-Based Vulnerabilities",
+    "SSL/TLS Vulnerabilities.md",
+    "SSL",
+    "Cyber Security/Newbie/Newbie.md",
+    "Cyber Security/Associate/C-C++ Programming Essentials/References.md",
     "Cyber Security/Associate/C-C++ Programming Essentials/Type Casting.md",
     "Cyber Security/Associate/C-C++ Programming Essentials/Vectors.md",
     "Cyber Security/Associate/C-C++ Programming Essentials/Pointers/Linked-Listed.md",
@@ -178,24 +217,9 @@
     "Cyber Security/Associate/C-C++ Programming Essentials/Object-Oriented Programming/Abstraction.md",
     "Cyber Security/Associate/C-C++ Programming Essentials/Object-Oriented Programming/Encapsulation.md",
     "Cyber Security/Associate/C-C++ Programming Essentials/Object-Oriented Programming",
-    "Cyber Security/Associate/C-C++ Programming Essentials/Object-Oriented Programming/Object-Oriented Programming.md",
-    "Cyber Security/Associate/C-C++ Programming Essentials/Signed vs. Unsigned/Twos-Compliment.md",
     "Cyber Security/Associate/C-C++ Programming Essentials/Signed vs. Unsigned",
-    "Cyber Security/Associate/C-C++ Programming Essentials/Signed vs. Unsigned/Signed vs. Unsigned.md",
-    "Cyber Security/Associate/C-C++ Programming Essentials/Sockets C-C++.md",
-    "Cyber Security/Clueless/Very Basic Networking Funadmentals/Layer 5 - _Session Layer_/Sockets.md",
     "Cyber Security/Associate/C-C++ Programming Essentials",
-    "Cyber Security/Associate/C-C++ Programming Essentials/File Descriptors.md",
-    "Cyber Security/Associate/C-C++ Programming Essentials/stdin & stdout.md",
     "Cyber Security/Associate/C-C++ Programming Essentials/Variable Types",
-    "Cyber Security/Associate/C-C++ Programming Essentials/Variable Types/Variable Types.md",
-    "Cyber Security/Associate/C-C++ Programming Essentials/Variable Types/char.md",
-    "Cyber Security/Associate/C-C++ Programming Essentials/Variable Types/float.md",
-    "Cyber Security/Associate/C-C++ Programming Essentials/Variable Types/double.md",
-    "Cyber Security/Associate/C-C++ Programming Essentials/Variable Types/int.md",
-    "Cyber Security/Associate/Advanced Web Application Exploitation/Malicious File Uploads/-.pdf Upload Attacks",
-    "Cyber Security/Associate/Advanced Web Application Exploitation/Malicious File Uploads",
-    "Cyber Security/Associate/Advanced Web Application Exploitation",
-    "Cyber Security/Associate/Advanced Penetration Testing Tools/Mobile Application Hacking Tools/iOS-Based Assessments"
+    "Cyber Security/Associate/Advanced Web Application Exploitation/Malicious File Uploads/-.pdf Upload Attacks"
   ]
 }
