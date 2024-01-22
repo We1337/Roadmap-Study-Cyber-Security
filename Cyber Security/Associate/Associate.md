@@ -95,108 +95,104 @@ Below is a list that I like to call the BIG 4.  Your employer should have confid
     * [[HeartBleed]]
 
 ## Reverse Engineering
- * **Binary Fundamentals**
-   * Endianness
-     * Big Endian
-     * Little Endian
-   * The Stack
-     * Stack Frames
-       * Function Recursion
-       * LIFO
-       * Variable positions on the stack
-       * Return Address _(RET)_
-   * The Heap
-     * Allocating Memory
-     * Freeing Memory
-     * Garbage Collection
-     * Vtables
-   * CPU Registers
-     * Intruction Pointer _(EIP / RIP)_
-     * Stack Pointer _(ESP / RSP)_
-     * Base Pointer _(EBP / RBP)_
-     * Accumulator Register _(EAX)_
-     * Counter Register _(ECX)_
-     * Data Register _(EDI)_
-   * ELF Binaries
-     * Dynamic Libraries
-     * Global Offset Table _(GOT)_
-     * Procedure Linkage Table _(PLT)_
-     
-     
- * **Modern Binary Protection Techniques**
-   * Linux-Based Protections
-     * PaX _(Security Team)_
-       * NOEXEC
-       * mprotect()
-       * RAP
-     * PIE
-     * RELRO
-     * Stack Guard _(Canary Derivative)_
-   * Windows-Based Protections
-     * DEP _(NX-Bit Derivative)_
-     * CFG / RFG
-     * Shadow Stacks
-       * Shadow Stack Pointer _(SSP)_
-     * Isolated Heaps _(MS14-035)_
-     * Microsoft's MemoryProtection _(MS14-037)_
-     * MemGC _(Automated Memory Garabage Collection)_
-       * HKEY_CURRENT_USER\SOFTWARE\Microsoft\Internet Explorer\Main::OverrideMemoryProtectionSetting
-     * CIG _(Code Integrity Guard)_
-     * ACG _(Arbitrary Code Guard)_
-   * OS Independent Protections
-     * W^X
-     * ASLR
-     * Stack Canaries
-       * Random canaries
-       * Random XOR Canaries
-       * Terminator Canaries
-     * CFI _(pax_future.txt)_
-       * Code-Pointer Separation
-       * Code-Pointer Integrity
-       * Vtable Pointer Verification
-     * SafeSEH & SEHOP
-       * Zeroing CPU Registers
+ * **[[Binary Fundamentals]]**
+   * [[Endianness]]
+     * [[Big Endian]]
+     * [[Little Endian]]
+   * [[The Stack]]
+     * [[Stack Frames]]
+       * [[Function Recursion]]
+       * [[LIFO]]
+       * [[Variable positions on the stack]]
+       * [[Return Address _(RET)_]]
+   * [[The Heap]]
+     * [[Allocating Memory]]
+     * [[Freeing Memory]]
+     * [[Garbage Collection]]
+     * [[Vtables]]
+   * [[CPU Registers]]
+     * [[Intruction Pointer _(EIP / RIP)_]]
+     * [[Stack Pointer _(ESP / RSP)_]]
+     * [[Base Pointer _(EBP / RBP)_]]
+     * [[Accumulator Register _(EAX)_]]
+     * [[Counter Register _(ECX)_]]
+     * [[Data Register _(EDI)_]]
+   * [[ELF Binaries]]
+     * [[Dynamic Libraries]]
+     * [[Global Offset Table _(GOT)_]]
+     * [[Procedure Linkage Table _(PLT)_]]
 
-  
- * **Fundamental Exploit Development Techniques** _(Protection Bypasses are in Level 3)_
-   * Stack-Based Buffer Overflow
-     * NULL Byte _(0x00)_
-     * Return Pointer Overwrite
-     * NOP Sleds
-     * Off-By-One Error
-   * SEH-Based Buffer Overflow
-   * Heap Exploitation
-     * Use-After-Free
-       * Dangling Pointers
-       * Type Confusion Attacks
+ * **[[Modern Binary Protection Techniques]]**
+   * [[Linux-Based Protections]]
+     * [[PaX _(Security Team)_]]
+       * [[NOEXEC]]
+       * [[mprotect()]]
+       * [[RAP]]
+     * [[PIE]]
+     * [[RELRO]]
+     * [[Stack Guard _(Canary Derivative)_]]
+   * [[Windows-Based Protections]]
+     * [[DEP _(NX-Bit Derivative)_]]
+     * [[CFG / RFG]]
+     * [[Shadow Stacks]]
+       * [[Shadow Stack Pointer _(SSP)_]]
+     * [[Isolated Heaps _(MS14-035)_]]
+     * [[Microsoft's MemoryProtection _(MS14-037)_]]
+     * [[MemGC _(Automated Memory Garabage Collection)_]]
+       * [[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Internet]] [[Explorer\Main::OverrideMemoryProtectionSetting]]
+     * [[CIG _(Code Integrity Guard)_]]
+     * [[ACG _(Arbitrary Code Guard)_]]
+   * [[OS Independent Protections]]
+     * [[W^X]]
+     * [[ASLR]]
+     * [[Stack Canaries]]
+       * [[Random canaries]]
+       * [[Random XOR Canaries]]
+       * [[Terminator Canaries]]
+     * [[CFI _(pax_future.txt)_]]
+       * [[Code-Pointer Separation]]
+       * [[Code-Pointer Integrity]]
+       * [[Vtable Pointer Verification]]
+     * [[SafeSEH & SEHOP]]
+       * [[Zeroing CPU Registers]]
+
+ * **[[Fundamental Exploit Development Techniques** _(Protection Bypasses are in Level 3)_]]
+   * [[Stack-Based Buffer Overflow]]
+     * [[NULL Byte _(0x00)_]]
+     * [[Return Pointer Overwrite]]
+     * [[NOP Sleds]]
+     * [[Off-By-One Error]]
+   * [[SEH-Based Buffer Overflow]]
+   * [[Heap Exploitation]]
+     * [[Use-After-Free]]
+       * [[Dangling Pointers]]
+       * [[Type Confusion Attacks]]
 
 ## Mobile Fundamentals
- * Mobile Communications
-   * SIM Card
-   * LTE
-   * 3G
-   * 4G
-   * 5G
- * Mobile Data Storage
- * Rooting
- * Jailbreaking
- * APKs
+ * [[Mobile Communications]]
+   * [[SIM Card]]
+   * [[LTE]]
+   * [[3G]]
+   * [[4G]]
+   * [[5G]]
+ * [[Mobile Data Storage]]
+ * [[Rooting]]
+ * [[Jailbreaking]]
+ * [[APKs]]
 
 ## Mobile Application Security
- * **Mobile OWASP Top 10**
-   * Improper Platform Usage
-   * Insecure Data Storage
-   * Insecure Communication
-   * Insecure Authentication
-   * Insufficient Cryptography
-   * Insecure Authorization
-   * Client Code Quality
-   * Code Tampering
-   * Reverse Engineering
-   * Extraneous Functionality
-
- 
+ * [[**Mobile OWASP Top 10**]]
+   * [[Improper Platform Usage]]
+   * [[Insecure Data Storage]]
+   * [[Insecure Communication]]
+   * [[Insecure Authentication]]
+   * [[Insufficient Cryptography]]
+   * [[Insecure Authorization]]
+   * [[Client Code Quality]]
+   * [[Code Tampering]]
+   * [[Reverse Engineering]]
+   * [[Extraneous Functionality]]
 
 ## Advanced Web Application Security Bypasses
- * Bypassing Modern XSS Protections
+ * [[Bypassing Modern XSS Protections]]
  
