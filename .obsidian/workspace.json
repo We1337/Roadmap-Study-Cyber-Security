@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Extraneous Functionality.md",
+                "file": "Microsoft's MemoryProtection _(MS14-037)_.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Extraneous Functionality.md",
+                "file": "Microsoft's MemoryProtection _(MS14-037)_.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Extraneous Functionality.md",
+                "file": "Microsoft's MemoryProtection _(MS14-037)_.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Extraneous Functionality.md"
+                "file": "Microsoft's MemoryProtection _(MS14-037)_.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   "active": "5e0f44bce85bd383",
   "lastOpenFiles": [
     "Cyber Security/Associate/Associate.md",
+    "Microsoft's MemoryProtection _(MS14-037)_.md",
     "Extraneous Functionality.md",
     "Big Endian.md",
     "README.md",
@@ -180,7 +181,6 @@
     "Cyber Security/Associate/C-C++ Programming Essentials/Pointers/Smart Pointers.md",
     "Cyber Security/Associate/C-C++ Programming Essentials/Pointers/Pointers.md",
     "Cyber Security/Associate/C-C++ Programming Essentials/Pointers",
-    "Cyber Security/Associate/C-C++ Programming Essentials/Buffers/Strings _(Behavior in memory)_.md",
     "Cyber Security/Associate/C-C++ Programming Essentials/Buffers",
     "Cyber Security/Associate/C-C++ Programming Essentials/Object-Oriented Programming",
     "Cyber Security/Associate/C-C++ Programming Essentials/Signed vs. Unsigned"
