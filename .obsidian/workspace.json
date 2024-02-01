@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mobile Communications.md",
+                "file": "Little Endian.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mobile Communications.md",
+                "file": "Little Endian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mobile Communications.md",
+                "file": "Little Endian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mobile Communications.md"
+                "file": "Little Endian.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   "active": "5e0f44bce85bd383",
   "lastOpenFiles": [
     "Cyber Security/Associate/Associate.md",
+    "Little Endian.md",
     "Mobile Communications.md",
     "RELRO.md",
     "RAP.md",
@@ -182,7 +183,6 @@
     "SSL/TLS Vulnerabilities.md",
     "SSL",
     "Cyber Security/Newbie/Newbie.md",
-    "Cyber Security/Associate/C-C++ Programming Essentials/References.md",
     "Cyber Security/Associate/C-C++ Programming Essentials/Pointers"
   ]
 }
