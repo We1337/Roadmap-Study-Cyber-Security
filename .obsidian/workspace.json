@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Little Endian.md",
+                "file": "The Stack.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Little Endian.md",
+                "file": "The Stack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Little Endian.md",
+                "file": "The Stack.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Little Endian.md"
+                "file": "The Stack.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   "active": "5e0f44bce85bd383",
   "lastOpenFiles": [
     "Cyber Security/Associate/Associate.md",
+    "The Stack.md",
     "Little Endian.md",
     "Mobile Communications.md",
     "RELRO.md",
@@ -182,7 +183,6 @@
     "Cyber Security/Associate/Advanced Network-Based Vulnerabilities",
     "SSL/TLS Vulnerabilities.md",
     "SSL",
-    "Cyber Security/Newbie/Newbie.md",
     "Cyber Security/Associate/C-C++ Programming Essentials/Pointers"
   ]
 }
