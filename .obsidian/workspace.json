@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stack Frames.md",
+                "file": "Function Recursion.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stack Frames.md",
+                "file": "Function Recursion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stack Frames.md",
+                "file": "Function Recursion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stack Frames.md"
+                "file": "Function Recursion.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   "active": "5e0f44bce85bd383",
   "lastOpenFiles": [
     "Cyber Security/Associate/Associate.md",
+    "Function Recursion.md",
     "Stack Frames.md",
     "The Stack.md",
     "Little Endian.md",
@@ -179,7 +180,6 @@
     "Cyber Security/Associate/Advanced Network-Based Vulnerabilities/SSL-TLS Vulnerabilites/BREACH.md",
     "Cyber Security/Associate/Advanced Network-Based Vulnerabilities/SSL-TLS Vulnerabilites/BEAST.md",
     "Cyber Security/Clueless/Clueless.md",
-    "Cyber Security/Associate/C-C++ Programming Essentials/Variable Types/Variable Types.md",
     "Cyber Security/Associate/Advanced Network-Based Vulnerabilities/SSL-TLS Vulnerabilites",
     "Cyber Security/Associate/Advanced Network-Based Vulnerabilities",
     "SSL",
