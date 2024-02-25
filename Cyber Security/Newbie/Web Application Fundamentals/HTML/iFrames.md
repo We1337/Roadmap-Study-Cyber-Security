@@ -1,7 +1,0 @@
-An iframe (short for inline frame) is an HTML element that allows another HTML document to be embedded within the current document. It is essentially a window to another web page that can be embedded within a page on a different domain.
-
-iFrames are commonly used to display content from a different website or web application within a web page, such as an embedded video or a map. They can also be used to display content from the same website, such as a sidebar that remains fixed while the rest of the page scrolls.
-
-iFrames are created using the `<iframe>` tag and require a src attribute to specify the URL of the web page to be embedded. Other attributes, such as width and height, can also be used to specify the size and appearance of the iframe.
-
-While iframes can be a useful tool for displaying external content within a web page, they can also present security risks if used improperly. For example, if an iframe is used to display content from an untrusted source, it could be used to execute malicious scripts or steal sensitive user data. To mitigate these risks, it is important to use iframes responsibly and take appropriate security measures, such as using sandboxed iframes or restricting access to the iframe content.

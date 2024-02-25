@@ -1,9 +1,0 @@
-System Restore is a feature in Windows that allows you to restore your computer to a previous state, such as a point in time before a software installation, system update, or other significant change.
-
-System Restore creates restore points automatically or you can create a restore point manually before making any significant changes to your system. When you run System Restore, it will restore your system files, installed applications, and Windows registry settings to the state they were in at the time the restore point was created.
-
-To use System Restore, you can open the Start menu, search for "System Restore," and then select "Create a restore point" or "System Restore" from the search results. You can also open the Control Panel, select "System and Security," and then select "System" followed by "System Protection" to access System Restore settings.
-
-It is important to note that System Restore does not affect your personal files, such as documents, photos, or music. It only restores your system files and settings to a previous state. If you need to restore your personal files, you can use the "File History" feature in Windows to restore individual files or folders.
-
-System Restore can be a useful tool for fixing problems with your computer, such as issues caused by a software installation or system update. However, it is not a replacement for regular backups, and it may not always be able to solve every problem. It is recommended to use System Restore in conjunction with other troubleshooting tools, such as Safe Mode and antivirus software, to resolve issues with your computer.

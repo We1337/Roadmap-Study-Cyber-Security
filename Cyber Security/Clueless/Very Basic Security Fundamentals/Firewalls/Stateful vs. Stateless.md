@@ -1,9 +1,0 @@
-Stateful and stateless are terms used to describe two different types of network communication protocols.
-
-Stateful protocol: A stateful protocol is a communication protocol that keeps track of the state of the network connection between the sender and the receiver. This means that the protocol keeps track of the status of the connection and stores information about the packets that have been sent and received. Examples of stateful protocols include Transmission Control Protocol (TCP) and User Datagram Protocol (UDP).
-
-Stateless protocol: In contrast, a stateless protocol is a communication protocol that does not keep track of the state of the network connection. Each packet of data is considered independent and is treated as a separate transaction. Examples of stateless protocols include Hypertext Transfer Protocol (HTTP) and Simple Mail Transfer Protocol (SMTP).
-
-Stateful protocols are often used in applications that require reliable communication, such as file transfers and web browsing. By keeping track of the state of the connection, stateful protocols can ensure that data is sent and received correctly and can retransmit lost or corrupted packets. However, the overhead of maintaining the state of the connection can slow down the communication.
-
-Stateless protocols are often used in applications that require fast communication, such as online gaming and real-time streaming. By treating each packet of data independently, stateless protocols can minimize the overhead of maintaining the state of the connection and can allow for faster communication. However, stateless protocols do not provide the same level of reliability as stateful protocols and may not be suitable for applications that require error-free communication.

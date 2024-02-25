@@ -1,7 +1,0 @@
-Upgrade is an HTTP header that is used to initiate a protocol upgrade from HTTP to another protocol, such as WebSocket.
-
-When the client sends an Upgrade header in the request, it is indicating that it wants to switch to a different protocol for communication with the server. The server can choose to accept or reject the upgrade request. If the server accepts the request, it sends a 101 Switching Protocols response code, indicating that the protocol has been successfully upgraded.
-
-The Upgrade header is typically used to initiate a WebSocket connection, which provides full-duplex, bi-directional communication between the client and server over a single TCP connection. WebSocket is a more efficient protocol for real-time communication than HTTP, and it is often used for applications such as chat, online gaming, and financial trading.
-
-The Upgrade header is an important aspect of web development because it allows for more efficient communication between the client and server, particularly for applications that require real-time communication. However, it is important to note that not all servers support protocol upgrades, and some firewalls or proxies may block the Upgrade header, so it is not a universally applicable solution.

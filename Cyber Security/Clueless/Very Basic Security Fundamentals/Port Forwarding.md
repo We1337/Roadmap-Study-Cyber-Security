@@ -1,7 +1,0 @@
-Port forwarding, also known as port mapping, is a technique used in computer networking to redirect incoming network traffic from one port on a network node to another. It is often used to enable remote access to a local computer or device, such as a server or a security camera.
-
-Port forwarding works by assigning a unique public IP address to a network device, such as a router or a modem, and then mapping incoming traffic from a specific port to a designated port on a specific device within the network. For example, if an external user wants to access a web server hosted on a local network with a private IP address of 192.168.1.100, port forwarding can be used to redirect traffic from port 80 (the default port for HTTP traffic) to port 80 on the web server.
-
-Port forwarding can be configured manually on the router or modem settings, typically by specifying the source and destination ports and IP addresses. Some routers also offer automatic port forwarding, which can detect the type of application or service being used and automatically configure the required ports.
-
-While port forwarding can be useful for remote access and online gaming, it can also pose a security risk if not configured correctly. An open port on a network device can potentially allow unauthorized access to the device and its data. Therefore, it is essential to ensure that port forwarding is only enabled for specific applications and devices, and that proper security measures, such as strong passwords and encryption, are in place to protect the network.

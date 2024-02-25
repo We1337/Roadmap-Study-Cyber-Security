@@ -1,7 +1,0 @@
-Hopper ($) is a reverse engineering tool for macOS, Linux, and Windows that allows users to disassemble, decompile, and debug binary code. It supports multiple architectures, file formats, and platforms, making it a versatile tool for reverse engineering and software analysis.
-
-One of the key features of Hopper is its graphical user interface, which provides a visual representation of the disassembled code and allows users to navigate through it easily. Hopper also includes a decompiler that can generate C-like code from the binary code, making it easier for users to understand and modify the code.
-
-Hopper supports multiple debugging features, including the ability to set breakpoints, inspect memory and registers, and step through code. It also has a plugin system that allows users to extend its functionality and automate tasks. Hopper supports Apple's Objective-C and Swift programming languages, allowing users to analyze and modify code written in these languages.
-
-Hopper is widely used in the security community for tasks such as vulnerability research, malware analysis, and reverse engineering proprietary software. It is also used in academia for teaching and research purposes, as well as in industry for software analysis and testing. Hopper is a commercial product, and its pricing varies depending on the platform and the edition.

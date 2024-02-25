@@ -1,7 +1,0 @@
-One basic security mechanism used in Wi-Fi networks is the Shared Key authentication method, which is used to prevent unauthorized access to the network.
-
-In the Shared Key method, a secret key or passphrase is pre-shared between the access point (AP) and the client devices. When a client device attempts to connect to the network, it sends a request to the AP, which responds with a challenge message that includes a random sequence of characters. The client device must then encrypt the challenge message using the pre-shared key and send it back to the AP. If the AP can decrypt the message using the same key, it verifies that the client device is authorized to access the network and allows the connection.
-
-One weakness of the Shared Key method is that the pre-shared key can be intercepted or guessed by an attacker, which can compromise the security of the network. Additionally, the Shared Key method does not provide any protection against eavesdropping on the wireless network, which can allow an attacker to intercept sensitive information such as passwords or credit card numbers.
-
-To enhance the security of Wi-Fi networks, more advanced security mechanisms such as Wi-Fi Protected Access (WPA) and WPA2 have been developed. These mechanisms use more secure key management and encryption methods to protect against unauthorized access and eavesdropping. It is recommended to use the latest and strongest security mechanism available for your Wi-Fi network to ensure the highest level of security.

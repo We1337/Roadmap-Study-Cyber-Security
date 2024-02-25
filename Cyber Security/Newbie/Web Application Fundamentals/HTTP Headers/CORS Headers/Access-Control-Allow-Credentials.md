@@ -1,7 +1,0 @@
-Access-Control-Allow-Credentials is an HTTP response header used in the CORS (Cross-Origin Resource Sharing) mechanism to indicate whether the server allows the use of credentials (such as cookies, HTTP authentication, and client-side SSL certificates) in cross-origin requests.
-
-By default, cross-origin requests are not allowed to send or receive cookies or other credentials. However, if the server sets the Access-Control-Allow-Credentials header to "true", the browser will include the credentials in the cross-origin request.
-
-For example, if a web page served from [https://example.com](https://example.com) makes an AJAX request to [https://api.example.com](https://api.example.com) and the server sets the Access-Control-Allow-Credentials header to "true", the browser will include any cookies associated with the [https://api.example.com](https://api.example.com) domain in the request.
-
-It is important to note that allowing the use of credentials in cross-origin requests can pose a security risk, as the credentials may be exposed to malicious scripts. Servers should only allow the use of credentials in cross-origin requests when it is necessary and use other security mechanisms such as CSRF (Cross-Site Request Forgery) tokens to ensure that cross-origin requests are made intentionally by the user and not by malicious scripts.

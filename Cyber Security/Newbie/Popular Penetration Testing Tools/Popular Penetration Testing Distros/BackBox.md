@@ -1,7 +1,0 @@
-BackBox Linux is an Ubuntu-based Linux distribution that is designed for security testing, digital forensics, and penetration testing. It is similar to Kali Linux and Parrot Security OS in its focus on security testing, but has a more streamlined and simplified approach to its interface and toolset.
-
-BackBox Linux includes a range of pre-installed tools for various aspects of security testing, including web application testing, network analysis, vulnerability assessment, and digital forensics. It also includes additional security and privacy features, such as an anonymous mode for browsing and system hardening tools.
-
-One of the unique features of BackBox Linux is its emphasis on ease of use and accessibility. It has a simple, clean interface that is easy to navigate, and comes with a variety of tools and resources to help users get started with security testing. It is a good choice for users who are new to security testing and want a user-friendly distro.
-
-Like Kali Linux and Parrot Security OS, BackBox Linux should only be used by professionals and ethical hackers who have the proper training and permission to perform security testing. The use of BackBox Linux or any other penetration testing tool for unauthorized activities can result in legal consequences.

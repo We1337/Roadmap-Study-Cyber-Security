@@ -1,5 +1,0 @@
-Red Hat Enterprise Linux (RHEL) is a commercial Linux distribution, which means it is not available for free. It follows a subscription-based model, where organizations need to purchase a subscription to access and use RHEL. The subscription provides several benefits, including technical support, software updates, security patches, and access to Red Hat's knowledge base and customer portal.
-
-The cost of RHEL subscriptions can vary based on factors such as the number of systems, level of support, and the duration of the subscription. Red Hat offers different subscription tiers, including Standard, Premium, and Developer subscriptions, each with its own features and pricing.
-
-The exact pricing details for RHEL subscriptions can be obtained from Red Hat's official website or by contacting their sales representatives. It's worth noting that Red Hat also offers trial subscriptions and programs for certain types of organizations, such as academic institutions and non-profit organizations, which may have different pricing structures or discounts available.

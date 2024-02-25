@@ -1,7 +1,0 @@
-A MAC address (Media Access Control address) is a unique identifier assigned to each network interface controller (NIC) for use as a network address in communications within a network segment. It is a hardware address that is permanently burned into the NIC during its manufacturing process.
-
-MAC addresses are 48 bits long and are typically represented in hexadecimal notation, which consists of 12 characters (6 pairs), separated by colons or dashes. The first 24 bits of a MAC address represent the organizationally unique identifier (OUI), which is assigned by the IEEE to identify the manufacturer of the NIC. The remaining 24 bits are assigned by the manufacturer and are used to identify the specific NIC.
-
-MAC addresses are used at the data-link layer of the OSI model to provide addressing and identification for devices on the network. When data is transmitted between devices on the same network, the source and destination MAC addresses are used to determine the appropriate recipient of the data.
-
-MAC addresses are essential for the functioning of Ethernet and Wi-Fi networks, and they play a crucial role in the operation of network switches and routers, which use the MAC addresses to forward data packets between devices on different networks.

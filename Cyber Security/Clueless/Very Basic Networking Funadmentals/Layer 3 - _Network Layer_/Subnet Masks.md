@@ -1,7 +1,0 @@
-A subnet mask is a 32-bit value used in conjunction with an IP address to identify the network and host portions of the address. The subnet mask is used to partition the IP address into two parts: the network address and the host address. The network address identifies the network to which the device belongs, while the host address identifies the specific device within that network.
-
-The subnet mask is often represented in decimal format, as a sequence of four numbers separated by periods, each representing 8 bits of the 32-bit mask. For example, a subnet mask of 255.255.255.0 is a 32-bit value with the first 24 bits set to 1 and the last 8 bits set to 0. This indicates that the first 24 bits of the IP address are used to identify the network, while the last 8 bits are used to identify the host.
-
-Subnet masks can be used to divide a large network into smaller subnetworks, each with its own network and host portions. This is often done to improve network performance and security by reducing the size of the broadcast domain and limiting the number of devices that can communicate directly with each other.
-
-In addition to decimal notation, subnet masks can also be represented in binary format, where the bits representing the network portion are set to 1, and the bits representing the host portion are set to 0. For example, the binary representation of the subnet mask 255.255.255.0 is 11111111 11111111 11111111 00000000.

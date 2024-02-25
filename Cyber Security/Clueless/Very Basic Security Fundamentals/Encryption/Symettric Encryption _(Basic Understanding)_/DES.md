@@ -1,7 +1,0 @@
-DES (Data Encryption Standard) is a symmetric encryption algorithm developed by IBM in the 1970s and later adopted by the US government as a federal standard. DES operates on fixed-length blocks of plaintext data, typically 64 bits, and uses a 56-bit secret key to encrypt and decrypt data.
-
-DES uses a Feistel network to transform the plaintext data into ciphertext and back again. The algorithm consists of 16 rounds of substitution and permutation operations, with the secret key used to determine the specific substitutions and permutations used in each round.
-
-While DES was once considered a highly secure encryption standard, advances in computing power and the emergence of more sophisticated encryption methods have led to its replacement by more secure algorithms such as AES. DES is vulnerable to various types of attacks, including brute force attacks, which can be used to determine the secret key through exhaustive trial-and-error, and differential cryptanalysis, which can exploit statistical weaknesses in the algorithm.
-
-Triple DES (3DES) is a modification of DES that uses three rounds of encryption instead of one, providing increased security. However, 3DES is slower and less efficient than other encryption algorithms, and AES is now the recommended standard for secure encryption.

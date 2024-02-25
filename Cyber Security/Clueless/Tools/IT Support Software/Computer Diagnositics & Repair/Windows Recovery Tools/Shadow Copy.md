@@ -1,9 +1,0 @@
-Shadow Copy, also known as Volume Shadow Copy, is a technology built into Windows that allows you to create point-in-time copies of files and folders on your computer or network. Shadow Copy is used to create backups of files that are currently in use, such as system files, so that they can be backed up without having to shut down the system or close running applications.
-
-When Shadow Copy is enabled, it creates snapshots of files and folders at regular intervals, called "shadow copies." These shadow copies are stored on the same volume as the original files, and they can be accessed through the "Previous Versions" tab in the file or folder's Properties dialog box.
-
-You can use Shadow Copy to restore individual files or folders that have been accidentally deleted or modified, or to recover previous versions of files that have been changed or corrupted. Shadow Copy can also be used to recover files that have been infected with malware or ransomware.
-
-To enable Shadow Copy, you need to open the Control Panel, select "System and Security," and then select "System" followed by "System Protection." From there, you can select the volume you want to enable Shadow Copy on, and then click the "Configure" button to enable it.
-
-It is important to note that Shadow Copy is not a replacement for regular backups. It only creates snapshots of files and folders on the same volume, so if the entire volume fails or becomes corrupted, you may not be able to recover your files using Shadow Copy alone. It is recommended to use Shadow Copy in conjunction with other backup and recovery tools to ensure that your data is fully protected.

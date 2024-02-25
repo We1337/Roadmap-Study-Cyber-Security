@@ -1,7 +1,0 @@
-Access-Control-Request-Headers is an HTTP request header sent by the browser as part of the CORS (Cross-Origin Resource Sharing) mechanism to indicate the custom headers that will be used in a cross-origin request.
-
-When a web page served from one domain makes an AJAX request to a server on a different domain, the browser first sends a preflight request using the HTTP OPTIONS method to determine whether the cross-origin request is allowed by the server. The preflight request includes the Access-Control-Request-Headers header, which lists the custom headers that will be used in the actual request.
-
-For example, if a web page served from [https://example.com](https://example.com) wants to make a cross-origin AJAX request to [https://api.example.com](https://api.example.com), using a custom header named "Authorization", the browser will first send a preflight request to [https://api.example.com](https://api.example.com) using the HTTP OPTIONS method, with the Access-Control-Request-Headers header set to "Authorization". The server can then respond with the appropriate CORS headers to indicate whether the cross-origin request is allowed.
-
-It is important to note that the Access-Control-Request-Headers header is only sent as part of a preflight request and not in the actual cross-origin request. The actual request will include the standard HTTP headers (such as Content-Type and Accept) as well as any custom headers listed in the Access-Control-Request-Headers header.

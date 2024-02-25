@@ -1,7 +1,0 @@
-Preflight requests are a mechanism used by the browser to determine if a cross-origin request is safe to send. When a web page makes a cross-origin request that has custom headers, or uses a method other than GET, POST, or HEAD, the browser sends a preflight request to the server to check if the actual request is allowed.
-
-The preflight request is an HTTP OPTIONS request that includes the `Access-Control-Request-Method` and `Access-Control-Request-Headers` headers, indicating the HTTP method and custom headers of the actual request. The server then responds with the `Access-Control-Allow-Methods` and `Access-Control-Allow-Headers` headers, specifying the allowed methods and headers for the actual request. If the server allows the actual request, it responds with the appropriate data, and the browser sends the actual request. Otherwise, the browser blocks the actual request and displays an error message.
-
-Preflight requests are necessary to ensure the security of cross-origin requests and prevent attacks such as cross-site scripting (XSS), cross-site request forgery (CSRF), and others. They are also used to enforce the CORS policy and prevent unauthorized access to resources from other domains.
-
-Developers need to be aware of preflight requests when building web applications that rely on cross-origin requests and ensure that their servers support them correctly. They also need to follow best practices and avoid sending unnecessary custom headers or using unsupported HTTP methods to avoid triggering preflight requests unnecessarily.

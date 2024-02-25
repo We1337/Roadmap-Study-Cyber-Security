@@ -1,5 +1,0 @@
-Nmap (Network Mapper) is a popular and powerful open-source tool for network exploration, administration, and security auditing. It can be used to discover hosts and services on a computer network, as well as create a map of the network and identify potential security risks.
-
-Nmap uses various techniques to scan network hosts and gather information about them, such as ping sweeps, TCP and UDP port scans, OS detection, and service/version detection. The tool can be run from the command line and has many options and parameters to customize the scan and output.
-
-Nmap is commonly used by network administrators and security professionals to identify vulnerabilities and misconfigurations in network systems. It can also be used by attackers to identify potential targets and weaknesses in a network. As such, it is important to use Nmap responsibly and ethically, and with permission from the owners of the network being scanned.
