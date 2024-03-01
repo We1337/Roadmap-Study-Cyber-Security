@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "eff3e81c776f9863",
+        "id": "3b07314a47454e1b",
         "type": "tabs",
         "children": [
           {
-            "id": "853d1bb4ac1989ef",
+            "id": "f4c91365d1911b19",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Clueless/Clueless.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 288.5
+    "width": 200
   },
   "right": {
     "id": "1544261877281083",
@@ -146,34 +146,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "853d1bb4ac1989ef",
+  "active": "f4c91365d1911b19",
   "lastOpenFiles": [
-    "Clueless/Basic BIOS Configurations/Application-Output Caching.md",
-    "Clueless/Basic BIOS Configurations/AMD.md",
-    "Clueless/Basic BIOS Configurations/64bit CPUs.md",
-    "Clueless/Basic BIOS Configurations/32bit CPUs.md",
-    "Clueless/Basic BIOS Configurations/-.exe.md",
-    "Clueless/Basic BIOS Configurations/Web Caching.md",
-    "Clueless/Basic BIOS Configurations/SSDs.md",
-    "Clueless/Basic BIOS Configurations/Ryzen 3, Ryzen 5, Ryzen 7, Ryzen 9.md",
-    "Clueless/Basic BIOS Configurations/README.md.md",
-    "Clueless/Basic BIOS Configurations/Ray Tracing.md",
-    "Clueless/Basic BIOS Configurations/Partitioning.md",
-    "Clueless/Basic BIOS Configurations/NTFS.md",
-    "Clueless/Basic BIOS Configurations/MultiThreading vs. MultiProcessing.md",
-    "Clueless/Basic BIOS Configurations/Memory Speeds.md",
-    "Clueless/Basic BIOS Configurations/Memory Addressing.md",
-    "Clueless/Basic BIOS Configurations/MBR _(Legacy)_.md",
-    "Clueless/Basic BIOS Configurations/Magnetic HDDs.md",
-    "Clueless/Basic BIOS Configurations/Intel.md",
-    "Clueless/Basic BIOS Configurations/Integrated vs. Discrete GPUs.md",
-    "Clueless/Basic BIOS Configurations/i3, i5, i7, i9.md",
-    "Clueless/Basic BIOS Configurations/GPU Memory.md",
-    "Clueless/Basic BIOS Configurations/GPU Bandwidth.md",
-    "Clueless/Basic BIOS Configurations/FAT32.md",
-    "Clueless/Basic BIOS Configurations/ext2, ext3, ext4.md",
-    "Clueless/Basic BIOS Configurations/Executables.md",
-    "Clueless/Basic BIOS Configurations/eMMC.md",
+    "RAID 10.md",
+    "Clueless/Clueless.md",
+    "RAID 6.md",
+    "RAID 5.md",
+    "RAID 1.md",
+    "RAID 0.md",
+    "UTF-8.md",
+    "ASCII.md",
+    "Base64.md",
+    "-.der.md",
+    "-.pem.md",
+    "-.pub.md",
+    "Key files.md",
+    "-.py.md",
+    "-.cpp.md",
+    "-.c.md",
+    "Code files.md",
+    "-.pdf.md",
+    "-.txt.md",
+    "-.doc.md",
+    "Document files.md",
+    "-.png.md",
+    "-.svg.md",
+    "-.jpg.md",
+    "Image files.md",
+    "-.js.md",
     "Clueless/Basic BIOS Configurations",
     "Cluless",
     "Clueless"
