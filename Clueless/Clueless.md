@@ -121,72 +121,72 @@ These are the skills you'll need to have to *break into the field*.  Acquiring t
 
 
 ### Very Basic Networking Funadmentals
-* IPv4 vs IPv6
-* LAN vs. WAN vs. MAN
-* NAT vs. PAT
-* Power Over Ethernet _(PoE)_
-* **The OSI Model**
- * **Layer 1** - _Physical Layer_
-   * RJ45, Twisted Pairs
-   * Coaxial Cabling
-   * Fiber Optics
-     * Single Mode
-     * Multi-Mode
- * **Layer 2** - _Data-Link Layer_
-   * MAC Addresses
-   * FCS & CRC
-   * Switches & Hubs
-   * ARP
-   * DHCP
- * **Layer 3** - _Network Layer_
-   * IPv4 Addressing
-   * ICMP
-   * CIDR Notation
-   * Packets
-   * Subnet Masks
-   * Routers
- * **Layer 4** - _Transport Layer_
-   * TCP vs. UDP
-   * Segments
-   * Most Common Port Numbers:
-     * 21
-     * 22
-     * 23
-     * 25
-     * UDP 53
-     * 80
-     * 161 & 162
-     * 389
-     * 443
-     * 445
-   * **Layer 5** - _Session Layer_
-     * Sockets
-   * **Layer 6** - _Presentation Layer_
-     * SSL / TLS _(Basic Understanding)_
-     * SSH
-   * **Layer 7** - _Application Layer_
-     * DNS
-     * HTTP
-     * FTP
- * **Email Technologies**
-   * Exchange Servers
-   * IMAP
-   * POP3
-   * SPF Records
-   * MX Records
- * Domain Names
- * **WiFi Essentials**
-   * Configuring Router's WiFi
-   * 802.11
-   * Ad Hoc Networking
-   * **WiFi Frequences**
-     * 2.4GHz
-     * 5.0GHz
-   * **WiFi Security Basics** _(Shared Key)_
-     * WEP
-     * WPA1, WPA2
-     * TKIP vs. AES
-     * WPS
+* [[IPv4 vs IPv6]]
+* [[LAN vs. WAN vs. MAN]]
+* [[NAT vs. PAT]]
+* [[Power Over Ethernet _(PoE)_]]
+* **[[The OSI Model]]**
+ * [[Layer 1 - _Physical Layer_]]
+   * [[RJ45, Twisted Pairs]]
+   * [[Coaxial Cabling]]
+   * [[Fiber Optics]]
+     * [[Single Mode]]
+     * [[Multi-Mode]]
+ * [[Layer 2 - _Data-Link Layer_]]
+   * [[MAC Addresses]]
+   * [[FCS & CRC]]
+   * [[Switches & Hubs]]
+   * [[ARP]]
+   * [[DHCP]]
+ * [[Layer 3 - _Network Layer_]]
+   * [[IPv4 Addressing]]
+   * [[ICMP]]
+   * [[CIDR Notation]]
+   * [[Packets]]
+   * [[Subnet Masks]]
+   * [[Routers]]
+ * [[Layer 4 - _Transport Layer_]]
+   * [[TCP vs. UDP]]
+   * [[Segments]]
+   * [[Most Common Port Numbers]]:
+     * [[21]]
+     * [[22]]
+     * [[23]]
+     * [[25]]
+     * [[UDP 53]]
+     * [[80]]
+     * [[161 & 162]]
+     * [[389]]
+     * [[443]]
+     * [[445]]
+   * [[Layer 5 - _Session Layer_]]
+     * [[Sockets]]
+   * [[Layer 6 - _Presentation Layer_]]
+     * [[SSL - TLS _(Basic Understanding)_]]
+     * [[SSH]]
+   * [[Layer 7 - _Application Layer_]]
+     * [[DNS]]
+     * [[HTTP]]
+     * [[FTP]]
+ * **[[Email Technologies]]**
+   * [[Exchange Servers]]
+   * [[IMAP]]
+   * [[POP3]]
+   * [[SPF Records]]
+   * [[MX Records]]
+ * [[Domain Names]]
+ * **[[WiFi Essentials]]**
+   * [[Configuring Router's WiFi]]
+   * [[802.11]]
+   * [[Ad Hoc Networking]]
+   * **[[WiFi Frequences]]**
+     * [[2.4GHz]]
+     * [[5.0GHz]]
+   * [[WiFi Security Basics _(Shared Key)_]]
+     * [[WEP]]
+     * [[WPA1, WPA2]]
+     * [[TKIP vs. AES]]
+     * [[WPS]]
    
    
 ### Very Basic Security Fundamentals
