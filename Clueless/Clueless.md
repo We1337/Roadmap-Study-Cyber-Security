@@ -256,74 +256,74 @@ These are the skills you'll need to have to *break into the field*.  Acquiring t
 ## Tools
 
 ### IT Support Software
- * Computer Diagnositics & Repair
-   * Reviewing System Logs _(Windows)_
-     * Task Manager
-     * Resource Center
-     * Event Logs
-   * Malware Removal Tools
-     * Microsoft Defender
-     * MalwareBytes
-     * RogueKiller
-     * AdwCleaner
-     * JRT _(Junk Removal Tool)_
-   * Windows Recovery Tools
-     * chkdsk
-     * sfc /scannow
-     * DISM.exe
-     * Safemode
-     * System Restore
-     * Shadow Copy
-   * **Hardware Diagnostic Utilities**
-     * MemTest86
-     * HDtune
-     * Benchmarking Tools
- * **Network Troubleshooting**
-   * ipconfig
-   * ping
-   * tracert
-   * nslookup
-   * dig
-   * whois
-   * netstat
-   * Putty
-   * arp -a
-   * Speed Test
+ * [[Computer Diagnositics & Repair]]
+   * [[Reviewing System Logs _(Windows)_]]
+     * [[Task Manager]]
+     * [[Resource Center]]
+     * [[Event Logs]]
+   * [[Malware Removal Tools]]
+     * [[Microsoft Defender]]
+     * [[MalwareBytes]]
+     * [[RogueKiller]]
+     * [[AdwCleaner]]
+     * [[JRT _(Junk Removal Tool)_]]
+   * [[Windows Recovery Tools]]
+     * [[chkdsk]]
+     * [[sfc scannow]]
+     * [[DISM.exe]]
+     * [[Safemode]]
+     * [[System Restore]]
+     * [[Shadow Copy]]
+   * **[[Hardware Diagnostic Utilities]]**
+     * [[MemTest86]]
+     * [[HDtune]]
+     * [[Benchmarking Tools]]
+ * **[[Network Troubleshooting]]**
+   * [[ipconfig]]
+   * [[ping]]
+   * [[tracert]]
+   * [[nslookup]]
+   * [[dig]]
+   * [[whois]]
+   * [[netstat]]
+   * [[Putty]]
+   * [[arp -a]]
+   * [[Speed Test]]
   
 ### IT Support Equipment
- * **Basic Must-Have Equipment**
-   * Screwdrivers
-   * Portable Laptop
-   * Thermal Paste
-   * SATA Cables
-   * PSU Cable Converters
-     * Molex to 8-Pin PCIe
-     * Molex to SATA Power Adapter
-   * c13 Power Cords
-   * USB A-to-B Printer Cables
-   * USB Flash Drives
-   * External CD-Rom Drive
-   * USB-C Converter
-   * Universal Laptop Charger
-   * USB WiFi Dongle
-   * USB-to-Ethernet
-   * USB-to-SD
-   * USB-to-Bluetooth
-   * CMOS Batteries
-   * External Speakers _(Testing sound)_
-   * External Webcam
+ * **[[Basic Must-Have Equipment]]**
+   * [[Screwdrivers]]
+   * [[Portable Laptop]]
+   * [[Thermal Paste]]
+   * [[SATA Cables]]
+   * [[PSU Cable Converters]]
+     * [[Molex to 8-Pin PCIe]]
+     * [[Molex to SATA Power Adapter]]
+   * [[c13 Power Cords]]
+   * [[USB A-to-B Printer Cables]]
+   * [[USB Flash Drives]]
+   * [[External CD-Rom Drive]]
+   * [[USB-C Converter]]
+   * [[Universal Laptop Charger]]
+   * [[USB WiFi Dongle]]
+   * [[USB-to-Ethernet]]
+   * [[USB-to-SD]]
+   * [[USB-to-Bluetooth]]
+   * [[CMOS Batteries]]
+   * [[External Speakers _(Testing sound)_]]
+   * [[External Webcam]]
    
- * **Basic Networking Equipment**
-   * Out-of-Box Router _(for testing)_
-   * Box of Cat5e Cable
-   * Ethernet Cable Crimpers
-   * RJ45 Modular Plug Tester
-   * RJ45 Wire Tracer (Tone & Probe)
-   * Drywall Saw
-   * RJ45 Wall Jacks
-   * RJ45 Wall Mounts
+ * **[[Basic Networking Equipment]]**
+   * [[Out-of-Box Router _(for testing)_]]
+   * [[Box of Cat5e Cable]]
+   * [[Ethernet Cable Crimpers]]
+   * [[RJ45 Modular Plug Tester]]
+   * [[RJ45 Wire Tracer (Tone & Probe)]]
+   * [[Drywall Saw]]
+   * [[RJ45 Wall Jacks]]
+   * [[RJ45 Wall Mounts]]
 
 ### Recommended Certifications _(Entry Level)_
-* CompTIA A+
-* CompTIA Network+
-* CompTIA Security+
+* [[CompTIA A+]]
+* [[CompTIA Network+]]
+* [[CompTIA Security+]]
