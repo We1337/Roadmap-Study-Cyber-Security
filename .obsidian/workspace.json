@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f4c91365d1911b19",
+            "id": "9749892728fb4ee9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clueless/Clueless.md",
+                "file": "Newbie/Newbie.md",
                 "mode": "preview",
                 "source": true
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 387.5
+    "width": 387.5,
+    "collapsed": true
   },
   "right": {
     "id": "1544261877281083",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Clueless/Clueless.md",
+                "file": "Newbie/Newbie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Clueless/Clueless.md",
+                "file": "Newbie/Newbie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Clueless/Clueless.md"
+                "file": "Newbie/Newbie.md"
               }
             }
           }
@@ -146,34 +147,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f4c91365d1911b19",
+  "active": "9749892728fb4ee9",
   "lastOpenFiles": [
-    "Clueless/Clueless/CompTIA Security+.md",
-    "Clueless/Clueless/CompTIA Network+.md",
-    "Clueless/Clueless/CompTIA A+.md",
-    "Clueless/Clueless/RJ45 Wall Mounts.md",
-    "Clueless/Clueless/RJ45 Wall Jacks.md",
-    "Clueless/Clueless/Drywall Saw.md",
-    "Clueless/Clueless/RJ45 Wire Tracer (Tone & Probe).md",
-    "Clueless/Clueless/RJ45 Modular Plug Tester.md",
-    "Clueless/Clueless/Ethernet Cable Crimpers.md",
-    "Clueless/Clueless/Box of Cat5e Cable.md",
-    "Clueless/Clueless/Out-of-Box Router _(for testing)_.md",
-    "Clueless/Clueless/Basic Networking Equipment.md",
-    "Clueless/Clueless/External Webcam.md",
-    "Clueless/Clueless/External Speakers _(Testing sound)_.md",
-    "Clueless/Clueless/USB-to-Bluetooth.md",
-    "Clueless/Clueless/USB-to-SD.md",
-    "Clueless/Clueless/USB-to-Ethernet.md",
-    "Clueless/Clueless/USB WiFi Dongle.md",
-    "Clueless/Clueless/Universal Laptop Charger.md",
-    "Clueless/Clueless/USB-C Converter.md",
-    "Clueless/Clueless/External CD-Rom Drive.md",
-    "Clueless/Clueless/USB Flash Drives.md",
-    "Clueless/Clueless/USB A-to-B Printer Cables.md",
-    "Clueless/Clueless/c13 Power Cords.md",
-    "Clueless/Clueless/Molex to SATA Power Adapter.md",
-    "Clueless/Clueless/Molex to 8-Pin PCIe.md",
+    "Windows SysInternals.md",
+    "Newbie/Newbie.md",
+    "IAP Pro _($)_.md",
+    "WinDGB.md",
+    "OllyDBG.md",
+    "Windows-Based.md",
+    "objdump.md",
+    "ltrace.md",
+    "strace.md",
+    "strings.md",
+    "file.md",
+    "Hopper _($)_.md",
+    "Radare2.md",
+    "gdb.md",
+    "Linux-Based.md",
+    "Reverse Engineering Tools.md",
+    "naive-hashcat.md",
+    "aircrack-ng.md",
+    "airodump-ng.md",
+    "airmon-ng.md",
+    "WiFi Hacking Tools.md",
+    "John the Ripper.md",
+    "Password Cracking Tools.md",
+    "Hashcat.md",
+    "dnsrecon.md",
+    "dnsenum.md",
+    "Newbie",
     "Clueless/Clueless",
     "Clueless/Basic BIOS Configurations",
     "Cluless",
