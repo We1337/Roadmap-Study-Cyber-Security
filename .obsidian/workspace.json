@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Newbie/Newbie.md",
+                "file": "Clueless/Clueless/Enabling - Disabling Devices.md",
                 "mode": "preview",
                 "source": true
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Newbie/Newbie.md",
+                "file": "Clueless/Clueless/Enabling - Disabling Devices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Newbie/Newbie.md",
+                "file": "Clueless/Clueless/Enabling - Disabling Devices.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Newbie/Newbie.md"
+                "file": "Clueless/Clueless/Enabling - Disabling Devices.md"
               }
             }
           }
@@ -149,8 +149,12 @@
   },
   "active": "9749892728fb4ee9",
   "lastOpenFiles": [
-    "Windows SysInternals.md",
+    "Clueless/Clueless.md",
+    "Clueless/Clueless/Enabling - Disabling Devices.md",
+    "Clueless/Clueless/Boot Sequence.md",
+    "Clueless/Clueless/Basic BIOS Configurations.md",
     "Newbie/Newbie.md",
+    "Windows SysInternals.md",
     "IAP Pro _($)_.md",
     "WinDGB.md",
     "OllyDBG.md",
@@ -171,10 +175,6 @@
     "airmon-ng.md",
     "WiFi Hacking Tools.md",
     "John the Ripper.md",
-    "Password Cracking Tools.md",
-    "Hashcat.md",
-    "dnsrecon.md",
-    "dnsenum.md",
     "Newbie",
     "Clueless/Clueless",
     "Clueless/Basic BIOS Configurations",
